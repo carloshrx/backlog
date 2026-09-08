@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "s/saude-sae.md",
+                "file": "dailynote/2026-09-7º.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "saude-sae"
+              "title": "2026-09-7º"
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "s/saude-sae.md",
+                "file": "dailynote/2026-09-7º.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -213,6 +213,8 @@
   },
   "active": "b44ae18ba9843d43",
   "lastOpenFiles": [
+    "s/saude-sae.md",
+    "dailynote/2026-09-7º.md",
     "a/agenda26.md",
     "s/saude-prep.md",
     "dailynote/2026-09-6º.md",
@@ -237,8 +239,6 @@
     "dailynote/2026-03-12 Procrastinar.md",
     "dailynote/2025-10-xx Decaimento.md",
     "d/discord-profile.md",
-    "g/github-markdown.md",
-    "g/github-doc.md",
     "e/Sem título.canvas",
     "img",
     "resources-offlink/thinking-piramid.jpg",
@@ -262,7 +262,4 @@
     "x",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "T/template/template-newport/template-newport-v2.canvas",
-    "N/NewportTemplate.canvas"
-  ]
-}
+    "T/temp
