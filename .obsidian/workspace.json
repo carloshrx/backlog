@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-09-8º.md",
+                "file": "a/admin-condominio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-8º"
+              "title": "admin-condominio"
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-09-8º.md",
+                "file": "a/admin-condominio.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -212,10 +212,10 @@
   },
   "active": "b44ae18ba9843d43",
   "lastOpenFiles": [
-    "dailynote/2026-09-7º.md",
-    "dailynote/2026-09-8º.md",
-    "s/saude-sae.md",
     "a/agenda26.md",
+    "dailynote/2026-09-8º.md",
+    "dailynote/2026-09-7º.md",
+    "s/saude-sae.md",
     "s/saude-prep.md",
     "dailynote/2026-09-6º.md",
     "dailynote/2026-09-5º.md",
