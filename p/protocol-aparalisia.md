@@ -61,4 +61,7 @@ Sinto que apaguei tudo o que poderia ter apagado e a necessidade de incluir um l
 
 20260826 1839 ! (20260902) Consegui atualizar a nota diária com um modelo simples que precisa de copiar as atividades do dia anterior para completar as todas as entradas, o que força uma revisão. 
 
-# 20260802 Observação sobre o nível de abstração das entradas
+# 20260908 Decadencia
+
+O modelo apesar do primeiro impacto promissor entrou em curva decadente. Vou tentar protocolos paralelos que levem a reativação. Ainda desconheço o impacto de tais protocolos. De certo modo existe a necessidade de um pequeno ajuste no nível de abstração das entradas a fim de simplificar o racíocinio e terceirizar a camada de abstração para outro protocolo.
+

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p/protocol-aparalisia.md",
+                "file": "s/saude-dina-receitas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protocol-aparalisia"
+              "title": "saude-dina-receitas"
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "p/protocol-aparalisia.md",
+                "file": "s/saude-dina-receitas.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -213,8 +213,9 @@
   },
   "active": "b44ae18ba9843d43",
   "lastOpenFiles": [
-    "s/saude-dina-receitas.md",
     "a/agenda26.md",
+    "s/saude-dina-receitas.md",
+    "p/protocol-aparalisia.md",
     "dailynote/2026-09-9º.md",
     "a/admin-condominio.md",
     "dailynote/2026-09-8º.md",
@@ -238,7 +239,6 @@
     "dailynote/2026-06-18 Farever.md",
     "d/discord-alerts-callouts.md",
     "dailynote/2026-05-13 DiabloIV.md",
-    "p/procastinar-rascunho.md",
     "e/Sem título.canvas",
     "img",
     "resources-offlink/thinking-piramid.jpg",
