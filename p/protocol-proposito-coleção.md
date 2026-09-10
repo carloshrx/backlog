@@ -1,3 +1,5 @@
+# Núcleo
+
 Quais ações posso tomar para descobrir/definir meu proposito?
 
 1. Qual é o meu propósito de vida hoje?
@@ -15,3 +17,6 @@ b. O que voce faz?
 c. Para quem voce faz?
 d. O que essas pessoas querem, desejam ou precisam?
 e. como essas pessoas mudam com o resultado que voce produz?
+
+# Coleção de respostas
+
