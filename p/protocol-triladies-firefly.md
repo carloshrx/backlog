@@ -1,0 +1,2 @@
+> perda, falta e arrependimento.
+
