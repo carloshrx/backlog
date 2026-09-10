@@ -16,7 +16,7 @@
 <a href="https://www.dicio.com.br/">dicio</a>
 <a href="https://obsidian.rocks/dataview-in-obsidian-a-beginners-guide/">dataview obsidian rocks</a>
 
-<a href="https://github.com/carlos7z">github carlos7z</a>
+<a href="https://github.com/carlos7z">github carlos</a>
 <a href="https://gemini.google.com">gemini</a>
 <a href="http://google.com/">google</a>
 <a href="https://mail.google.com/mail/u/0/#inbox">google email</a>
