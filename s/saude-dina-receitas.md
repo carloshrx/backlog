@@ -11,6 +11,10 @@ Poderia escrever por gentileza uma receita de Donepezilla 10mg 30c. Se possível
 
 Desde já agradeço a atenção
 
+==Razapina==
+
+Mirtazapina 15mg 30c
+
 ==Traturil==
 
 Boa tarde Dr. Larissa

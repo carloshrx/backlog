@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "s/saude-prep.md",
+                "file": "s/saude-dina-receitas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "saude-prep"
+              "title": "saude-dina-receitas"
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "s/saude-prep.md",
+                "file": "s/saude-dina-receitas.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -207,12 +207,15 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "b44ae18ba9843d43",
   "lastOpenFiles": [
     "a/agenda26.md",
+    "dailynote/2026-09-10º.md",
+    "s/saude-prep.md",
     "s/saude-dina-receitas.md",
     "p/protocol-aparalisia.md",
     "dailynote/2026-09-9º.md",
@@ -220,7 +223,6 @@
     "dailynote/2026-09-8º.md",
     "dailynote/2026-09-7º.md",
     "s/saude-sae.md",
-    "s/saude-prep.md",
     "dailynote/2026-09-6º.md",
     "dailynote/2026-09-5º.md",
     "dailynote/2026-09-4º.md",
@@ -237,7 +239,6 @@
     "d/diario-esquecido-fragmentos.md",
     "dailynote/2026-06-18 Farever.md",
     "d/discord-alerts-callouts.md",
-    "dailynote/2026-05-13 DiabloIV.md",
     "e/Sem título.canvas",
     "img",
     "resources-offlink/thinking-piramid.jpg",
