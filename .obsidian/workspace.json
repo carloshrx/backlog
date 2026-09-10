@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p/protocol-proposito-coleção.md",
+                "file": "b/bookmarks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protocol-proposito-coleção"
+              "title": "bookmarks"
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "p/protocol-proposito-coleção.md",
+                "file": "b/bookmarks.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -213,8 +213,8 @@
   },
   "active": "b44ae18ba9843d43",
   "lastOpenFiles": [
-    "p/protocol-triladies-firefly.md",
     "p/protocol-proposito-coleção.md",
+    "p/protocol-triladies-firefly.md",
     "s/saude-dina-receitas.md",
     "a/agenda26.md",
     "dailynote/2026-09-10º.md",

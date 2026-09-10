@@ -13,7 +13,7 @@
 
 <a href="https://convertcase.net/">convertcase lowercase uppercase</a>
 
-<a href="http://dicio.com.br/">dicio priberam</a>
+<a href="https://www.dicio.com.br/">dicio</a>
 <a href="https://obsidian.rocks/dataview-in-obsidian-a-beginners-guide/">dataview obsidian rocks</a>
 
 <a href="https://github.com/carlos7z">github carlos7z</a>
