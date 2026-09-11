@@ -5,6 +5,7 @@ cpf, A@PC060
 # 2026
 
 8 de Sembro;
+pago em 08/09 18h15
 8 de Outubro;
 8 de Novembro;
 8 de Dezembro;
