@@ -24,7 +24,7 @@ e. como essas pessoas mudam com o resultado que voce produz?
 
 # Coleção de respostas
 
-# 20260910 Mansão dos esqueletos (1)
+## 20260910 Mansão dos esqueletos (1)
 
 Vou relacionar as definições de proposito para não me perder no todo: sinonimos de proposito: plano, intuição, desígnio, finalidade, intenção, algo, aplicação, destinação, destino, efeito, escopo, expectativa, fito, intento. Antonimos de proposito: desproposito, descomedimento, absurdo, desatino, imprudencia.
 
@@ -52,5 +52,5 @@ Significado de proposito:
 
 (IV) Abraçar a minúscula esperança de mudança que existe em mim.
 
-# 20260911 Moeda Infernal
+## 20260911 Moeda Infernal
 
