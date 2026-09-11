@@ -1,10 +1,6 @@
 ---
 created: 2025-01-20
 tags:
-  - "#obsidian/guide"
-  - "#obsidian/plugins"
-  - "#youtube/profile/vladimircampos"
-  - "#pkm"
 ---
 Maratona Obsidian 
 https://www.youtube.com/watch?v=BgzRGat8WfE&list=PL-dDA0NKbGQQwqx-Rl9AQSrCeb3ekr4fX
