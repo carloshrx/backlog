@@ -20,3 +20,4 @@ e. como essas pessoas mudam com o resultado que voce produz?
 
 # Coleção de respostas
 
+# 20260910 Mansão dos esqueletos

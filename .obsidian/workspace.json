@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-09-11º.md",
+                "file": "p/protocol-proposito-coleção.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-11º"
+              "title": "protocol-proposito-coleção"
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-09-11º.md",
+                "file": "p/protocol-proposito-coleção.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -207,23 +207,25 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "b44ae18ba9843d43",
   "lastOpenFiles": [
+    "p/protocol-aparalisia.md",
+    "p/protocol-agenda26.md",
+    "p/protocol-triladies-firefly.md",
+    "p/protocol-proposito-coleção.md",
+    "dailynote/2026-09-11º.md",
     "a/admin-condominio.md",
     "a/agenda26.md",
     "a/admin-net.md",
-    "dailynote/2026-09-11º.md",
     "s/saude-prep.md",
     "b/bookmarks.md",
     "f/farever.md",
-    "p/protocol-proposito-coleção.md",
-    "p/protocol-triladies-firefly.md",
     "s/saude-dina-receitas.md",
     "dailynote/2026-09-10º.md",
-    "p/protocol-aparalisia.md",
     "dailynote/2026-09-9º.md",
     "dailynote/2026-09-8º.md",
     "dailynote/2026-09-7º.md",
@@ -237,7 +239,6 @@
     "dailynote/2026-09-2º.md",
     "dailynote/2026-09-1º.md",
     "dailynote/2026-08-31º.md",
-    "dailynote/2026-08-30º.md",
     "e/Sem título.canvas",
     "img",
     "resources-offlink/thinking-piramid.jpg",
