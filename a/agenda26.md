@@ -101,7 +101,7 @@ AGO 31 SEG
 
 13 DOM
 14 SEG
-15 TER
+==15 TER==
 - [inss](/i/inss.md)
 16 QUA
 17 QUI
