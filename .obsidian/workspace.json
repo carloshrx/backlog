@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a/agenda26.md",
+                "file": "s/saude-sae.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "agenda26"
+              "title": "saude-sae"
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a/agenda26.md",
+                "file": "s/saude-sae.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -213,8 +213,8 @@
   },
   "active": "b44ae18ba9843d43",
   "lastOpenFiles": [
-    "s/saude-sae.md",
     "a/agenda26.md",
+    "s/saude-sae.md",
     "a/admin-balanço.md",
     "i/inss.md",
     "dailynote/2026-09-15º.md",

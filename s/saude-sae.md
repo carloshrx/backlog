@@ -1,9 +1,9 @@
 # SAE
 
 (benzetacil)
-040926 - Consulta com Dr. Francisco 8h00 para verificar carga/cd4
+- [ ] 040926 - Consulta com Dr. Francisco 8h00 para verificar carga/cd4
 - 1072 cp/ml cd4 / indetectavel
-071226 - Realizar exame de vdlr quantitativo e enviar para o SAE
+- [ ] 071226 - Realizar exame de vdlr quantitativo e enviar para o SAE
 # Extraglandial
 
 ## 2026-03-08th Dermatite I
