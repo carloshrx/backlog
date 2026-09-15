@@ -5,6 +5,8 @@ https://sal.rfb.gov.br/calculo-contribuicao/contribuintes-2
 NIS
 20320779461
 
+Salario 1621
+
 codigo 1163
 
 consultar extrato de contribuições
