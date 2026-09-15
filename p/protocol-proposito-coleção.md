@@ -54,3 +54,7 @@ Significado de proposito:
 
 ## 20260911 Moeda Infernal
 
+Vamos pensar que a cada falha, a cada tropeço, a cada escrutinio, a cada decisão que leva a desolação e fracasso, um clima infernal de tortura se instala e uma moeda, vamos chamar de moeda infernal, é criada para representar aquele traumatico negativo-tecelante infortunio. A moeda então que representa todo o torpor negativo seria gasta quando uma situação espelho-contraria, le-se aqui, construção positiva, prova-se que seria possível alcançar a redenção por meio do esforço inabalavel imbuído de proposito.
+
+Exemplo: auto denominado sem recurso intelectual
+
