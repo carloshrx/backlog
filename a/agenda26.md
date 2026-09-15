@@ -104,6 +104,7 @@ AGO 31 SEG
 ==15 TER==
 - [inss](/i/inss.md)
 16 QUA
+- consultar preço ex-sae vldrqta
 17 QUI
 18 SEX
 19 SAB
@@ -278,6 +279,7 @@ NOV 30 SEG
 6 DOM
 7 SEG
 - [admin-mercantil](admin-mercantil.md)
+- exame [saude-sae](/s/saude-sae.md)
 8 TER
 - [admin-condominio](/a/admin-condominio.md)
 9 QUA
