@@ -9,5 +9,8 @@
 | 02/09 |                 |   29,99   |   1118,69   |              Oldspice madeira              |
 | 02/09 |                 |   28,99   |   1089,7    |             Carmed Açai (6/10)             |
 | 02/09 |                 |   27,99   |   1060,96   |                suporte moto                |
-| 04/09 |                 |   25,00   |             |                viagem Patos                |
-|       |                 |           |             |                                            |
+| 04/09 |                 |    25     |             |             viagem Patos (ida)             |
+| 04/09 |                 |   12,30   |             |                  99 Patos                  |
+| 04/09 |                 |   12,10   |             |                  99 Patos                  |
+| 04/09 |                 |    31     |             |            viagem Patos (volta)            |
+| 04/09 |                 |           |             |                                            |
