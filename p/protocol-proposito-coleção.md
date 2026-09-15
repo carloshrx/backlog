@@ -56,5 +56,23 @@ Significado de proposito:
 
 Vamos pensar que a cada falha, a cada tropeço, a cada escrutinio, a cada decisão que leva a desolação e fracasso, um clima infernal de tortura se instala e uma moeda, vamos chamar de moeda infernal, é criada para representar aquele traumatico negativo-tecelante infortunio. A moeda então que representa todo o torpor negativo seria gasta quando uma situação espelho-contraria, le-se aqui, construção positiva, prova-se que seria possível alcançar a redenção por meio do esforço inabalavel imbuído de proposito.
 
-Exemplo: auto denominado sem recurso intelectual
+Exemplo: auto denominado sem recurso intelectual suficiente para resolver um desafio para uma vaga -> reconhecer que foi capaz de entender e resolver o desafio e chegar até o final com a entrada, processamento e saída dentro do escopo do problema.
 
+Exemplo II: passar por escrutínio público na academia (ensino superior) por apresentar resultados medíocres e ser compáravel a "alguém que não deveria ocupar aquele lugar" com o parametro de argumento usando o termo "lixo" -> para uma situação onde existe o reconhecimento e parabenização de acordo. Reconhecimento das diferenças e pontuação das qualidades.
+
+Qual deveria ser o meu proposito aqui então? Identificar todos os monstros que me cercam e uma a um entregar a moeda que lhe cabe.
+
+---
+
+a.) Quem é você? Alguém que não esta satisfeito em ser o que é. Alguem perdido e sem perspectiva, mas que apesar de toda desolação que lhe ocorreu ainda tenta, do seu jeito, encontrar um novo caminho para me tornar alguem que eu gostaria de ser, alguem melhor.
+
+b.) O que voce faz? Dia após dia postergo o meu futuro em um oceano de lamentações, sono e procrastinação. Busco por migalhas de iluminação e raramente estou estudando ou empenhado na prática de um projeto. Viciado em habitar espaços online de jogos, onde me desconecto, jogo minha realidade para um segundo plano e assim sigo empilhando horas desperdiçadas em uma pilha gigantesca de fracassos.
+
+c.) Para quem você faz? Eu, faço, para mim mesmo, o destino desolado do deserviço. Faço para mim aquilo que não deveria. Faço para mim mesmo jogar horas ao vão, desperdiçar dias, horas produtivas, em grandes sabatinas que não levam a lugar nenhum.
+
+d.) O que essas pessoas querem, desejam ou precisam? Das poucas que me propus ajudar, elas só precisam de uma informação X sobre o jogo ou de companhia para completar uma missão no jogo, e assim juntos, queimamos a vida enrolada em um beck cibernetico. Sobre mim, eu preciço de mudanças que me levem para fora deste ciclo de desolação e atraso.
+
+e.) Como essas pessoas mudam com o resultado que voce produz? Gostaria, com todo coração de chegar na parte em que produzo resultados.
+
+# 20260915 
+ 
