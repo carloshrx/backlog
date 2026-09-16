@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "s/saude-prep.md",
+                "file": "dailynote/2026-09-16º.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "saude-prep"
+              "title": "2026-09-16º"
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "s/saude-prep.md",
+                "file": "dailynote/2026-09-16º.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -213,6 +213,8 @@
   },
   "active": "b44ae18ba9843d43",
   "lastOpenFiles": [
+    "s/saude-prep.md",
+    "dailynote/2026-09-16º.md",
     "a/agenda26.md",
     "f/farever.md",
     "p/protocol-proposito-coleção.md",
@@ -231,14 +233,12 @@
     "dailynote/2026-09-11º.md",
     "a/admin-condominio.md",
     "a/admin-net.md",
-    "s/saude-prep.md",
     "b/bookmarks.md",
     "s/saude-dina-receitas.md",
     "dailynote/2026-09-10º.md",
     "dailynote/2026-09-9º.md",
     "dailynote/2026-09-8º.md",
     "dailynote/2026-09-7º.md",
-    "dailynote/2026-09-6º.md",
     "e/Sem título.canvas",
     "img",
     "resources-offlink/thinking-piramid.jpg",
