@@ -105,7 +105,8 @@ AGO 31 SEG
 - [inss](/i/inss.md)
 16 QUA
 17 QUI
-- trocar receita memantina
+- busca receita donepezilla
+- 13h trocar receita memantina (verificar quantos comprimidos tem a caixa)
 18 SEX
 19 SAB
 - [admin-ape](/a/admin-ape.md)
