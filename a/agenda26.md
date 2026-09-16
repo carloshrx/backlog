@@ -104,8 +104,8 @@ AGO 31 SEG
 ==15 TER==
 - [inss](/i/inss.md)
 16 QUA
-- consultar preço ex-sae vldrqta
 17 QUI
+- trocar receita memantina
 18 SEX
 19 SAB
 - [admin-ape](/a/admin-ape.md)
@@ -253,7 +253,8 @@ ___
 24 TER
 25 QUA
 26 QUI
-27 SEX
+27 SEX 
+- consultar preço ex-sae vldrqta
 28 SAB
 - [admin-balanço](/a/admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
