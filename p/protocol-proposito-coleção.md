@@ -74,5 +74,7 @@ d.) O que essas pessoas querem, desejam ou precisam? Das poucas que me propus aj
 
 e.) Como essas pessoas mudam com o resultado que voce produz? Gostaria, com todo coração de chegar na parte em que produzo resultados.
 
-# 20260915 
+# 20260916 Pilares por Mabel C. Dias (transcrição)
+
+
  
