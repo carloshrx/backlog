@@ -24,7 +24,7 @@ e. como essas pessoas mudam com o resultado que voce produz?
 
 # Coleção de respostas
 
-## 20260910 Mansão dos esqueletos (1)
+## 20260910 Mansão dos esqueletos (I)
 
 Vou relacionar as definições de proposito para não me perder no todo: sinonimos de proposito: plano, intuição, desígnio, finalidade, intenção, algo, aplicação, destinação, destino, efeito, escopo, expectativa, fito, intento. Antonimos de proposito: desproposito, descomedimento, absurdo, desatino, imprudencia.
 
@@ -52,7 +52,7 @@ Significado de proposito:
 
 (IV) Abraçar a minúscula esperança de mudança que existe em mim.
 
-## 20260911 Moeda Infernal
+## 20260911 Moeda Infernal (II)
 
 Vamos pensar que a cada falha, a cada tropeço, a cada escrutinio, a cada decisão que leva a desolação e fracasso, um clima infernal de tortura se instala e uma moeda, vamos chamar de moeda infernal, é criada para representar aquele traumatico negativo-tecelante infortunio. A moeda então que representa todo o torpor negativo seria gasta quando uma situação espelho-contraria, le-se aqui, construção positiva, prova-se que seria possível alcançar a redenção por meio do esforço inabalavel imbuído de proposito.
 
@@ -74,7 +74,10 @@ d.) O que essas pessoas querem, desejam ou precisam? Das poucas que me propus aj
 
 e.) Como essas pessoas mudam com o resultado que voce produz? Gostaria, com todo coração de chegar na parte em que produzo resultados.
 
-# 20260916 Pilares por Mabel C. Dias (transcrição)
+# 20260916 4 Pilares por Mabel C. Dias (transcrição) (max)
 
+A tese central da ideia é se voce quer ter resultados na vida voce precisa trabalhar mais em si mesmo do que no seu trabalho. O sucesso não é algo que se persegue, atinge e fim. O sucesso é um estado de consciência. Sim, um estado de consciencia. E esse estado de consciencia se atinge mudando a qualidade da sua vibração pessoal. 
+
+A vibração pessoal nada mais é do que a soma de quatro pilares: crenças (c), emoções (e), comunicação (c) e ações (a). Crenças são aquilo que voce acredita, as suas emoções são a forma como voce se sente em relação as coisas, a sua comunicação é como se fala não só com os outros mas consigo mesmo e as suas ações são o que voce faz no mundo, como voce age, qual o seu comportamento
 
  
