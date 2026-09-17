@@ -104,7 +104,9 @@ Por exemplo o medo te encolhe, te paralisa. É a mesma coisa que colocar um comb
 
 O terceiro pilar da sua vibração é a Comunicação. Se a crença são os óculos com que voce enxerga o mundo e a emoção a emanação que voce transmite, a comunicação é a ponte. É por onde tudo que esta dentro de voce atravessa para o lado de fora. E mais importante ainda, é por onde voce fala consigo mesmo aí dentro de voce o tempo todo. Comunicação não é só o que voce fala para os outros. Antes disso, o dia inteiro voce esta conversando com seus botões ali, ta ou não ta? Vamos começar pela comunicação interna, que é a mais poderosa e a mais díficil de enxergar.
 
-Se voce parar um pouco e olhar para a sua propria mente, pros seus proprios pensamentos, vai perceber que a sua mente vive narrando a sua vida. 
+Se voce parar um pouco e olhar para a sua propria mente, pros seus proprios pensamentos, vai perceber que a sua mente vive narrando a sua vida. O tempo todo tem uma voz ali reagindo aos acontecimentos externos. Ai, eu não consigo. Ai, de novo, isso não. Ai, eu sou assim mesmo. Ah, vai dar errado. Ou então o contrário, ne? Eu dou conta, ha isso eu resolvo. Tudo bem eu errei, mas eu aprendi. Reparece que essa narração nunca é neutra.
+
+Ela sempre esta pintada pelas suas crenças e pelas suas emoções. E quanto mais voce alimenta essa comunicação interna, ou seja, quanto mais voce dá anteção a ela, mais ela cresce na direção em que está hoje. As palavras que voce usa consigo mesmo vão alimentar suas crenças e também vão disparar suas emoções. Quando voce diz para si mesmo "Que fracasso! Nunca acerto nada". Voce não esta só descrevendo neutramente um erro. Voce esta reforçando a crença e aprofundando a emoção nisso. A palavra que voce diz para si mesmo vira o mundo que voce habita. Vamos ao exemplo com os dois personagens que fica bem facil de entender. E 
 
 
  
