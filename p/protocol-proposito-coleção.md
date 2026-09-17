@@ -78,6 +78,8 @@ e.) Como essas pessoas mudam com o resultado que voce produz? Gostaria, com todo
 
 A tese central da ideia é se voce quer ter resultados na vida voce precisa trabalhar mais em si mesmo do que no seu trabalho. O sucesso não é algo que se persegue, atinge e fim. O sucesso é um estado de consciência. Sim, um estado de consciencia. E esse estado de consciencia se atinge mudando a qualidade da sua vibração pessoal. 
 
-A vibração pessoal nada mais é do que a soma de quatro pilares: crenças (c), emoções (e), comunicação (c) e ações (a). Crenças são aquilo que voce acredita, as suas emoções são a forma como voce se sente em relação as coisas, a sua comunicação é como se fala não só com os outros mas consigo mesmo e as suas ações são o que voce faz no mundo, como voce age, qual o seu comportamento
+A vibração pessoal nada mais é do que a soma de quatro pilares: crenças (c), emoções (e), comunicação (c) e ações (a). Crenças são aquilo que voce acredita, as suas emoções são a forma como voce se sente em relação as coisas, a sua comunicação é como se fala não só com os outros mas consigo mesmo e as suas ações são o que voce faz no mundo, como voce age, qual o seu comportamento.
+
+Cada um desses pilares vibra diferentemente 
 
  
