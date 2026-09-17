@@ -134,7 +134,21 @@ Sempre falta um detalhe, sempre tem um motivo para esperar mais um mes. E como e
 
 Já a Marina sente o mesmissimo medo porque agira dá aquele frio na barriga, medo não some, ele vem junto, mas ela faz diferente. Ela age antes de se sentir 100% segura porque ela entende que no fim das contas ninguem nunca está 100% pronto. Ela começa pequeno, faz a primeira venda ainda amadora, ela erra, depois ajusta, faz de novo. Ela não age porque ela tem certeza. Ela age e a certeza vai se construindo no caminho dela. Cada passo dado gera uma informação real para ela, um resultado leal, e no fim um aprendizado que nenhum curso ia dar para ela. É assim que tijolo por tijolo o negocio dela sai da cabeça e vira algo que existe realmente no mundo. Esse é o poder da ação. Era o mesmo sonho, a mesma vontade, o mesmo preparo. O que separou os dois não foi quem sabia mais, foi quem fez.
 
-Um ficou esperando 
+Um ficou esperando as condições perfeitas para agir e a outra criou as condições agindo. E é engraçado porque quase todo mundo aprende isso ao contrario ne? A gente cresce achando que primeiro vem a certeza, depois a ação. Que voce age quando estiver seguro, motivado, pronto. Mas na prática funciona ao contrário. A ação é que gera a segurança. A coragem não vem antes do passo. Ela vem depois. Você não age porque perdeu o medo. Você age com medo. E o agir vai encolhendo o medo. Quem espera se sentir pronto para começar quase nunca começa. Isso aqui é verdade. Porque o pronto é um destino que não existe. Ação gera clareza. E a clareza gera mais ação. É como os outros pilares, a ação também se alimenta sozinha e talvez seja a que a mais se alimenta viu? Cada passo que a Marina dá gera um resultado.
+
+E cada resultado, mesmo que pequeno, mesmo um errinho corrigido, aumenta a confiança dela para dar um próximo passo maior. Assim como cada mes que o Rodrigo não age, aumenta a inercia, o peso para sair do lugar fica maior e a paralisia vira um hábito, que se defende sozinho.
+
+A ação gera movimento e o movimento gera mais ação enquanto a paralisia gera estagnação e a estagnação gera mais paralisia. Corpo parado tende a ficar parado. Corpo em movimento tende a seguir em movimento. Denovo voce vai construíndo a sua propria realidade so que agora da forma mais direta de todas por o que suas mãos efetivamente fazem. Esse é o quarto pilar da sua vibração. E a beleza dele é que a ação é o pilar mais imediato de todos. O único que você consegue mudar agora, nos próximos 5 minutos, sem depender de sentir nada diferente. 
+
+Primeiro, você não precisa esperar a crença estar perfeita, nem a emoção estar elevada para você dar um passo porque muitas vezes é a ação quem destrava os outros três pilares.
+
+Um segredo prático. Procure encolher o tamanho do passo que voce vai dar ate que ele fique pequeno demais para te dar medo. Por exemplo, ao inves de montar uma empresa, você pode decidir o nome da empresa. Decidir o nome é um passo bem pequeno. Você pode fazer agora em 5 minutos. Amanhã voce desmembra o próximo passo e assim por diante.
+
+Ao inves de, ah, preciso ficar em forma, você quebra a ação: calça o tenis agora e faz 10 minutos de caminhada na rua, entende? A ação minuscula fura a paralisia. E uma vez em movimento voce já não é mais a mesma pessoa para de 5 minutos atras.
+
+Então nos vimos que o sucesso é um estado de ser, de consciencia. Um estado vibracional e que a sua vibração é a soma dos quatro pilares crenças, emoções, comunicação e ações.
+
+Agora repare como eles não são quatro coisas soltas. São quatro engrenagens do mesmo motor: a crença filtra o que voce vê. A emoção é a energia que voce emite. A comunicação é a ponte por onde isso passa. E a ação é onde tudo vira realidade e cada uma alimenta a outra num ciclo que
 
 
  
