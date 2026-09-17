@@ -80,6 +80,10 @@ A tese central da ideia é se voce quer ter resultados na vida voce precisa trab
 
 A vibração pessoal nada mais é do que a soma de quatro pilares: crenças (c), emoções (e), comunicação (c) e ações (a). Crenças são aquilo que voce acredita, as suas emoções são a forma como voce se sente em relação as coisas, a sua comunicação é como se fala não só com os outros mas consigo mesmo e as suas ações são o que voce faz no mundo, como voce age, qual o seu comportamento.
 
-Cada um desses pilares vibra diferentemente 
+Cada um desses pilares vibra diferentemente em cada pessoa e ao longo dos dias, dos meses, dos anos. `Então se uma pessoa não tem sucesso na vida é porque tem um problema em uma dessas quatro areas.` Vamos olhar para cada uma delas.
 
+Crenças. As suas crenças são os óculos com o que voce enxerga o mundo, a realidade, aquilo que te acontece no dia a dia. Elas são o filtro interno. `Através das crenças a sua mente vai filtrar absolutamente tudo que acontece ao redor.` 
+
+Vou te dar um exemplo. Imagine duas pessoas 
+completamente diferentes. Vou chamar de Caio e Camila. Ambos recebem do seu chefe a notícia de que a empresa vai mudar de cidade e que eles precisarão se mudar também. Veja que é uma situação identica. Cidade nova, ninguem conhecido, começar tudo do zero. O Caio fica muito resistente a mudança e depois de se mudar passa dias olhando pela janela do apartamento vazio pensando "Eu não me dou bem com estranhos. Eu tenho dificuldade de fazer amizade"
  
