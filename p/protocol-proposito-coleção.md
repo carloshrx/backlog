@@ -148,7 +148,15 @@ Ao inves de, ah, preciso ficar em forma, você quebra a ação: calça o tenis a
 
 Então nos vimos que o sucesso é um estado de ser, de consciencia. Um estado vibracional e que a sua vibração é a soma dos quatro pilares crenças, emoções, comunicação e ações.
 
-Agora repare como eles não são quatro coisas soltas. São quatro engrenagens do mesmo motor: a crença filtra o que voce vê. A emoção é a energia que voce emite. A comunicação é a ponte por onde isso passa. E a ação é onde tudo vira realidade e cada uma alimenta a outra num ciclo que
+Agora repare como eles não são quatro coisas soltas. São quatro engrenagens do mesmo motor: a crença filtra o que voce vê. A emoção é a energia que voce emite. A comunicação é a ponte por onde isso passa. E a ação é onde tudo vira realidade e cada uma alimenta a outra num ciclo que roda o dia inteiro para cima ou para baixo. É por isso que não adianta mecher só em um dos pilares. A pessoa que muda a crença mas não age trava. A que age mas se comunica mal por dentro se afunda. A que tem tudo alinhado por dentro mas emite medo, afasta as oportunidades. A sua vibração é a soma dos quatro pilares do C.E.C.A. girando juntos. E a boa noticia é que por qualquer uma delas voce pode começar a girar o ciclo inteiro pro lado certo ainda hoje.
+
+E a grande recomendação é: sucesso não é algo que se persegue é um estado de consciencia que voce acessa. E isso propoe uma mudança de visão enorme. Ao inves de se perguntar o que eu estou ganhando aqui comece a se perguntar o que eu estou me tornando aqui.
+
+Segundo Jim Rome, quem me inspirou a gravar esse vídeo, a felicidade verdadeira não está só naquilo que você adquire, mas no que voce se torna. Por isso o esforço muda de lugar. Em vez de trabalhar duro apenas no emprego, o trabalho pesado precisa ser feito em si mesmo.
+
+Voce precisa se lapidar. E o trabalho na verdade não precisa ser pesado, ta? Como eu disse você só precisa de uma microação que vai ser o ponto de virada da sua vida.
+
+A pergunta que fica aqui é: qual vai ser a sua microação hoje?
 
 
  
