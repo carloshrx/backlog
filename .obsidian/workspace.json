@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/template-dailynote.md",
+                "file": "p/pkmn-champions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "template-dailynote"
+              "title": "pkmn-champions"
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/template-dailynote.md",
+                "file": "p/pkmn-champions.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -213,6 +213,8 @@
   },
   "active": "b44ae18ba9843d43",
   "lastOpenFiles": [
+    "templates/template-dailynote.md",
+    "p/pkmn-champions.md",
     "dailynote/2026-09-18º.md",
     "p/protocol-proposito-coleção.md",
     "s/saude-sae.md",
@@ -237,8 +239,6 @@
     "dailynote/2026-09-11º.md",
     "a/admin-condominio.md",
     "a/admin-net.md",
-    "b/bookmarks.md",
-    "dailynote/2026-09-10º.md",
     "e/Sem título.canvas",
     "img",
     "resources-offlink/thinking-piramid.jpg",
