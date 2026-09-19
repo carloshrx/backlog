@@ -1,5 +1,7 @@
 # Solo
 
 dragonite roost/dragon danse/dragon claw/fire punch
+arcanine life orb/ 
+dragonite silk scarf 
 
 # Duo
