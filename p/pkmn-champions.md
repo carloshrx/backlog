@@ -17,3 +17,8 @@ vermelho em cima
 full branco em baixo
 
 raichu com substitute
+
+hipopotamo amarelo
+slack off
+whirlwind
+earthquake
