@@ -29,6 +29,8 @@ https://www.smogon.com/dex/champions/pokemon/tyranitar/
 
 https://www.smogon.com/dex/champions/pokemon/samurott-hisui/
 
+https://www.smogon.com/dex/champions/pokemon/dragonite/
+
 
 mega staraptor
 
