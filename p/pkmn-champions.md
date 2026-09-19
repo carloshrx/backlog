@@ -5,3 +5,5 @@ arcanine life orb/
 dragonite silk scarf 
 
 # Duo
+temper flare
+power whip
