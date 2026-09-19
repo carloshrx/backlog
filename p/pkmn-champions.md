@@ -27,5 +27,8 @@ earthquake
 https://www.smogon.com/dex/champions/pokemon/tyranitar/
 
 
+https://www.smogon.com/dex/champions/pokemon/samurott-hisui/
+
+
 mega staraptor
 
