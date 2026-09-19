@@ -22,3 +22,8 @@ hipopotamo amarelo
 slack off
 whirlwind
 earthquake
+
+
+https://www.smogon.com/dex/champions/pokemon/tyranitar/
+
+
