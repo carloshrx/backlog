@@ -12,3 +12,8 @@ roost?
 ---
 
 Pelliper weatherball + swampert
+
+vermelho em cima
+full branco em baixo
+
+raichu com substitute
