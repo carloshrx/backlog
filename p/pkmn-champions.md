@@ -7,3 +7,5 @@ dragonite silk scarf
 # Duo
 temper flare
 power whip
+ice fang
+roost?
