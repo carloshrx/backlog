@@ -9,3 +9,6 @@ temper flare
 power whip
 ice fang
 roost?
+---
+
+Pelliper weatherball + swampert
