@@ -27,3 +27,5 @@ earthquake
 https://www.smogon.com/dex/champions/pokemon/tyranitar/
 
 
+mega staraptor
+
