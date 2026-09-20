@@ -1,4 +1,4 @@
-vgc team
+vgc team (fire) > charizard-y firafarig 
 1-1-0-1-0/1-0-0-1-1 - 60% winrate
 
 
