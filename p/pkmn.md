@@ -1,5 +1,8 @@
-vgc team (fire) > charizard-y firafarig 
+vgc team (fire) > charizard-y firafarig incineroar < rillaboom > milotic vaporeon raichu Y
+decida com base no numero de vantagens
 1-1-0-1-0/1-0-0-1-1 - 60% winrate
+
+estrategia dupla
 
 
 Sneasler with focus sash
