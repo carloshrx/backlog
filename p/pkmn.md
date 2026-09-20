@@ -19,3 +19,19 @@ psychic
 trick room
 protect
 grass knot
+
+---
+
+Rillaboom adamant / attack up sp. attack down / hold miracle seed
+ability: grassy surge 
+wood hammer
+grassy glide
+fake out
+high horsepower
+
+Sneasler jolly / speed up sp.atk down / hold focus sash
+ability: poison touch
+poison jab
+close combat
+fake out
+quick guard
