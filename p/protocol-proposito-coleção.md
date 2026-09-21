@@ -196,3 +196,13 @@ Não acreditando em mim ou me qualificando como um "jogador velho e jovem desemp
 
 Com a ajuda do chat gpt consegui encontrar uma coleção interessante de proposição. Em particular, algumas, me chamam a atenção enquanto outras quase chegam na neutralidade. Primeiro sobre uma nova coleção de perguntas que podem fazer parte de um novo modelo com orientação distinta com melhor adaptação ao meu contexto atual.
 
+- Que tipo de vida me faria pensar “eu queria ter vivido assim”?
+- O que eu gostaria de sentir mais vezes?
+- Que tipo de experiência parece valer a pena existir?
+- O que eu gostaria de encontrar no mundo?
+- O que eu gostaria de poder dizer que fiz, mesmo que ninguém soubesse?
+- O que, quando vejo outra pessoa fazendo, desperta em mim alguma coisa?
+- Que ideia de futuro produz sequer 1% de calor em vez de indiferença?
+
+
+
