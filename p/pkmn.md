@@ -73,3 +73,11 @@ Archeludon
 | Sneasel           | -1  | or iron ball hold -> fling (ability unburden) |
 | Archaludon        |     |                                               |
 | pelliper/politoed |     |                                               |
+
+setups
+Mega golisopod + farigiraf / pelliper + archeludon
+Mega golisopod + snealer / pelliper + acheludon
+Mega golisopod + pelliper / archeludon + farigiraf
+
+charizard-y + farigiraf / pelliper + archeludon
+charizard-y (hurricane) + pelliper / archeludon + snealer
