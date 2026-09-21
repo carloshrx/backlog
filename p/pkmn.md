@@ -66,9 +66,10 @@ Pelipper/Politoed
 Archeludon
 
 
-| Charizard-y | -1  |
-| ----------- | --- |
-| Farigiraf   | +1  |
-| Golisopod   | +1  |
-| Sneasel     | -1  |
-|             |     |
+| Charizard-y       | -1  |                                               |
+| ----------------- | --- | --------------------------------------------- |
+| Farigiraf         | +1  |                                               |
+| Golisopod         | +1  |                                               |
+| Sneasel           | -1  | or iron ball hold -> fling (ability unburden) |
+| Archaludon        |     |                                               |
+| pelliper/politoed |     |                                               |
