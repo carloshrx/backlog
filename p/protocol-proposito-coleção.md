@@ -165,3 +165,15 @@ Ainda que eu insista em coletar respostas que incitem o encontro de proposito, f
 Um ponto brilhante cercado de um espaço denso, vazio e escuro. Em volta varios pontos brilhantes. Se eu conseguisse estudar com a mesma facilidade que tenho para escrever, no fundo, talvez estaria tudo bem. Se eu preciso contemplar o vazio estudando coisas que eu não acredito que que vão funcionar então que eu comece logo. Se eu fui o meu arquiteto da minha ruína abandonando a esperança do meu potencial e descontruindo todas as possibilidades promissoras e aceitando o fardo da desolação, posso também, por lógica simples, começar a fazer tudo o contrário.
 
 ## 20260921 
+
+1. Qual é o meu propósito de vida hoje?
+
+
+
+2. Responda as seguintes perguntas:
+
+a. Quem é voce?
+b. O que voce faz?
+c. Para quem voce faz?
+d. O que essas pessoas querem, desejam ou precisam?
+e. como essas pessoas mudam com o resultado que voce produz?
