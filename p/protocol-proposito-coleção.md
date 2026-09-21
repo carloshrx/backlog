@@ -174,10 +174,22 @@ E não ter um. Reconhecer que abandonei todos eles. Seja por influencia externa 
 
 a. Quem é voce?
 
-Não sei quem eu sou. Procuro a resposta. Poderia usar uma resposta descontrutiva ou positivista mas nenhuma das duas de fato me toca
-
+Não sei quem eu sou. Procuro a resposta. Poderia usar uma resposta descontrutiva ou positivista mas nenhuma das duas de fato me toca. A neutralidade obscurecida por falta ou nulidade de perpectiva da resposta até que me chama a atenção. Me ajuda a perceber que reconhecer que algo está vazio ou que existe um problema que ainda não consegue desenvolver uma solução representa um nível de sanidade claro.
 
 b. O que voce faz?
+
+Com falta de proposito continuo a me embebedar de fontes de distração em especial em jogos competitivos cooperativos. Ali encontro o mínimo de proposito embrulhado em luzes, animações e amigos digitais. Apesar de fazer isso, não é o que eu gostaria de estar fazendo. Deveria estar estudando para compor os projetos do meu portfolio por mais que eu não acredite no meu potencial ou no potencial do meu portfolio, tenho que me esforçar ao maximo para mudar minha crença. 
+
+Só consigo ouvir vultos e vozes na minha cabeça das pessoas que me desacreditaram e atacaram no passado. E automaticamente tudo isso me causa muito sono e irritação emocional que somente os jogos ou o ficar sozinho e isolado fazem passar.
+
 c. Para quem voce faz?
+
+No momento posso dizer que nos jogos faço o suficiente para significar alguma coisa perspicaz e relevante. Um constraste do que eu deixei de ser na vida real. No fundo toda essa distração me ajuda a me afundar em uma ilusão de que esta tudo bem mas não esta.
+
 d. O que essas pessoas querem, desejam ou precisam?
+
+Eu não sei como responder tal pergunta. É muito dificil alguem desempregado responder o que as pessoas no entorno querem. Tenho certeza de que as pessoas que cercam - familiares - gostariam de me ver prosperar para não terem que espalhar noticias sobre declínio e fracasso sempre que reúnem, contudo, tal fato diz mais sobre uma manifestação social do ego do que um pilar do proposito do ponto de vista construtivo
+
 e. como essas pessoas mudam com o resultado que voce produz?
+
+Não acreditando em mim ou me qualificando como um "jogador velho e jovem desempregado". São títulos faceis de concluir e interpretar para quem não entende o caminho que eu devo percorrer e percorri em fracasso. Todo o cenário só mudaria com os frutos de uma ascenção rápida e aquisição de bens materiais/capital financeiro.
