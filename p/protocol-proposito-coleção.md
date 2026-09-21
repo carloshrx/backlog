@@ -52,7 +52,7 @@ Significado de proposito:
 
 (IV) Abraçar a minúscula esperança de mudança que existe em mim.
 
-## 20260911 Moeda Infernal (+2)
+## 20260911 Moeda Infernal (+1)
 
 Vamos pensar que a cada falha, a cada tropeço, a cada escrutinio, a cada decisão que leva a desolação e fracasso, um clima infernal de tortura se instala e uma moeda, vamos chamar de moeda infernal, é criada para representar aquele traumatico negativo-tecelante infortunio. A moeda então que representa todo o torpor negativo seria gasta quando uma situação espelho-contraria, le-se aqui, construção positiva, prova-se que seria possível alcançar a redenção por meio do esforço inabalavel imbuído de proposito.
 
@@ -74,7 +74,7 @@ d.) O que essas pessoas querem, desejam ou precisam? Das poucas que me propus aj
 
 e.) Como essas pessoas mudam com o resultado que voce produz? Gostaria, com todo coração de chegar na parte em que produzo resultados.
 
-## 20260916 4 Pilares por Mabel C. Dias (transcrição) (max)
+## 20260916 4 Pilares por Mabel C. Dias (transcrição) (+3)
 
 A tese central da ideia é se voce quer ter resultados na vida voce precisa trabalhar mais em si mesmo do que no seu trabalho. O sucesso não é algo que se persegue, atinge e fim. O sucesso é um estado de consciência. Sim, um estado de consciencia. E esse estado de consciencia se atinge mudando a qualidade da sua vibração pessoal. 
 
@@ -158,7 +158,7 @@ Voce precisa se lapidar. E o trabalho na verdade não precisa ser pesado, ta? Co
 
 A pergunta que fica aqui é: qual vai ser a sua microação hoje?
 
-## 20260921 A contemplação da falta de proposito (0)
+## 20260921 A contemplação da falta de proposito (+2)
 
 Ainda que eu insista em coletar respostas que incitem o encontro de proposito, falho. Gostaria então de encontrar uma resposta que me toque o suficiente. Extinguir todos os meus sonhos da minha perspectiva talvez seja uma forma de criar uma super proteção mas uma bolha tão densa me impede de sair do lugar. Mesmo assim não vejo outra saída. Devo continuar tentando. Talvez nos jogos eu encontre um prototipo de proposito rápido e tentar jogar pokemon champions me monstrou que por mais que seja apaixonante a sensaçao de proposito em um ambiente competitivo a frustração no final reina absoluta, pois, a realidade precisa de demandas de verdade - emprego ou estudo para conseguir um - posso ser melancolico e dissonante aqui, tentanto relacionar vício em entretenimento com busca de proposito mas no fim não consigo enxergar uma separação clara das duas. Com a ajuda da IA posso tentar diminuir a quantidade de ruído das respostas. Gostaria muito de conseguir. O que me resta então é contemplar o vazio de acreditar em ser vazio e estudar? Afinal, se eu aceitasse a ideia neste formato, propagaria então a ideia de abraçar o vazio.
 
@@ -192,7 +192,7 @@ e. como essas pessoas mudam com o resultado que voce produz?
 
 Não acreditando em mim ou me qualificando como um "jogador velho e jovem desempregado". São títulos faceis de concluir e interpretar para quem não entende o caminho que eu devo percorrer e percorri em fracasso. Todo o cenário só mudaria com os frutos de uma ascenção rápida e aquisição de bens materiais/capital financeiro.
 
-## 20260921 Luz do pino do gpt
+## 20260921 Luz do pino do gpt (+1)
 
 Com a ajuda do chat gpt consegui encontrar uma coleção interessante de proposição. Em particular, algumas, me chamam a atenção enquanto outras quase chegam na neutralidade. Primeiro sobre uma nova coleção de perguntas que podem fazer parte de um novo modelo com orientação distinta com melhor adaptação ao meu contexto atual.
 
