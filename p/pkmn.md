@@ -40,3 +40,7 @@ poison jab
 close combat
 fake out
 quick guard
+
+https://www.youtube.com/watch?v=LhsiXLo-MIw&list=LL&index=1
+VGC Day 2 | 2027 Pokémon Baltimore Regional Championships
+6.30
