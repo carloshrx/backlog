@@ -158,5 +158,7 @@ Voce precisa se lapidar. E o trabalho na verdade não precisa ser pesado, ta? Co
 
 A pergunta que fica aqui é: qual vai ser a sua microação hoje?
 
-## 
+## A contemplação do vazio
+
+Ainda que eu insista em coletar respostas que incitem o encontro de proposito, falho. Gostaria então de encontrar uma resposta que me toque o suficiente. Extinguir todos os meus sonhos da minha perspectiva talvez seja uma forma de criar uma super proteção mas uma bolha tão densa me impede de sair do lugar. Mesmo assim não vejo outra saída. Devo continuar tentando.
  
