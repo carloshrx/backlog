@@ -191,3 +191,8 @@ Eu não sei como responder tal pergunta. É muito dificil alguem desempregado re
 e. como essas pessoas mudam com o resultado que voce produz?
 
 Não acreditando em mim ou me qualificando como um "jogador velho e jovem desempregado". São títulos faceis de concluir e interpretar para quem não entende o caminho que eu devo percorrer e percorri em fracasso. Todo o cenário só mudaria com os frutos de uma ascenção rápida e aquisição de bens materiais/capital financeiro.
+
+## 20260921 Luz do pino do gpt
+
+Com a ajuda do chat gpt consegui encontrar uma coleção interessante de proposição. Em particular, algumas, me chamam a atenção enquanto outras quase chegam na neutralidade. Primeiro sobre uma nova coleção de perguntas que podem fazer parte de um novo modelo com orientação distinta com melhor adaptação ao meu contexto atual.
+
