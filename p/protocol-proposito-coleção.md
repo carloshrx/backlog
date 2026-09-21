@@ -22,7 +22,7 @@ c. Para quem voce faz?
 d. O que essas pessoas querem, desejam ou precisam?
 e. como essas pessoas mudam com o resultado que voce produz?
 
-# Coleção de respostas
+# Coleção de respostas 26
 
 ## 20260910 Mansão dos esqueletos (I)
 
@@ -74,7 +74,7 @@ d.) O que essas pessoas querem, desejam ou precisam? Das poucas que me propus aj
 
 e.) Como essas pessoas mudam com o resultado que voce produz? Gostaria, com todo coração de chegar na parte em que produzo resultados.
 
-# 20260916 4 Pilares por Mabel C. Dias (transcrição) (max)
+## 20260916 4 Pilares por Mabel C. Dias (transcrição) (max)
 
 A tese central da ideia é se voce quer ter resultados na vida voce precisa trabalhar mais em si mesmo do que no seu trabalho. O sucesso não é algo que se persegue, atinge e fim. O sucesso é um estado de consciência. Sim, um estado de consciencia. E esse estado de consciencia se atinge mudando a qualidade da sua vibração pessoal. 
 
@@ -158,5 +158,5 @@ Voce precisa se lapidar. E o trabalho na verdade não precisa ser pesado, ta? Co
 
 A pergunta que fica aqui é: qual vai ser a sua microação hoje?
 
-
+## 
  
