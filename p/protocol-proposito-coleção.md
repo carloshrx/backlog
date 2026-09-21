@@ -208,5 +208,5 @@ A seguinte me chamou a atenção:
 
 > “O meu propósito hoje é encontrar um propósito onde não consigo enxergar um.”
 
-O tom anticlimático que parte de um pressuposto negativo me faz perceber que com a devida ação que habita no signficado semântico da palavra encontrar seria possível no melhor cenário inverter o balanço semântico na frase para a polaridade positiva.
+O tom anticlimático que parte de um pressuposto negativo me faz perceber que com a devida ação implicíta que habita no signficado semântico da palavra encontrar (logo, para encontrar algo, é preciso procurar, e procurar é uma ação) seria possível no melhor cenário inverter o balanço semântico na frase para a polaridade positiva.
 
