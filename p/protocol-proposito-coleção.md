@@ -168,11 +168,15 @@ Um ponto brilhante cercado de um espaço denso, vazio e escuro. Em volta varios 
 
 1. Qual é o meu propósito de vida hoje?
 
-
+E não ter um. Reconhecer que abandonei todos eles. Seja por influencia externa (humilhação, desidratação, alienação) ou influencia interna - minha incapacidade seja por ingenuidade ou imaturidade - de lidar com frustração e falta de perspectiva. O meu propósito de vida hoje é encontrar um proposito onde não consigo enxergar um (ou ao menos tento enxergar um). A única opção que me resta é estudar programação o suficiente para criar um portfolio público de projetos, publicar em um perfil de plataformas de emprego como o linkedin e, no melhor de todas as hipoteses, conseguir um emprego. E ainda assim estou em dúvida se é um plano funcional. Se eu penso que é um plano que pode não funcionar só consigo ver decaimento crescente. Só me resta acreditar que vai dar certo.
 
 2. Responda as seguintes perguntas:
 
 a. Quem é voce?
+
+Não sei quem eu sou. Procuro a resposta. Poderia usar uma resposta descontrutiva ou positivista mas nenhuma das duas de fato me toca
+
+
 b. O que voce faz?
 c. Para quem voce faz?
 d. O que essas pessoas querem, desejam ou precisam?
