@@ -53,3 +53,5 @@ charizard - girafa / sapo - archeludon
 Golisopod - sapo / archeludon - girafa
 
 https://www.smogon.com/dex/champions/pokemon/politoed/
+
+https://www.youtube.com/watch?v=JWW5aeSqJcw

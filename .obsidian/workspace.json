@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-09-21º.md",
+                "file": "p/pkmn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-21º"
+              "title": "pkmn"
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-09-21º.md",
+                "file": "p/pkmn.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -213,8 +213,8 @@
   },
   "active": "b44ae18ba9843d43",
   "lastOpenFiles": [
-    "p/pkmn.md",
     "dailynote/2026-09-21º.md",
+    "p/pkmn.md",
     "dailynote/2026-09-20º.md",
     "dailynote/2026-09-19º.md",
     "p/pkmn-champions.md",
