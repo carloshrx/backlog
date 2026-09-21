@@ -158,17 +158,15 @@ Voce precisa se lapidar. E o trabalho na verdade não precisa ser pesado, ta? Co
 
 A pergunta que fica aqui é: qual vai ser a sua microação hoje?
 
-## 20260921 A contemplação do vazio (0)
+## 20260921 A contemplação da falta de proposito (0)
 
 Ainda que eu insista em coletar respostas que incitem o encontro de proposito, falho. Gostaria então de encontrar uma resposta que me toque o suficiente. Extinguir todos os meus sonhos da minha perspectiva talvez seja uma forma de criar uma super proteção mas uma bolha tão densa me impede de sair do lugar. Mesmo assim não vejo outra saída. Devo continuar tentando. Talvez nos jogos eu encontre um prototipo de proposito rápido e tentar jogar pokemon champions me monstrou que por mais que seja apaixonante a sensaçao de proposito em um ambiente competitivo a frustração no final reina absoluta, pois, a realidade precisa de demandas de verdade - emprego ou estudo para conseguir um - posso ser melancolico e dissonante aqui, tentanto relacionar vício em entretenimento com busca de proposito mas no fim não consigo enxergar uma separação clara das duas. Com a ajuda da IA posso tentar diminuir a quantidade de ruído das respostas. Gostaria muito de conseguir. O que me resta então é contemplar o vazio de acreditar em ser vazio e estudar? Afinal, se eu aceitasse a ideia neste formato, propagaria então a ideia de abraçar o vazio.
 
 Um ponto brilhante cercado de um espaço denso, vazio e escuro. Em volta varios pontos brilhantes. Se eu conseguisse estudar com a mesma facilidade que tenho para escrever, no fundo, talvez estaria tudo bem. Se eu preciso contemplar o vazio estudando coisas que eu não acredito que que vão funcionar então que eu comece logo. Se eu fui o meu arquiteto da minha ruína abandonando a esperança do meu potencial e descontruindo todas as possibilidades promissoras e aceitando o fardo da desolação, posso também, por lógica simples, começar a fazer tudo o contrário.
 
-## 20260921 
-
 1. Qual é o meu propósito de vida hoje?
 
-E não ter um. Reconhecer que abandonei todos eles. Seja por influencia externa (humilhação, desidratação, alienação) ou influencia interna - minha incapacidade seja por ingenuidade ou imaturidade - de lidar com frustração e falta de perspectiva. O meu propósito de vida hoje é encontrar um proposito onde não consigo enxergar um (ou ao menos tento enxergar um). A única opção que me resta é estudar programação o suficiente para criar um portfolio público de projetos, publicar em um perfil de plataformas de emprego como o linkedin e, no melhor de todas as hipoteses, conseguir um emprego. E ainda assim estou em dúvida se é um plano funcional. Se eu penso que é um plano que pode não funcionar só consigo ver decaimento crescente. Só me resta acreditar que vai dar certo.
+É não ter um. Reconhecer que abandonei todos eles. Seja por influencia externa (humilhação, desidratação, alienação) ou influencia interna - minha incapacidade seja por ingenuidade ou imaturidade - de lidar com frustração e falta de perspectiva. O meu propósito de vida hoje é encontrar um proposito onde não consigo enxergar um (ou ao menos tento enxergar um). A única opção que me resta é estudar programação o suficiente para criar um portfolio público de projetos, publicar em um perfil de plataformas de emprego como o linkedin e, no melhor de todas as hipoteses, conseguir um emprego. E ainda assim estou em dúvida se é um plano funcional a curto prazo, e se longo, o quão longo pode se tornar para não criar um segundo oblivio. Se eu penso que é um plano que pode não funcionar só consigo ver decaimento crescente. Só me resta acreditar que vai dar certo. Mas só acreditar não basta, preciso agir. E eu não quero agir porque não acredito. Quero muito mudar a engenharia deste ciclo dentro da minha mente e, por mais dificil que seja, acredito que consigo com insistência.
 
 2. Responda as seguintes perguntas:
 
