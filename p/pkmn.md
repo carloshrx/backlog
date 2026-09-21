@@ -51,3 +51,5 @@ VGC Day 2 | 2027 Pokémon Baltimore Regional Championships
 charizard - girafa / sapo - archeludon
 
 Golisopod - sapo / archeludon - girafa
+
+https://www.smogon.com/dex/champions/pokemon/politoed/
