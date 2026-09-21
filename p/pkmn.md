@@ -85,3 +85,13 @@ charizard-y (hurricane) + pelliper / archeludon + snealer
 MCS 2029/07
 
 Rillaboom uturn (> mega frosslass) - Arcanine risuiam
+---
+
+The top-performing and most popular mega duo in Pokémon Champions double battles is Mega Delphox combined with Mega Staraptor, heavily supported by Whimsicott
+
+Mega Delphox + Mega Staraptor: This offensive core dominates the ranked ladder and recent tournaments (like Victory Road). Staraptor utilizes its powerful Contrary ability paired with defensive support, while Mega Delphox provides high damage output and consistent speed
+
+Whimsicott (The Enabler): Acting as a crucial third wheel to this duo, Whimsicott provides critical speed control with Tailwind, defensive utility via Light Screen and Charm, and disruption
+
+Garchomp Partnership: Frequently added alongside them as a Life Orb or Choice Scarf physical attacker that can safely spam Earthquake while partners position around it
+
