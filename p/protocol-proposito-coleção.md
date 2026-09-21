@@ -24,7 +24,7 @@ e. como essas pessoas mudam com o resultado que voce produz?
 
 # Coleção de respostas 26
 
-## 20260910 Mansão dos esqueletos (I)
+## 20260910 Mansão dos esqueletos (+1)
 
 Vou relacionar as definições de proposito para não me perder no todo: sinonimos de proposito: plano, intuição, desígnio, finalidade, intenção, algo, aplicação, destinação, destino, efeito, escopo, expectativa, fito, intento. Antonimos de proposito: desproposito, descomedimento, absurdo, desatino, imprudencia.
 
@@ -52,7 +52,7 @@ Significado de proposito:
 
 (IV) Abraçar a minúscula esperança de mudança que existe em mim.
 
-## 20260911 Moeda Infernal (II)
+## 20260911 Moeda Infernal (+2)
 
 Vamos pensar que a cada falha, a cada tropeço, a cada escrutinio, a cada decisão que leva a desolação e fracasso, um clima infernal de tortura se instala e uma moeda, vamos chamar de moeda infernal, é criada para representar aquele traumatico negativo-tecelante infortunio. A moeda então que representa todo o torpor negativo seria gasta quando uma situação espelho-contraria, le-se aqui, construção positiva, prova-se que seria possível alcançar a redenção por meio do esforço inabalavel imbuído de proposito.
 
@@ -158,7 +158,7 @@ Voce precisa se lapidar. E o trabalho na verdade não precisa ser pesado, ta? Co
 
 A pergunta que fica aqui é: qual vai ser a sua microação hoje?
 
-## A contemplação do vazio
+## A contemplação do vazio (0)
 
-Ainda que eu insista em coletar respostas que incitem o encontro de proposito, falho. Gostaria então de encontrar uma resposta que me toque o suficiente. Extinguir todos os meus sonhos da minha perspectiva talvez seja uma forma de criar uma super proteção mas uma bolha tão densa me impede de sair do lugar. Mesmo assim não vejo outra saída. Devo continuar tentando.
+Ainda que eu insista em coletar respostas que incitem o encontro de proposito, falho. Gostaria então de encontrar uma resposta que me toque o suficiente. Extinguir todos os meus sonhos da minha perspectiva talvez seja uma forma de criar uma super proteção mas uma bolha tão densa me impede de sair do lugar. Mesmo assim não vejo outra saída. Devo continuar tentando. Talvez nos jogos eu encontre um prototipo de proposito rápido e tentar jogar pokemon champions me monstrou que por mais que seja apaixonante a sensaçao de proposito em um ambiente competitivo a frustração no final reina absoluta, pois, a realidade precisa de demandas de verdade - emprego ou estudo para conseguir um - posso ser melancolico e dissonante aqui, tentanto relacionar vício em entretenimento com busca de proposito mas no fim não consigo enxergar uma separação clara das duas. Com a ajuda da IA posso tentar diminuir a quantidade de ruído das respostas. Gostaria muito de conseguir. O que me resta então é contemplar o vazio de acreditar em ser vazio e estudar? Afinal, se eu aceitasse a ideia neste formato, propagaria então a ideia de abraçar o vazio.
  
