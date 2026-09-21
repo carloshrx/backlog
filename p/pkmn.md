@@ -69,4 +69,6 @@ Archeludon
 | Charizard-y | -1  |
 | ----------- | --- |
 | Farigiraf   | +1  |
+| Golisopod   | +1  |
+| Sneasel     | -1  |
 |             |     |
