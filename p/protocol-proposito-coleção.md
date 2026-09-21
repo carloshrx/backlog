@@ -206,7 +206,7 @@ Com a ajuda do chat gpt consegui encontrar uma coleção interessante de proposi
 
 A seguinte me chamou a atenção:
 
-“O meu propósito hoje é encontrar um propósito onde não consigo enxergar um.”
+> “O meu propósito hoje é encontrar um propósito onde não consigo enxergar um.”
 
 O tom anticlimático que parte de um pressuposto negativo me faz perceber que com a devida ação que habita no signficado semântico da palavra encontrar
 
