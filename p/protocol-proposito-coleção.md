@@ -204,5 +204,9 @@ Com a ajuda do chat gpt consegui encontrar uma coleção interessante de proposi
 - O que, quando vejo outra pessoa fazendo, desperta em mim alguma coisa?
 - Que ideia de futuro produz sequer 1% de calor em vez de indiferença?
 
+A seguinte me chamou a atenção:
 
+“O meu propósito hoje é encontrar um propósito onde não consigo enxergar um.”
+
+O tom anticlimático que parte de um pressuposto negativo me faz perceber que com a devida ação que habita no signficado semântico da palavra encontrar
 
