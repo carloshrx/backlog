@@ -83,3 +83,5 @@ charizard-y + farigiraf / pelliper + archeludon
 charizard-y (hurricane) + pelliper / archeludon + snealer
 
 MCS 2029/07
+
+Rillaboom uturn (> mega frosslass) - Arcanine risuiam
