@@ -46,6 +46,8 @@ VGC Day 2 | 2027 Pokémon Baltimore Regional Championships
 6.30
 
 
-Golisopod - sapo / 
+
 
 charizard - girafa / sapo - archeludon
+
+Golisopod - sapo / archeludon - girafa
