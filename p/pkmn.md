@@ -46,8 +46,6 @@ VGC Day 2 | 2027 Pokémon Baltimore Regional Championships
 6.30
 
 
-
-
 charizard - girafa / sapo - archeludon
 
 Golisopod - sapo / archeludon - girafa
@@ -55,3 +53,20 @@ Golisopod - sapo / archeludon - girafa
 https://www.smogon.com/dex/champions/pokemon/politoed/
 
 https://www.youtube.com/watch?v=JWW5aeSqJcw
+
+---
+
+Trick Room Table
+
+Charizard-y
+Farigiraf
+Golisopod
+Snealer
+Pelipper/Politoed
+Archeludon
+
+
+| Charizard-y | -1  |
+| ----------- | --- |
+| Farigiraf   | +1  |
+|             |     |
