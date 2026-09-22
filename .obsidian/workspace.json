@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-09-22º.md",
+                "file": "p/protocolo-zero-hero.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-22º"
+              "title": "protocolo-zero-hero"
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-09-22º.md",
+                "file": "p/protocolo-zero-hero.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -207,36 +207,38 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "b44ae18ba9843d43",
   "lastOpenFiles": [
-    "p/pkmn-champions.md",
-    "dailynote/2026-09-22º.md",
+    "p/protocol-proposito-coleção.md",
+    "p/protocol-aparalisia.md",
+    "a/agenda26.md",
+    "p/protocol-agenda26.md",
     "templates/template-dailynote.md",
+    "dailynote/2026-09-22º.md",
+    "p/pkmn-champions.md",
     "dailynote/2026-09-21º.md",
     "p/pkmn.md",
     "dailynote/2026-09-20º.md",
     "dailynote/2026-09-19º.md",
     "dailynote/2026-09-18º.md",
-    "p/protocol-proposito-coleção.md",
     "s/saude-sae.md",
-    "a/agenda26.md",
     "dailynote/2026-09-17º.md",
     "s/saude-prep.md",
     "s/saude-dina-medicacao.md",
     "s/saude-dina-receitas.md",
     "dailynote/2026-09-16º.md",
     "f/farever.md",
-    "p/protocol-triladies-firefly.md",
+    "p/protocolo-zero-hero.md",
     "a/admin-balanço.md",
     "i/inss.md",
     "dailynote/2026-09-15º.md",
     "i/iptu.md",
     "dailynote/2026-09-14º.md",
     "dailynote/2026-09-12º.md",
-    "p/pandoc.md",
     "e/Sem título.canvas",
     "img",
     "resources-offlink/thinking-piramid.jpg",
