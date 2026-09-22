@@ -2,6 +2,8 @@
 
 > [!Note] Notas de atualização 2026
 > As notas de atualização devem entrar aqui.
+> ## Setembro 26
+> O modelo apesar do primeiro impacto promissor entrou em curva decadente dado o alto nível de abstração dos marcadores (dados por `?`,`-`,`+` e `!`). Com o objetivo de identificar o centro da paralisia a partir da observação tentar tocar   
 # legenda 
 
 (?) é uma pergunta. Deve ser a ignição suficiente para a ação (empenho) do trabalho intelectual.
