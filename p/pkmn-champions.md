@@ -4,7 +4,7 @@
 
 16 HP / 17 Def / 10 SpA / 23 Spe with Timid: This faster SP spread allows Mega Charizard Y to outspeed Excadrill in the sun as well as Glimmora and Hisuian Arcanine. The defensive investment allows Mega Charizard Y to survive Rock Slide from -1 Lycanroc-D, and the leftover SPs maximize Mega Charizard Y's Special Attack.
 
-00110-1
+00110-10
 
 # References
 
