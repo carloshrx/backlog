@@ -10,3 +10,7 @@
 
 - Pontos que eu fiquei satisfeito
 - Pontos que eu deveria melhorar
+
+# 20261022 Resist2hard
+
+Vou adotar a máxima "resistir para endurecer" (*resist2hard*). É um raciocínio simples que tem por objetivo resistir a vontade crescente de mtbr-p para garantir
