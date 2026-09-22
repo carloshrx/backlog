@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p/protocolo-resist2hard.md",
+                "file": "p/protocolo-trono-de-gelo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protocolo-resist2hard"
+              "title": "protocolo-trono-de-gelo"
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "p/protocolo-resist2hard.md",
+                "file": "p/protocolo-trono-de-gelo.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -213,8 +213,9 @@
   },
   "active": "b44ae18ba9843d43",
   "lastOpenFiles": [
+    "p/protocolo-resist2hard.md",
     "p/protocol-proposito-coleção.md",
-    "p/protocol-aparalisia.md",
+    "p/protocolo-trono-de-gelo.md",
     "a/agenda26.md",
     "p/protocol-agenda26.md",
     "templates/template-dailynote.md",
@@ -232,7 +233,6 @@
     "s/saude-dina-receitas.md",
     "dailynote/2026-09-16º.md",
     "f/farever.md",
-    "p/protocolo-resist2hard.md",
     "a/admin-balanço.md",
     "i/inss.md",
     "dailynote/2026-09-15º.md",
