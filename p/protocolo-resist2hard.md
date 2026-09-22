@@ -13,4 +13,4 @@
 
 # 20261022 Resist2hard
 
-Vou adotar a máxima "resistir para endurecer" (*resist2hard*). É um raciocínio simples que tem por objetivo resistir a vontade crescente de mtbrp para garantir que, no ato, consiga acessar o máximo de qualidade de ereção/tempo/recuperação ou até, a sonhada, ereção continuada pos gozo (acreditando que é possível atingir tal estado)
+Vou adotar a máxima "resistir para endurecer" (*resist2hard*). É um raciocínio simples que tem por objetivo resistir a vontade crescente de mtbrp para garantir que, no ato, consiga acessar o máximo de qualidade de ereção/tempo/recuperação ou até, a sonhada, ereção continuada pos gozo (acreditando que é possível atingir tal estado).
