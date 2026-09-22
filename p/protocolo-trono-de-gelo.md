@@ -1,9 +1,12 @@
 # notas de atualização
 
 > [!Note] Notas de atualização 2026
-> As notas de atualização devem entrar aqui.
-> ## Setembro 26
-> O modelo apesar do primeiro impacto promissor entrou em curva decadente dado o alto nível de abstração dos marcadores (dados por `?`,`-`,`+` e `!`). Com o objetivo de identificar o centro da paralisia a partir da observação tentar tocar   
+> ## Setembro 26 v0.1a
+> O modelo apesar do primeiro impacto promissor entrou em curva decadente dado o alto nível de abstração dos marcadores (dados por `?`,`-`,`+` e `!`). O objetivo aqui é delimitar de forma simples o contexto com novos marcadores, observar ação e resistência em diferentes fases, e no final, conseguir coexistir com a paralisia e bloqueio em menor ou maior grau inclinando a ação para pender para a produtividade e declinando em relação a paralisia, procrastinação e mudança de contexto. O objetivo da mudança é diminuir o teor abstrato e por consequencia aumentar a velocidade da interpretação e tempo de resposta. Juntos os dois pontos positivos devem ser suficientes para aumentar o grau de aplicabilidade do protocolo até um nível de relevância acima do esperado.
+> 
+> ==*Removidos*== Marcadores antigos dados por `?`,`-`,`+` e `!`.
+> 
+> ==*Novo*== `Data` (título), `próximo ato`, `resistência antes`, `o que fiz`, `resistência depois`.
 # legenda 
 
 (?) é uma pergunta. Deve ser a ignição suficiente para a ação (empenho) do trabalho intelectual.
