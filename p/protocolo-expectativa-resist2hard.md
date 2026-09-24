@@ -1,8 +1,9 @@
 
 > [!TIP] Reserva especial
 > Controle de reservas. Tem por objetivo reforçar o comportamento positivo de resistir para alcançar um estado de performance nível especial. Vou listar os eventos por aqui.
-> 0X0X26 ==pickup== oral especial com pickup (ele chegou lá só no oral) (chance relevante de se repetir, varia em baixa e 100% de certeza de acontecer).
-> 180926 ==miguel== variar posições, descobrir como fazer ele chegar lá, voce deve descobrir como fazer ele ficar ereto.
+> 0X0X26 ==pickup== oral especial com pickup (ele chegou lá só no oral) (chance relevante de se repetir, varia em baixa e 100% de certeza de acontecer a qualquer dia da semana).
+> 180926 ==miguel== variar posições, descobrir como fazer ele chegar lá, voce deve descobrir como fazer ele ficar ereto. Ereção fortissima recebendo o oral. Aproveite melhor os angulos sem ir direto para o bate estaca.
+> 
 
 # 20261009 Reforço anti-mtrb-p
 
