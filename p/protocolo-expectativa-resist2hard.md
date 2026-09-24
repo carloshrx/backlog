@@ -2,6 +2,7 @@
 > [!TIP] Reserva especial
 > Controle de reservas. Tem por objetivo reforçar o comportamento positivo de resistir para alcançar um estado de performance nível especial. Vou listar os eventos por aqui.
 > 
+> 
 # 20261009 Reforço anti-mtrb-p
 
 > perda, falta e arrependimento.
