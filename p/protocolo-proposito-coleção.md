@@ -210,5 +210,7 @@ A seguinte me chamou a atenção:
 
 O tom anticlimático que parte de um pressuposto negativo me faz perceber que com a devida ação implicíta que habita no signficado semântico da palavra encontrar (logo, para encontrar algo, é preciso procurar, e procurar é uma ação) seria possível no melhor cenário inverter o balanço semântico na frase para a polaridade positiva. Ainda que no final o leitor passe por uma percepção decadente ou triste da negatividade da partícula "não" é possível perceber que, em uma segunda leitura, há uma sugestão de jornada de provação no mínimo heroíca aqui.
 
-# 20260921 Síntese Mabel
+# 20260921 Síntese Mabel (completar)
+
+# 20260924 
 
