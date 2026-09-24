@@ -1,6 +1,7 @@
 
 > [!TIP] Reserva especial
 > Controle de reservas. Tem por objetivo reforçar o comportamento positivo de resistir para alcançar um estado de performance nível especial. Vou listar os eventos por aqui.
+> 0X0X26 oral especial com pickup (ele chegou lá só no oral) (chance relevante de se repetir)
 > 
 
 # 20261009 Reforço anti-mtrb-p
