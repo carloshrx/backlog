@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p/protocolo-expectativa-resist2hard.md",
+                "file": "p/protocolo-proposito-coleção.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protocolo-expectativa-resist2hard"
+              "title": "protocolo-proposito-coleção"
             }
           },
           {
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "p/protocolo-expectativa-resist2hard.md",
+                "file": "p/protocolo-proposito-coleção.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -227,14 +227,14 @@
   },
   "active": "b44ae18ba9843d43",
   "lastOpenFiles": [
-    "t/tfi.md",
     "p/protocolo-expectativa-resist2hard.md",
+    "t/tfi.md",
     "p/protocolo-trono-de-gelo.md",
     "dailynote/2026-09-24º.md",
     "a/agenda26.md",
     "dailynote/2026-09-23º.md",
     "s/saude-prep.md",
-    "p/protocol-proposito-coleção.md",
+    "p/protocolo-proposito-coleção.md",
     "p/protocol-agenda26.md",
     "templates/template-dailynote.md",
     "dailynote/2026-09-22º.md",
