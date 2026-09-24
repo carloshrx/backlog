@@ -210,7 +210,9 @@ A seguinte me chamou a atenção:
 
 O tom anticlimático que parte de um pressuposto negativo me faz perceber que com a devida ação implicíta que habita no signficado semântico da palavra encontrar (logo, para encontrar algo, é preciso procurar, e procurar é uma ação) seria possível no melhor cenário inverter o balanço semântico na frase para a polaridade positiva. Ainda que no final o leitor passe por uma percepção decadente ou triste da negatividade da partícula "não" é possível perceber que, em uma segunda leitura, há uma sugestão de jornada de provação no mínimo heroíca aqui.
 
-# 20260921 Síntese Mabel (completar)
+## 20260921 Síntese Mabel (completar)
 
-# 20260924 
+## 20260924 Bem vindo ao inferno - parte 1
+
+A proposta ==próximo-resistencia-oquefiz-resistencia== é a partícula menor que deve me acompanhar durante toda a jordana no trono de gelo. Lembrar de todas as vezes que minha emoção foi suprimida a zero dentro da nevoa bestial que se propagava até tocar meus ossos, cercado por criaturas que adoravam o oblívio, ainda que com vínculo familiar, cultuavam um futuro distópico e dissonante com base em um passado errante. 
 

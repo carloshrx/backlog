@@ -209,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,14 +227,15 @@
   },
   "active": "b44ae18ba9843d43",
   "lastOpenFiles": [
-    "p/protocolo-expectativa-resist2hard.md",
-    "t/tfi.md",
+    "p/protocolo-expectativa-resi2hard.md",
+    "p/prompt-alwaysadm-Win10.md",
+    "p/protocolo-proposito-coleção.md",
     "p/protocolo-trono-de-gelo.md",
+    "t/tfi.md",
     "dailynote/2026-09-24º.md",
     "a/agenda26.md",
     "dailynote/2026-09-23º.md",
     "s/saude-prep.md",
-    "p/protocolo-proposito-coleção.md",
     "p/protocol-agenda26.md",
     "templates/template-dailynote.md",
     "dailynote/2026-09-22º.md",
@@ -252,7 +253,6 @@
     "f/farever.md",
     "a/admin-balanço.md",
     "i/inss.md",
-    "dailynote/2026-09-15º.md",
     "e/Sem título.canvas",
     "img",
     "resources-offlink/thinking-piramid.jpg",
