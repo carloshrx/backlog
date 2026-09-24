@@ -9,9 +9,13 @@
 # 20261018 Miguel perto Bosque
 
 - Pontos que eu fiquei satisfeito (oral)
-- Pontos que eu deveria melhorar (gozar rapido)
+- Pontos que eu deveria melhorar (mudar posição para durar)
 
 # 20261022 Resist2hard
 
 Vou adotar a máxima "resistir para endurecer" (*resist2hard*). É um raciocínio simples que tem por objetivo resistir a vontade crescente de mtbrp para garantir que, no ato, consiga acessar o máximo de qualidade de ereção/tempo/recuperação ou até, a sonhada, ereção contínua (acreditando que é possível atingir tal estado depois da ejaculação). Ainda não sei como poderia manter um mecanismo de controle, talvez a marcação das experiências fale por si só, e no melhor cenário, seriam suficientes para parar o impulso (e por lógica simples, não parariam nos piores cenários de descontrole).
+
+# 20261024 Adicionando uma fonta de expectativa
+
+Fontes de expectativas podem me ajudar a guardar o recurso para quando eu precisar dele. Ainda que sejam ocasiões raras mas acessíveis quanto maior o numero de cargas melhor.
 
