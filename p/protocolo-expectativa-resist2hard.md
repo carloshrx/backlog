@@ -21,6 +21,6 @@
 
 Vou adotar a máxima "resistir para endurecer" (*resist2hard*). É um raciocínio simples que tem por objetivo resistir a vontade crescente de mtbrp para garantir que, no ato, consiga acessar o máximo de qualidade de ereção/tempo/recuperação ou até, a sonhada, ereção contínua (acreditando que é possível atingir tal estado depois da ejaculação). Ainda não sei como poderia manter um mecanismo de controle, talvez a marcação das experiências fale por si só, e no melhor cenário, seriam suficientes para parar o impulso (e por lógica simples, não parariam nos piores cenários de descontrole).
 
-# 20261024 Adicionando uma fonta de expectativa
+# 20261024 Adicionando uma fonte de expectativa
 
 Fontes de expectativas podem me ajudar a guardar o recurso para quando eu precisar dele. Ainda que sejam ocasiões raras mas acessíveis. A abstração do "resistir para endurecer" ainda que carregue uma promessa teoricamente boa tem uma marcação fraca para controle. Vou incluir as marcações em um quadro fixo principal de alerta e devo marcar as datas para reforçar de modo positivo o ímpeto positivo de controle (a superar o negativo de descontrole e consumir a midia do tipo p).
