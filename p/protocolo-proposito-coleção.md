@@ -220,5 +220,5 @@ E já que eu adiei por anos enfrentar todos os meus demonios feitos de puro gelo
 
 E já que estou em uma situação tão degradante, deveria então, abraçar minha adversidade e fazer da dor que me paralisa a fonte para que eu encontre a resistencia dentro do coração para não paralisar mais.
 
-
+Tudo no final parece um conto de fada escrito por uma mente gótica que jogou world of warcraft demais. Hoje estou em condições extremamente desfaforaveis (sem emprego, sem perspectiva e com pouca vontade ou quase nenhuma de estudar, sair do lugar). A negociação comigo mesmo, na maioria das vezes, falha no ponto de ruptura onde meu eu destruído toma por mim, todas as decisões. E, eu, no primeiro passo positivo, deveria registrar, para lembrar, onde posso começar minha força.
 
