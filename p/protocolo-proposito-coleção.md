@@ -214,5 +214,9 @@ O tom anticlimático que parte de um pressuposto negativo me faz perceber que co
 
 ## 20260924 Bem vindo ao inferno - parte 1
 
-A proposta ==próximo-resistencia-oquefiz-resistencia== é a partícula menor que deve me acompanhar durante toda a jordana no trono de gelo. Lembrar de todas as vezes que minha emoção foi suprimida a zero dentro da nevoa bestial que se propagava até tocar meus ossos, cercado por criaturas que adoravam o oblívio, ainda que com vínculo familiar, cultuavam um futuro distópico e dissonante com base em um passado errante. 
+A proposta ==próximo-resistencia-oquefiz-resistencia== é a partícula menor que deve me acompanhar durante toda a jornada no trono de gelo. Lembrar de todas as vezes que minha emoção foi suprimida a zero dentro da nevoa bestial que se propagava até tocar meus ossos, cercado por criaturas que adoravam o oblívio, ainda que com vínculo familiar, cultuavam um futuro distópico e dissonante com base em um passado errante. Os frutos do acaso arremessados como alguem arremessa uma garrafa com uma carta ao alto mar e espera que ela chegue em alguem do outro lado, e na melhor das hipoteses, a pessoa abre e le, ou na pior, nem liga. Considero o nome adequado.
+
+E já que eu adiei por anos enfrentar todos os meus demonios feitos de puro gelo com competencia até aqui, também posso decidir querer ter que enfrentá-los já que, cedo ou tarde, não vou ter outra escolha. Sim, uma hora os 35, 40 anos vão bater a porta e eu ali, sentado em trono esplendido, paralisado por presenças que eu teria que, obrigatoriamente, como homem, dominar um a um até que tornem meus aliados durante o inferno infinito e, quem sabe, de horas em horas, encontrar lugares seguros dentro do caos branco.
+
+
 
