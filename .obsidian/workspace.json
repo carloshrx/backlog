@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "s/saude-prep.md",
+                "file": "a/aniimo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "saude-prep"
+              "title": "aniimo"
             }
           },
           {
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "s/saude-prep.md",
+                "file": "a/aniimo.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -227,10 +227,11 @@
   },
   "active": "b44ae18ba9843d43",
   "lastOpenFiles": [
+    "s/saude-prep.md",
+    "a/aniimo.md",
     "a/agenda26.md",
     "dailynote/2026-09-28º.md",
     "dailynote/2026-09-27º.md",
-    "s/saude-prep.md",
     "dailynote/2026-09-26º.md",
     "dailynote/2026-09-25º.md",
     "p/protocolo-proposito-coleção.md",
@@ -252,7 +253,6 @@
     "s/saude-sae.md",
     "dailynote/2026-09-17º.md",
     "s/saude-dina-medicacao.md",
-    "s/saude-dina-receitas.md",
     "e/Sem título.canvas",
     "img",
     "resources-offlink/thinking-piramid.jpg",
