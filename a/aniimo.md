@@ -8,3 +8,5 @@ https://www.aniimoverse.com/guides/egg-heist-gear
 
 weather stacking
 https://www.reddit.com/r/Aniimo/comments/1wskh1f/in_case_anyone_else_was_confused_about_the/
+
+![](aniimo-farm-setup1-reddit.png)
