@@ -12,4 +12,4 @@ https://www.reddit.com/r/Aniimo/comments/1wskh1f/in_case_anyone_else_was_confuse
 ![](aniimo-farm-setup1-reddit.png)
 
 dois poços no topo (posição flexível)
-e no meio ali o ratinho é o deposito (warehouse)
+e no meio ali o ratinho nao da pra saber o que é (pode ser algo ligado ao clima)
