@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a/aniimo.md",
+                "file": "s/saude-prep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aniimo"
+              "title": "saude-prep"
             }
           },
           {
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a/aniimo.md",
+                "file": "s/saude-prep.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -221,18 +221,20 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "b44ae18ba9843d43",
   "lastOpenFiles": [
+    "a/agenda26.md",
+    "dailynote/2026-10-1º.md",
+    "a/aniimo.md",
     "Pasted image 20260930211303.png",
     "aniimo-farm-setup1-reddit.png",
     "dailynote/2026-09-30º.md",
     "dailynote/2026-09-29º.md",
-    "a/aniimo.md",
     "s/saude-prep.md",
-    "a/agenda26.md",
     "dailynote/2026-09-28º.md",
     "dailynote/2026-09-27º.md",
     "dailynote/2026-09-26º.md",
@@ -263,7 +265,6 @@
     "resources-offlink/architectural-styles.png",
     "resources-offlink/whatsapp-supported-markdown.jpg",
     "readme-hello-animatedColorScheme.svg",
-    "comprovante-exameNucleo120825.jpg",
     "img",
     "pdf/c-completo-total.pdf",
     "news.blizzard.com/en-us/article/24267729",
