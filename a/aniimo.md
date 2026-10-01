@@ -16,7 +16,7 @@ e no meio ali o ratinho nao da pra saber o que é (pode ser algo ligado ao clima
 
 ![](Pasted%20image%2020260930211303.png)
 
-- [ ] Gilded Key
+- [x] Gilded Key
 - [ ] bag and purple toys
 
 hexxin 20/20/20 hp/regen/atk
