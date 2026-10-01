@@ -18,3 +18,5 @@ e no meio ali o ratinho nao da pra saber o que é (pode ser algo ligado ao clima
 
 - [x] Gilded Key
 - [x] bag and purple toys
+
+hexxin 20/20/20 hp/regen/atk
