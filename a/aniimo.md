@@ -13,3 +13,5 @@ https://www.reddit.com/r/Aniimo/comments/1wskh1f/in_case_anyone_else_was_confuse
 
 dois poços no topo (posição flexível)
 e no meio ali o ratinho nao da pra saber o que é (pode ser algo ligado ao clima)
+
+![](Pasted%20image%2020260930211303.png)
