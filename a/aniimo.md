@@ -25,5 +25,7 @@ distribua poucos pontos até pegar o +4%
 
 Guia de ação
 
+Caso morra fique em um lugar seguro longe de qualquer animo porque as habilidades deles vão te acertar.
+
 hit kill da chaminha quando chegou perto para ultar
 
