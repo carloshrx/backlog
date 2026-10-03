@@ -21,3 +21,9 @@ e no meio ali o ratinho nao da pra saber o que é (pode ser algo ligado ao clima
 
 hexxin 20/20/20 hp/regen/atk
 distribua poucos pontos até pegar o +4%
+
+
+Como se comportar
+
+hit kill da chaminha quando chegou perto para ultar
+

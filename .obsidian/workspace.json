@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "s/saude-prep.md",
+                "file": "a/aniimo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "saude-prep"
+              "title": "aniimo"
             }
           },
           {
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "s/saude-prep.md",
+                "file": "a/aniimo.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -227,11 +227,11 @@
   },
   "active": "b44ae18ba9843d43",
   "lastOpenFiles": [
+    "s/saude-prep.md",
     "a/agenda26.md",
     "dailynote/2026-10-2º.md",
     "a/aniimo.md",
     "dailynote/2026-10-1º.md",
-    "s/saude-prep.md",
     "Pasted image 20260930211303.png",
     "aniimo-farm-setup1-reddit.png",
     "dailynote/2026-09-30º.md",
