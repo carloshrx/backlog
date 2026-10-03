@@ -23,7 +23,7 @@ hexxin 20/20/20 hp/regen/atk
 distribua poucos pontos até pegar o +4%
 
 
-Como se comportar
+Guia de ação
 
 hit kill da chaminha quando chegou perto para ultar
 
