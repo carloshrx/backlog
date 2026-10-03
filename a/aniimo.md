@@ -29,3 +29,5 @@ Caso morra fique em um lugar seguro longe de qualquer animo porque as habilidade
 
 hit kill da chaminha quando chegou perto para ultar
 
+Blazen:
+Sparki (foguinho): Pressione E. NÃO ULTAR. Sair de perto o maximo possível. Ele pode te matar com um golpe
