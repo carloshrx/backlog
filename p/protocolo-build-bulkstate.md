@@ -21,6 +21,12 @@
 
 Vou adotar a máxima "resistir para endurecer" (*resist2hard*). É um raciocínio simples que tem por objetivo resistir a vontade crescente de mtbrp para garantir que, no ato, consiga acessar o máximo de qualidade de ereção/tempo/recuperação ou até, a sonhada, ereção contínua (acreditando que é possível atingir tal estado depois da ejaculação). Ainda não sei como poderia manter um mecanismo de controle, talvez a marcação das experiências fale por si só, e no melhor cenário, seriam suficientes para parar o impulso (e por lógica simples, não parariam nos piores cenários de descontrole).
 
-# 20261024 Adicionando uma fonte de expectativa
+# 20260924 Adicionando uma fonte de expectativa
 
 Fontes de expectativas podem me ajudar a guardar o recurso para quando eu precisar dele. Ainda que sejam ocasiões raras mas acessíveis. A abstração do "resistir para endurecer" ainda que carregue uma promessa teoricamente boa tem uma marcação fraca para controle. Vou incluir as marcações em um quadro fixo principal de alerta e devo marcar as datas para reforçar de modo positivo o ímpeto positivo de controle (a superar o negativo de descontrole e consumir a midia do tipo p).
+
+# 20261006 Bulkup e forma T
+
+A reforçar os conceitos anteriores vou adotar o reforço do regime como acumulador de cargas para conseguir tocar uma nova forma. A contar do dia de hoje. Como nível de teste inicio a observação. Com o tempo é que a forma se altere e apresente mudanças no estado inicial. Das mudanças podemos listar aumento do calibre, estado semi ereto persistente (volume+), ereção por estimulo visual, ereção facil, desenvolvimento da forma base (alteração do calibre de todo o conjunto como cabeça e corpo).
+
+- 20261006 B Consumo de mídia recente (madrugada). A forma é normal e promissora e não apresenta nada de especial apesar de ser um ponto de partida aceitável. O potencial de ereção esta normal desde que as cargas não sejam consumidas com pmo. O clima é frio. Acredito que o último não interfere no resultado

@@ -25,12 +25,14 @@
             "id": "32c4e3cf718c432e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.14.4"
+                "file": "p/protocolo-build-bulkstate.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.14.4"
+              "icon": "lucide-file",
+              "title": "protocolo-build-bulkstate"
             }
           },
           {
@@ -113,6 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "p/protocolo-build-bulkstate.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -258,7 +261,7 @@
     "dailynote/2026-09-26º.md",
     "dailynote/2026-09-25º.md",
     "p/protocolo-proposito-coleção.md",
-    "p/protocolo-expectativa-resi2hard.md",
+    "p/protocolo-build-bulkstate.md",
     "p/prompt-alwaysadm-Win10.md",
     "p/protocolo-trono-de-gelo.md",
     "dailynote/2026-09-24º.md",
