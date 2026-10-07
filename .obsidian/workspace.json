@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p/protocolo-build-bulkstate.md",
+                "file": "s/saude-prep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protocolo-build-bulkstate"
+              "title": "saude-prep"
             }
           },
           {
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "p/protocolo-build-bulkstate.md",
+                "file": "s/saude-prep.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -242,11 +242,12 @@
   },
   "active": "32c4e3cf718c432e",
   "lastOpenFiles": [
+    "a/agenda26.md",
     "a/aniimo.md",
+    "p/protocolo-build-bulkstate.md",
     "dailynote/2026-10-6º.md",
     "dailynote/2026-10-5º.md",
     "dailynote/2026-10-4º.md",
-    "a/agenda26.md",
     "s/saude-prep.md",
     "dailynote/2026-10-3º.md",
     "t/tfi.md",
@@ -261,7 +262,6 @@
     "dailynote/2026-09-26º.md",
     "dailynote/2026-09-25º.md",
     "p/protocolo-proposito-coleção.md",
-    "p/protocolo-build-bulkstate.md",
     "p/prompt-alwaysadm-Win10.md",
     "p/protocolo-trono-de-gelo.md",
     "dailynote/2026-09-24º.md",
