@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a/aniimo.md",
+                "file": "dailynote/2026-10-10º.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aniimo"
+              "title": "2026-10-10º"
             }
           },
           {
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "a/aniimo.md",
+                "file": "dailynote/2026-10-10º.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -236,11 +236,14 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "32c4e3cf718c432e",
   "lastOpenFiles": [
+    "a/aniimo.md",
+    "dailynote/2026-10-10º.md",
     "Pasted image 20261009234555.png",
     "a/agenda26.md",
     "a/admin-condominio.md",
@@ -249,7 +252,6 @@
     "p/protocolo-proposito-coleção.md",
     "dailynote/2026-10-9º.md",
     "dailynote/2026-10-8º.md",
-    "a/aniimo.md",
     "c/cemig.md",
     "dailynote/2026-10-7º.md",
     "s/saude-prep.md",
@@ -278,7 +280,6 @@
     "resources-offlink/curriculo-ats-keywords.jpg",
     "resources-offlink/architectural-styles.png",
     "resources-offlink/whatsapp-supported-markdown.jpg",
-    "readme-hello-animatedColorScheme.svg",
     "img",
     "pdf/c-completo-total.pdf",
     "news.blizzard.com/en-us/article/24267729",
