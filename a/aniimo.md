@@ -36,3 +36,4 @@ hit kill da chaminha quando chegou perto para ultar
 - Blazen:
 
 - ==Sparki== (foguinho): Pressione E. NÃO ULTAR. Sair de perto o maximo possível. Ele pode te matar com um golpe
+![](Pasted%20image%2020261009234555.png)
