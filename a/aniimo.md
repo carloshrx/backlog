@@ -37,3 +37,6 @@ hit kill da chaminha quando chegou perto para ultar
 
 - ==Sparki== (foguinho): Pressione E. NÃO ULTAR. Sair de perto o maximo possível. Ele pode te matar com um golpe
 ![](Pasted%20image%2020261009234555.png)
+
+harvest gathering: bright bloom
+https://www.reddit.com/r/Aniimo/comments/1x1ho68/harvest_gathering/
