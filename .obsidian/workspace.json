@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p/pixel-art.md",
+                "file": "dailynote/2026-10-13º.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pixel-art"
+              "title": "2026-10-13º"
             }
           },
           {
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "p/pixel-art.md",
+                "file": "dailynote/2026-10-13º.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -236,13 +236,15 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "32c4e3cf718c432e",
   "lastOpenFiles": [
-    "dailynote/2026-10-12º.md",
     "p/pixel-art.md",
+    "dailynote/2026-10-13º.md",
+    "dailynote/2026-10-12º.md",
     "dailynote/2026-10-11º.md",
     "a/aniimo.md",
     "dailynote/2026-10-10º.md",
@@ -269,7 +271,6 @@
     "dailynote/2026-09-30º.md",
     "dailynote/2026-09-29º.md",
     "dailynote/2026-09-28º.md",
-    "dailynote/2026-09-27º.md",
     "e/Sem título.canvas",
     "img",
     "resources-offlink/thinking-piramid.jpg",
