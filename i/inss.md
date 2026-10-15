@@ -19,10 +19,10 @@ https://meu.inss.gov.br/#/extrato-previdenciario?tk-categoria=Por%20Menu
 - [x] 202609-inss-comprovante
 15 de Outubro
 - [ ] 202610-inss-boleto
-- [ ] 202610-inss-recibo
+- [ ] 202610-inss-comprovante
 15 de Novembro
 - [ ] 202611-inss-boleto
-- [ ] 202611-inss-recibo
+- [ ] 202611-inss-comprovante
 15 de Dezembro
 - [ ] 202612-inss-boleto
-- [ ] 202612-inss-recibo
+- [ ] 202612-inss-comprovante
