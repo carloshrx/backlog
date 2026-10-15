@@ -179,6 +179,7 @@ ___
 19 SEG
 - [admin-ape](/a/admin-ape.md)
 20 TER
+- memantina 
 21 QUA
 22 QUI
 23 SEX
