@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-10-14º.md",
+                "file": "dailynote/2026-10-15º.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-14º"
+              "title": "2026-10-15º"
             }
           },
           {
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-10-14º.md",
+                "file": "dailynote/2026-10-15º.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -236,13 +236,15 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "32c4e3cf718c432e",
   "lastOpenFiles": [
-    "a/agenda26.md",
     "dailynote/2026-10-14º.md",
+    "dailynote/2026-10-15º.md",
+    "a/agenda26.md",
     "dailynote/2026-10-13º.md",
     "p/pixel-art.md",
     "dailynote/2026-10-12º.md",
@@ -269,7 +271,6 @@
     "Pasted image 20260930211303.png",
     "aniimo-farm-setup1-reddit.png",
     "dailynote/2026-09-30º.md",
-    "dailynote/2026-09-29º.md",
     "e/Sem título.canvas",
     "img",
     "resources-offlink/thinking-piramid.jpg",
