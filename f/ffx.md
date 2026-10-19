@@ -9,6 +9,8 @@
 ==🔴Firestrike== adiciona o elemento fogo aos ataques físicos e habilidades do personagem. Pode ser adicionada usando 4 bomb fragments. Se o inimigo for fraco ao fogo, o dano aumenta em 50%.
 - Multiplos elementos: O jogo seleciona automaticamente o elemento mais favorável ao inimigo.
 
+==🔴Ice ward== reduces ice elemental damage by 50%. Custom: 4 antartic winds stolen from enemies like white elements and snow flan. Superior to NulFrost and inferior to iceproof and iceeater
+
 ==🔴Initiative== raises chances of preemptive strike (acting before enemies) and eliminates ambushes in random encounters. Custom: 6 chocobbo feathers STOLEN from Qactuar in the thunder plains or cactuar enemies in bikanel island.
 
 ==🔴Poison ward== 50% chance to resist the poison status effect. Stronger alternatives: 
