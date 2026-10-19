@@ -21,6 +21,8 @@
 - Poisonproof customized with 12 poison fangs, this ability grants immunity to poison.
 - Ribbon An acessory that provides status immunity to all ailments.
 
+==🔴Sensor== reveals current/total hp, weaknesses, resist and status effects in contact
+
 ==🔴Sleepstrike== habilidade automatica de arma que adiciona a condição sleep. Custom: pode ser adicionada a qualquer arma usando 16 dream powders. Sinergia: combinar sleepstrike com sleeptouch aumenta a chance para 150% e a duração para 6 turnos. Fonte: sinspawn gui ou sleep sprout na arena de monstros.
 
 ==🔴SOS NulShock== elemental immunity ONLY during critical health. Seek better alternative like `thunder ward`.
