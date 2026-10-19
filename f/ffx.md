@@ -1,6 +1,8 @@
 
 # Tag
 
+==🔴Dark ward== 50% to resist status darkness (blind)
+
 ==🔴Firestrike== adiciona o elemento fogo aos ataques físicos e habilidades do personagem. Pode ser adicionada usando 4 bomb fragments. Se o inimigo for fraco ao fogo, o dano aumenta em 50%.
 - Multiplos elementos: O jogo seleciona automaticamente o elemento mais favorável ao inimigo.
 
