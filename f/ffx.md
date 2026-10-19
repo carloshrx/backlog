@@ -7,3 +7,4 @@
 
 # Enemies
 
+Garm immune to sleep6
