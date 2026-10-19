@@ -1,6 +1,9 @@
 
 # Tag
 
+==🔴Berserk Ward== 50% to prevent the Berserk status effect. Customized using 8 hypello potions stolen from Shred in the Calm lands or dropped by Raldo and Swamp Mafdet.
+- Useful against bosses like the Spectral Keeper, whose Bersek tail has 50% infliction rate. Combining rates results in zero.
+
 ==🔴Dark ward== 50% to resist status darkness (blind)
 
 ==🔴Firestrike== adiciona o elemento fogo aos ataques físicos e habilidades do personagem. Pode ser adicionada usando 4 bomb fragments. Se o inimigo for fraco ao fogo, o dano aumenta em 50%.
