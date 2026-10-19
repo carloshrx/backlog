@@ -18,3 +18,6 @@ Garm immune to sleep
 ## Aeons
 
 Ixion HASTE >
+
+## Zones
+
