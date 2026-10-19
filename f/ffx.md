@@ -4,6 +4,8 @@
 ==🔴Berserk Ward== 50% to prevent the Berserk status effect. Customized using 8 hypello potions stolen from Shred in the Calm lands or dropped by Raldo and Swamp Mafdet.
 - Useful against bosses like the Spectral Keeper, whose Bersek tail has 50% infliction rate. Combining rates results in zero.
 
+==🔴Deathtouch== 50% base chance to instantly kill a vulnerable enemy. It has no effect on zombie status. Lulu is the primary candidate for this ability, as her weapon fatal cait sith is purchasable in Moonflow. It most valuable for monster arena capturing or grindin in areas like inside sin and the omega ruins, where it pairs well with capture or mug abilities.
+
 ==🔴Dark ward== 50% to resist status darkness (blind)
 
 ==🔴Firestrike== adiciona o elemento fogo aos ataques físicos e habilidades do personagem. Pode ser adicionada usando 4 bomb fragments. Se o inimigo for fraco ao fogo, o dano aumenta em 50%.
@@ -39,4 +41,4 @@ Ixion HASTE >
 
 ## Zones
 
-==Moonflow== Poison Ward/poison proof, dark ward/darkproof. Sells good weapon with good touch modifiers
+==Moonflow== Poison Ward/poison proof, dark ward/darkproof. Sells good weapon with good touch modifiers. Noxious cait sith.
