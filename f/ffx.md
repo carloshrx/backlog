@@ -13,4 +13,8 @@
 
 # Enemies
 
-Garm immune to sleep6
+Garm immune to sleep
+
+## Aeons
+
+Ixion HASTE >
