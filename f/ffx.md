@@ -1,6 +1,9 @@
 
 # Tag
 
+==🔴Firestrike== adiciona o elemento fogo aos ataques físicos e habilidades do personagem. Pode ser adicionada usando 4 bomb fragments. Se o inimigo for fraco ao fogo, o dano aumenta em 50%.
+- Multiplos elementos: O jogo seleciona automaticamente o elemento mais favorável ao inimigo.
+
 ==🔴Initiative== raises chances of preemptive strike (acting before enemies) and eliminates ambushes in random encounters. Custom: 6 chocobbo feathers STOLEN from Qactuar in the thunder plains or cactuar enemies in bikanel island.
 
 ==🔴Sleepstrike== habilidade automatica de arma que adiciona a condição sleep. Custom: pode ser adicionada a qualquer arma usando 16 dream powders. Sinergia: combinar sleepstrike com sleeptouch aumenta a chance para 150% e a duração para 6 turnos. Fonte: sinspawn gui ou sleep sprout na arena de monstros.
