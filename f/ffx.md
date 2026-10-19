@@ -39,4 +39,4 @@ Ixion HASTE >
 
 ## Zones
 
-==Moonflow== Poison Ward/poison proof, dark ward/darkproof, 
+==Moonflow== Poison Ward/poison proof, dark ward/darkproof. Sells good weapon with good touch modifiers
