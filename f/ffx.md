@@ -35,6 +35,7 @@
 
 # Enemies
 
+Aerouge weak to water
 Garm immune to sleep
 Gold Element weak to water
 Larva weak to fire
