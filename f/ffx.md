@@ -44,3 +44,38 @@ Ixion HASTE >
 ## Zones
 
 ==Moonflow== Poison Ward/poison proof, dark ward/darkproof. Sells good weapon with good touch modifiers. Noxious cait sith.
+
+## Weapon Meta
+
+While Celestial Weapons are the best in Final Fantasy X because of their hidden defense-ignoring ability, custom weapons are essential for specific goals like AP farming or utility builds
+https://www.reddit.com/r/FinalFantasy/comments/13kgx1m/how_do_you_decide_what_customize_your_weapons_and/
+
+
+1. The Best AP-Farming Weapon (Endgame)
+
+To quickly max out the Sphere Grid using the Don Tonberry trick, customize a weapon with:
+• Triple AP
+• Overdrive → AP
+• Triple Overdrive
+
+
+2. General Endgame Custom Weapon Builds
+
+If you are crafting custom weapons instead of using Celestial Weapons, the setup depends on your character's role:
+
+• Mandatory Core Ability:
+	• Break Damage Limit (Allows damage to break past 99,999)
+• For Physical Attackers (Tidus, Wakka, Auron, Kimahri):
+	• Break Damage Limit
+	• Evade & Counter (Counters physical attacks even if you fail to dodge)
+	• Piercing (Ignores enemy defense, though less necessary if Strength is maxed out)
+	• Strength +20% or Triple Overdrive
+• For Magic Casters (Yuna, Lulu):
+	• Break Damage Limit
+	• One MP Cost (Crucial for spamming high-level spells or Quick Hit)
+	• Magic Booster (Increases magic damage at the cost of higher MP, paired with One MP Cost)
+	• Magic +20%
+• Utility / Special Weapons:
+	• Capture (Purchased from the Monster Arena to catch fiends for unlocks)
+	• First Strike (Essential on at least one party member to handle ambushes like Great Malboros in the Omega Ruins)
+	• Gillionaire / Master Thief (Rikku-specific utility for gil or rare item drops)
