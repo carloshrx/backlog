@@ -17,7 +17,7 @@
 
 ==🔴Lightning ward== reduces lightning elemental damage by 50%. using 4 electro marbles stolen from enemies like thunder flans or found in chests.
 
-==🔴MP Stroll== 
+==🔴MP Stroll== MP recover while walking
 
 ==🔴Poison ward== 50% chance to resist the poison status effect. Stronger alternatives: 
 - Poisonproof customized with 12 poison fangs, this ability grants immunity to poison.
