@@ -79,3 +79,22 @@ If you are crafting custom weapons instead of using Celestial Weapons, the setup
 	• Capture (Purchased from the Monster Arena to catch fiends for unlocks)
 	• First Strike (Essential on at least one party member to handle ambushes like Great Malboros in the Omega Ruins)
 	• Gillionaire / Master Thief (Rikku-specific utility for gil or rare item drops)
+
+## Meta Armor
+
+
+Variações e Alternativas Populares
+
+• Para o Dark Yojimbo / Lutas específicas: Substitua o Auto-Phoenix por Defense +20% em um dos personagens, pois contra o Yojimbo o ideal é sobreviver aos ataques em vez de depender apenas de reviver.
+• Para o Penance: Muitos jogadores preferem a build: Auto-Haste, Auto-Protect, Auto-Potion e Defense +25% (ou Auto-Regen), usando X-Potions com a habilidade Distiller/Auto-Potion para curar a party inteira rapidamente sem gastar turnos com magias.
+• Com Break HP Limit (BHPL): Se você optar por treinar HP até 99.999 (o que exige dezenas de horas extras de grinding de spheres), a build muda para: Break HP Limit, Auto-Haste, Auto-Regen e Ribbon. No entanto, a build padrão sem BHPL (9.999 HP) é muito mais eficiente e exige menos tempo de jogo.
+
+
+Onde conseguir as armaduras e materiais
+
+• Armaduras com 4 slots vazios: Podem ser compradas com o Wantz em Macalania Woods (desde que você tenha falado com ele antes no Monte Gagazet) ou dropadas em batalhas nas Omega Ruins.
+• Materiais de Customização:
+	• Auto-Haste: Chocobo Wing x80 (recompensa por capturar monstros nas Calm Lands ou suborno/bribe).
+	• Auto-Phoenix: Mega Phoenix x20 (obtido no Monster Arena ou cofres).
+	• Auto-Protect: Light Curtain x70 (obtido contra o chefe Fafnir no Monster Arena).
+	• Ribbon: Dark Matter x99 (dropado/recompensa do Monster Arena ou do truque do Dark Yojimbo)
