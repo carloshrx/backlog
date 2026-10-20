@@ -17,6 +17,8 @@
 
 ==🔴Lightning ward== reduces lightning elemental damage by 50%. using 4 electro marbles stolen from enemies like thunder flans or found in chests.
 
+==🔴MP Stroll== 
+
 ==🔴Poison ward== 50% chance to resist the poison status effect. Stronger alternatives: 
 - Poisonproof customized with 12 poison fangs, this ability grants immunity to poison.
 - Ribbon An acessory that provides status immunity to all ailments.
@@ -41,6 +43,7 @@ Gold Element weak to water
 Kurasiq weak to water
 Larva weak to water
 Melusine weak to ice
+Qactuar Rikku 5Petrifying Bomb, Tidus Provoke, 
 
 
 ## Aeons
