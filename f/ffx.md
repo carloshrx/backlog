@@ -38,7 +38,9 @@
 Aerouge weak to water
 Garm immune to sleep
 Gold Element weak to water
+Kurasiq weak to water
 Larva weak to water
+Melusine weak to ice
 
 
 ## Aeons
