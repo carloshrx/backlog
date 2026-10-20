@@ -43,7 +43,8 @@ Gold Element weak to water
 Kurasiq weak to water
 Larva weak to water
 Melusine weak to ice
-Qactuar Rikku 5Petrifying Bomb, Tidus Provoke, 
+Qactuar Rikku 5Petrifying Bomb, Tidus Provoke
+- Sidequest Cactuars from the minigame cannot run away, making them ideal for capturing
 
 
 ## Aeons
