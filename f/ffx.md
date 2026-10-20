@@ -36,6 +36,8 @@
 # Enemies
 
 Garm immune to sleep
+Larva weak to fire
+
 
 ## Aeons
 
