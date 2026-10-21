@@ -60,6 +60,10 @@ Larva weak to water
 Melusine weak to ice
 Qactuar Rikku 5Petrifying Bomb, Tidus Provoke
 - Sidequest Cactuars from the minigame cannot run away, making them ideal for capturing
+
+Serimorph 
+	blizzard move skill weak to fire
+	fire move skill weak to water
 Wasp weak to ice
 Xiphos weak to ice darkness works, but treaten is the way to go Immunities poison sleep USE blizzarda
 
