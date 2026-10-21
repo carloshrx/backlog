@@ -80,6 +80,9 @@ elemental shift 4
 water>thunder
 elemental shift 5 go to 1
 
+color 1 yellow + color 2 blue = white blizz
+skill thunder > hit with water
+
 ## Aeons
 
 Ixion HASTE >
