@@ -55,6 +55,7 @@ Chimera skillset Thundara>Assault>Aqua breath>Megiddo Flame (in that order), vul
 - if provoked (trheatened) the movepool turn into thundara on the provoke caster
 Garm immune to sleep
 Gold Element weak to water
+Ice flan 
 Iron Giant weak to water (protect>provoke>cheer)
 Kurasiq weak to water
 Larva weak to water
