@@ -62,23 +62,14 @@ Qactuar Rikku 5Petrifying Bomb, Tidus Provoke
 - Sidequest Cactuars from the minigame cannot run away, making them ideal for capturing
 
 Serimorph 
-	blizzard move skill weak to fire
-	fire move skill weak to water no thunder no blizzard yes
+- Remove Elemental Weapons: Unequip any weapons with elemental attachments (such as Tidus's Brotherhood, which has a Water strike that Spherimorph will absorb).
+1. Identify the Element: Use a basic physical attack with a character like Auron, Wakka, or Tidus to trigger Spherimorph's counter and reveal its active element.
+2. Exploit the Weakness: Have Lulu cast the opposing elemental black magic spell.
+3. Debuff & Heal: Use Auron to cast Power Break to lower its physical damage, and keep Yuna ready for healing or switch in Aeons with charged Overdrives matching the weakness.
+Basic attack with poisontouch (or sleeptouch, darktouch, deathtouch) can help to higher dps
+
 Wasp weak to ice
 Xiphos weak to ice darkness works, but treaten is the way to go Immunities poison sleep USE blizzarda
-
-water thunder
-fire blizz
-
-elemental shift 1
-fire>blizz
-elmental shift 2
-blizz>fire
-elemental shift 3
-thunder>water
-elemental shift 4
-water>thunder
-elemental shift 5 go to 1
 
 color 1 yellow + color 2 blue = white blizz
 skill thunder > hit with water
