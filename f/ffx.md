@@ -148,6 +148,24 @@ Onde conseguir as armaduras e materiais
 	• Auto-Protect: Light Curtain x70 (obtido contra o chefe Fafnir no Monster Arena).
 	• Ribbon: Dark Matter x99 (dropado/recompensa do Monster Arena ou do truque do Dark Yojimbo)
 
+
+- Auto-potion
+To customize Auto-Potion onto any armor in Final Fantasy X, you need 4 Stamina Tablets per piece of equipment. The ability automatically triggers a healing item when a character's HP drops to or below 50%, prioritizing the lowest-tier potion available in your inventory (Potion -> Hi-Potion -> X-Potion).
+ 
+How Item Priority Works
+
+Auto-Potion selects your healing item based on strict inventory hierarchy:
+1. Potion: Used first if any exist in your inventory.
+2. Hi-Potion: Used next if you have no regular Potions left.
+3. X-Potion: Used last if you have sold or exhausted all Potions and Hi-Potions.
+==🔴Pro tip==: Most players tackling endgame super-bosses (like Penance or the Dark Aeons) sell off all basic Potions and Hi-Potions so that Auto-Potion forces an immediate, massive heal using only X-Potions
+
+How to Get Stamina Tablets
+
+• Monster Arena: Unlocking the Area Creation fiend One-Eye rewards you with 60 Stamina Tablets. 
+(To unlock One-Eye, capture 4 of each floating single-eye fiend: Floating Eye, Buer, Evil Eye, Ahriman, and Floating Death).
+• Bribing / Drops: Can occasionally be obtained from specific monsters or rewards, though Monster Arena is the fastest method.
+
 ## Missions
 
 Butterfly hunt
