@@ -77,6 +77,7 @@ Iron Giant weak to water (protect>provoke>cheer)
 Ice wolf weak to fire
 Kurasiq weak to water
 Larva weak to water
+Mafdet weak to ice high magic resist
 Melusine weak to ice
 Qactuar Rikku 5Petrifying Bomb, Tidus Provoke
 - Sidequest Cactuars from the minigame cannot run away, making them ideal for capturing
