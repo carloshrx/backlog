@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-10-20º.md",
+                "file": "f/ffx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-20º"
+              "title": "ffx"
             }
           },
           {
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-10-20º.md",
+                "file": "f/ffx.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -242,10 +242,10 @@
   },
   "active": "32c4e3cf718c432e",
   "lastOpenFiles": [
-    "f/ffx.md",
-    "dailynote/2026-10-20º.md",
-    "n/nio.md",
     "a/aniimo.md",
+    "dailynote/2026-10-20º.md",
+    "f/ffx.md",
+    "n/nio.md",
     "i/intelbras-cam.md",
     "dailynote/2026-10-19º.md",
     "c/cemig.md",

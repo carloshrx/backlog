@@ -25,6 +25,8 @@
 - Poisonproof customized with 12 poison fangs, this ability grants immunity to poison.
 - Ribbon An acessory that provides status immunity to all ailments.
 
+==Protect== halves damage taken
+
 ==🔴Provoke== (permanent aligment) taunts one enemy to only single target attack caster. Can cancel caster combo with Shell.
 
 ==🔴Sensor== reveals current/total hp, weaknesses, resists and status effects of target
