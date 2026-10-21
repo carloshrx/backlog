@@ -46,6 +46,7 @@
 # Enemies
 
 Aerouge weak to water
+Buer weak to water/confusion
 Garm immune to sleep
 Gold Element weak to water
 Iron Giant weak to water (protect>provoke>cheer)
