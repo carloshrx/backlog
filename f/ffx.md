@@ -45,6 +45,15 @@
 ==🔴Thunder ward== reduces water elemental damage by 50%. Essential on thunder plains. Requires 4 marbles. Electro Marbles can be stolen from enemies like the yellow element or found in chests.
 - for full immunity, players can craft Lightningproof using 8 lightning marbles. A shield with lightningproof is also available for Tidus near the Thunder Plains Agency.
 
+## Element table
+
+| Attacker Element | ==🔴Targeted Monster== | Weaknesses                                   |
+| ---------------- | ---------------------- | -------------------------------------------- |
+| Fire             | ==🟣Ice==              | ice-themed enemies, plants                   |
+| Ice              | ==🔴Fire==             | Fire-based enemies, reptiles, flans          |
+| Water            | ==🟡Lightning==        | Lightning-based or electrical foes, Cactuars |
+| Lightning        | ==🔵Water==            | Aquatic-water based, machina                 |
+| Holy             | None                   | Undead                                       |
 
 # Enemies
 
@@ -55,8 +64,9 @@ Chimera skillset Thundara>Assault>Aqua breath>Megiddo Flame (in that order), vul
 - if provoked (trheatened) the movepool turn into thundara on the provoke caster
 Garm immune to sleep
 Gold Element weak to water
-Ice flan 
+Ice flan weak to fire 
 Iron Giant weak to water (protect>provoke>cheer)
+Ice wolf weak to fire
 Kurasiq weak to water
 Larva weak to water
 Melusine weak to ice
