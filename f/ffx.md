@@ -74,7 +74,7 @@ Garm immune to sleep
 Gold Element weak to water
 Ice flan weak to fire 
 Iron Giant weak to water (protect>provoke>cheer)
-Ice wolf weak to fire
+Ice wolf weak to fire weak to dark low phys def
 Kurasiq weak to water
 Larva weak to water
 Mafdet weak to ice high magic resist
