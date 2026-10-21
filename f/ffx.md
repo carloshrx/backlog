@@ -11,6 +11,9 @@
 ==🔴Firestrike== adiciona o elemento fogo aos ataques físicos e habilidades do personagem. Pode ser adicionada usando 4 bomb fragments. Se o inimigo for fraco ao fogo, o dano aumenta em 50%.
 - Multiplos elementos: O jogo seleciona automaticamente o elemento mais favorável ao inimigo.
 
+==First strike== always move first
+- Masamune celestial weapon of Auron has native ==🔴First strike==
+
 ==🔴HP Stroll== HP recover while walking
 
 ==🔴Ice ward== reduces ice elemental damage by 50%. Custom: 4 antartic winds stolen from enemies like white elements and snow flan. Superior to NulFrost and inferior to iceproof and iceeater
