@@ -71,9 +71,9 @@ water thunder
 fire blizz
 
 elemental shift 1
-blizz>fire
-elmental shift 2
 fire>blizz
+elmental shift 2
+blizz>fire
 elemental shift 3
 thunder>water
 elemental shift 4
