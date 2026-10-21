@@ -70,8 +70,9 @@ Xiphos weak to ice darkness works, but treaten is the way to go Immunities poiso
 water thunder
 fire blizz
 
-blizz fire
-fire blizz
+blizz>fire
+elmental shift
+fire>blizz
 
 ## Aeons
 
