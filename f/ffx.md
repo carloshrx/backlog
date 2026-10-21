@@ -77,7 +77,7 @@ Iron Giant weak to water (protect>provoke>cheer)
 Ice wolf weak to fire weak to dark low phys def
 Kurasiq weak to water
 Larva weak to water
-Mafdet-blue weak to ice x4 weak to lightning x2 high magic resist high phys def
+Mafdet-blue weak to lightning x2 high magic resist high phys def
 Mafdet-green
 Melusine weak to ice
 Qactuar Rikku 5Petrifying Bomb, Tidus Provoke
