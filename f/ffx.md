@@ -4,6 +4,13 @@
 ==🔴Berserk Ward== 50% to prevent the Berserk status effect. Customized using 8 hypello potions stolen from Shred in the Calm lands or dropped by Raldo and Swamp Mafdet.
 - Useful against bosses like the Spectral Keeper, whose Bersek tail has 50% infliction rate. Combining rates results in zero.
 
+==Bio==
+
+• Eficácia contra chefes: Diferente de outros jogos da franquia, o veneno em FFX tira uma quantidade expressiva de HP por turno de chefes e monstros com muita vida (muitas vezes 1/4 do HP máximo ou dano fixo alto).
+
+• Batalhas úteis: É extremamente útil em lutas contra chefes específicos (como Seymour em certas fases) e monstros grandes/irritantes (como Sandworms ou inimigos em Mt. Gagazet) que são suscetíveis ao status
+
+Bio and poison are two very different spells. Bio is almost always one of the most damaging spells you acquire in the midgame and sometimes even remains useful in the end due to usually having a substantially lower MP cost than the -ga spells but still doing more than half their damage per cast. It's also non-elemental so you never have to worry about it being resisted or absorbed. Poison though is basically always either useless or at best negligible.
 ==🔴Deathtouch== 50% base chance to instantly kill a vulnerable enemy. It has no effect on zombie status. Lulu is the primary candidate for this ability, as her weapon fatal cait sith is purchasable in Moonflow. It most valuable for monster arena capturing or grindin in areas like inside sin and the omega ruins, where it pairs well with capture or mug abilities.
 
 ==🔴Dark ward== 50% to resist status darkness (blind)
