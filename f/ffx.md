@@ -49,6 +49,7 @@
 # Enemies
 
 Aerouge weak to water
+Blue Element weak to thunder
 Buer weak to water/confusion
 Chimera skillset Thundara>Assault>Aqua breath>Megiddo Flame (in that order), vulnerable to trheaten, darkness and silence. Kimari can learn Aqua Breath. RESIST FIRE WATER USE thundara
 - if provoked (trheatened) the movepool turn into thundara on the provoke caster
