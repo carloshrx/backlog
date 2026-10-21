@@ -82,6 +82,11 @@ Mafdet-green
 Melusine weak to ice
 Qactuar Rikku 5Petrifying Bomb, Tidus Provoke
 - Sidequest Cactuars from the minigame cannot run away, making them ideal for capturing
+Seymor
+• Fase 1 (Com os Guardas Guado): Use os comandos de "Talk" (Conversar) com Tidus, Wakka ou Yuna para ganhar bônus temporários. Use itens ou magias de Petrificar/Ataques de status nos dois guardas Guado, ou roube os itens deles com a Rikku.
+• Ataques Elementais: Seymour lança magias de gelo, raio, água e fogo em uma sequência exata (Gelo -> Raio -> Água -> Fogo). Antecipe-se usando as magias brancas NulIce, NulShock, NulWater e NulBlaze da Yuna para zerar o dano.
+• Invocação da Anima: Quando Seymour invocar a Anima, use um Aeon poderoso (como Shiva ou Ifrit) ou descarregue o Overdrive que você deixou pronto com a Yuna para destruir a Anima antes que ela use o golpe Pain.
+• Pós-Anima: Seymour retornará sozinho e usará magias duplas com poder aumentado. Mantenha a barra de HP da equipe cheia e use Dispel ou Aerospark se ele conjurar Shell em si mesmo
 
 Serimorph 
 - Remove Elemental Weapons: Unequip any weapons with elemental attachments (such as Tidus's Brotherhood, which has a Water strike that Spherimorph will absorb).
