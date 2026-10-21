@@ -68,7 +68,7 @@ Serimorph
 3. Debuff & Heal: Use Auron to cast Power Break to lower its physical damage, and keep Yuna ready for healing or switch in Aeons with charged Overdrives matching the weakness.
 Basic attack with poisontouch (or sleeptouch, darktouch, deathtouch) can help to higher dps
 
-Wasp weak to ice
+Wasp weak to ice2
 Xiphos weak to ice darkness works, but treaten is the way to go Immunities poison sleep USE blizzarda
 
 color 1 yellow + color 2 blue = white blizz
