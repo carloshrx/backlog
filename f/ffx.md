@@ -48,6 +48,7 @@
 Aerouge weak to water
 Garm immune to sleep
 Gold Element weak to water
+Iron Giant weak to ice
 Kurasiq weak to water
 Larva weak to water
 Melusine weak to ice
