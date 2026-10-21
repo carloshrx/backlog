@@ -119,4 +119,11 @@ Onde conseguir as armaduras e materiais
 	• Auto-Haste: Chocobo Wing x80 (recompensa por capturar monstros nas Calm Lands ou suborno/bribe).
 	• Auto-Phoenix: Mega Phoenix x20 (obtido no Monster Arena ou cofres).
 	• Auto-Protect: Light Curtain x70 (obtido contra o chefe Fafnir no Monster Arena).
-	• Ribbon: Dark Matter x99 (dropado/recompensa do Monster Arena ou do truque do Dark Yojimbo)6
+	• Ribbon: Dark Matter x99 (dropado/recompensa do Monster Arena ou do truque do Dark Yojimbo)
+
+## Missions
+
+Butterfly hunt
+Try to catch seven of the blue butterflies, but watch out for the reds for they call powerful fiends when threatened. 
+Butterflies disappear after a certain time. Try catching the blue butterflies while avoiding the red ones.
+
