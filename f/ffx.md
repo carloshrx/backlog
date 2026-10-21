@@ -77,7 +77,8 @@ Iron Giant weak to water (protect>provoke>cheer)
 Ice wolf weak to fire weak to dark low phys def
 Kurasiq weak to water
 Larva weak to water
-Mafdet weak to ice high magic resist
+Mafdet-blue weak to ice x4 weak to lightning x2 high magic resist high phys def
+Mafdet-green
 Melusine weak to ice
 Qactuar Rikku 5Petrifying Bomb, Tidus Provoke
 - Sidequest Cactuars from the minigame cannot run away, making them ideal for capturing
