@@ -82,6 +82,14 @@ Mafdet-blue weak to heavy hit auron weak to piercing weak to fire high magic res
 Mafdet-green
 Melusine weak to ice
 Oaka's XXIII
+- giving money (gil) to the traveling merchant O'aka XXIII changes his future item and equipment prices during Operation Mi'ihen. Donating 10,001 gil or more gives you a 30% discount, while lower amounts cause price markups from 20% to 100%
+- 0 – 100 gil: Prices go up by 100% (double cost).
+- 101 – 1,000 gil: Prices go up by 50%.
+- 1,001 – 10,000 gil: Prices go up by 20%.
+- 10,001+ gil: You get a 30% discount on all of his items.
+- You can meet O'aka on the S.S. Liki, in Luca, and along the Mi'ihen Highroad. You can split your donations across these meetings.
+- ==🔴Later in Macalania Woods, if you speak to him and tell him his wares are "too pricey," he lowers his prices by an extra 25%==
+- On the Mi'ihen Old Road right before Mushroom Rock Road, a different NPC collects donations for Operation Mi'ihen itself (giving items like a special ball or ring depending on how much you give), which is sometimes confused with O'aka's system
 Qactuar Rikku 5Petrifying Bomb, Tidus Provoke
 - Sidequest Cactuars from the minigame cannot run away, making them ideal for capturing
 Seymor
