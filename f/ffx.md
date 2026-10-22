@@ -81,6 +81,7 @@ Larva weak to water
 Mafdet-blue weak to heavy hit auron weak to piercing weak to fire high magic resist high phys def
 Mafdet-green
 Melusine weak to ice
+Oaka's XXIII
 Qactuar Rikku 5Petrifying Bomb, Tidus Provoke
 - Sidequest Cactuars from the minigame cannot run away, making them ideal for capturing
 Seymor
