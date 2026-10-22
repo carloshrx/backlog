@@ -11,9 +11,9 @@ anti-alias msaa 8x
 color correct on
 ambient occ hdao high
 
-## Blitzhelp
+# Blitzhelp
 
-Change to Manual Mode
+==🔴Change to Manual Mode==
 
 - Para mudar o controle do Blitzball no Final Fantasy X (FFX) para o modo manual, pressione Triângulo (no PlayStation) ou Y (no Xbox / Switch) enquanto estiver com a bola ou no início da partida, e selecione a opção Manual A ou Manual B no menu que aparecer.
 
@@ -23,7 +23,23 @@ Tipos de Controle Manual
 > Manual B: A movimentação baseia-se na perspectiva da câmera do jogador que está com a bola.
 > Nota: Você só controla manualmente o personagem que está com a bola; os demais continuam no modo automático. No Final Fantasy X-2, o modo manual de Blitzball não existe.
 
+==🔴Jecht Shot==
 
+Para aprender o Jecht Shot em Final Fantasy X, você precisa interagir com a bola de Blitzball no navio (SS Winno) no trajeto de Kilika para Luca, após ouvir uma conversa entre Wakka e Lulu.
+
+Como funciona o mini-game
+
+Durante a sequência de lembranças, frases de Jecht vão aparecer em diferentes partes da tela:
+• Pressionar simultaneamente: Você deve apertar a direção no direcional (D-Pad) ou alavanca analógica junto com o botão X (ou o botão de confirmação do seu controle) na mesma direção em que a frase aparecer na tela.
+• No centro da tela: Se a frase aparecer bem no meio, aperte apenas X (sem nenhuma direção).
+• Cantos da tela: Se aparecer em um canto (por exemplo, superior direito), pressione as duas direções ao mesmo tempo com o X (ex: Cima + Direita + X).
+
+Regras para conseguir
+
+• Você precisa acertar 11 frases com sucesso para completar o desafio e aprender a técnica.
+• Dica: É altamente recomendável salvar o jogo antes de interagir com a bola, caso você erre e precise tentar novamente.
+• Se você perder essa chance no navio, pode voltar depois pegando o navio de volta de Luca para Kilika.
+• Depois de aprender, lembre-se de equipar o Jecht Shot no menu de Blitzball do Tidus (você pode precisar subir o Tidus para o nível 2 para abrir o slot de habilidade).
 
 
 # Tag
@@ -82,7 +98,7 @@ Bio and poison are two very different spells. Bio is almost always one of the mo
 ==🔴Thunder ward== reduces water elemental damage by 50%. Essential on thunder plains. Requires 4 marbles. Electro Marbles can be stolen from enemies like the yellow element or found in chests.
 - for full immunity, players can craft Lightningproof using 8 lightning marbles. A shield with lightningproof is also available for Tidus near the Thunder Plains Agency.
 
-## Element table
+# Element table
 
 | Attacker Element | ==🔴Targeted Monster== | Weaknesses                                   |
 | ---------------- | ---------------------- | -------------------------------------------- |
@@ -144,15 +160,15 @@ Wasp weak to ice2
 Worker weak to light
 Xiphos weak to ice darkness works, but treaten is the way to go Immunities poison sleep USE blizzarda
 
-## Aeons
+# Aeons
 
 Ixion HASTE >
 
-## Zones
+# Zones
 
 ==Moonflow== Poison Ward/poison proof, dark ward/darkproof. Sells good weapon with good touch modifiers. Noxious cait sith.
 
-## Weapon Meta
+# Weapon Meta
 
 While Celestial Weapons are the best in Final Fantasy X because of their hidden defense-ignoring ability, custom weapons are essential for specific goals like AP farming or utility builds
 https://www.reddit.com/r/FinalFantasy/comments/13kgx1m/how_do_you_decide_what_customize_your_weapons_and/
@@ -187,7 +203,7 @@ If you are crafting custom weapons instead of using Celestial Weapons, the setup
 	• First Strike (Essential on at least one party member to handle ambushes like Great Malboros in the Omega Ruins)
 	• Gillionaire / Master Thief (Rikku-specific utility for gil or rare item drops)
 
-## Meta Armor
+# Meta Armor
 
 
 Variações e Alternativas Populares
@@ -224,7 +240,7 @@ How to Get Stamina Tablets
 (To unlock One-Eye, capture 4 of each floating single-eye fiend: Floating Eye, Buer, Evil Eye, Ahriman, and Floating Death).
 • Bribing / Drops: Can occasionally be obtained from specific monsters or rewards, though Monster Arena is the fastest method.
 
-## Missions
+# Missions
 
 Butterfly hunt
 Try to catch seven of the blue butterflies, but watch out for the reds for they call powerful fiends when threatened. 
