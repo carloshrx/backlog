@@ -168,7 +168,7 @@ Qactuar Rikku Petrifying Bomb, Tidus Provoke
 - Sidequest Cactuars from the minigame cannot run away, making them ideal for capturing
 Ragora weak to fire
 
-Vouivre weak to piercing. 
+Vouivre weak to ice and piercing
 
 Seymor
 • Fase 1 (Com os Guardas Guado): Use os comandos de "Talk" (Conversar) com Tidus, Wakka ou Yuna para ganhar bônus temporários. Use itens ou magias de Petrificar/Ataques de status nos dois guardas Guado, ou roube os itens deles com a Rikku.
