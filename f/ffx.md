@@ -68,6 +68,12 @@ Bio and poison are two very different spells. Bio is almost always one of the mo
 
 ==🔴Dark ward== 50% to resist status darkness (blind)
 
+==🔴Distill==
+• Distill Power: Forces enemies to drop Power Spheres.
+• Distill Mana: Forces enemies to drop Mana Spheres.
+• Distill Speed: Forces enemies to drop Speed Spheres (Speed/Agility Spheres).
+• Distill Ability: Forces enemies to drop Ability Sphere
+
 ==🔴Firestrike== adiciona o elemento fogo aos ataques físicos e habilidades do personagem. Pode ser adicionada usando 4 bomb fragments. Se o inimigo for fraco ao fogo, o dano aumenta em 50%.
 - Multiplos elementos: O jogo seleciona automaticamente o elemento mais favorável ao inimigo.
 
