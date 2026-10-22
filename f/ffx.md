@@ -173,6 +173,10 @@ Xiphos weak to ice darkness works, but treaten is the way to go Immunities poiso
 
 Ixion HASTE >
 
+VS IFRIT
+Attack > Meteor Strike
+Water > Shield > Repeat
+Begin with shield
 # Zones
 
 ==Moonflow== Poison Ward/poison proof, dark ward/darkproof. Sells good weapon with good touch modifiers. Noxious cait sith.
