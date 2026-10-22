@@ -127,6 +127,7 @@ Bio and poison are two very different spells. Bio is almost always one of the mo
 
 Aerouge weak to water
 Blue Element weak to thunder
+Bomb (red/fire) weak to ice. Cast NulBlaze to counter selfdestruct.
 Buer weak to water/confusion
 Chimera skillset Thundara>Assault>Aqua breath>Megiddo Flame (in that order), vulnerable to trheaten, darkness and silence. Kimari can learn Aqua Breath. RESIST FIRE WATER USE thundara
 - if provoked (trheatened) the movepool turn into thundara on the provoke caster
