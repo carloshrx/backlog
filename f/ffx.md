@@ -30,6 +30,8 @@ Bio and poison are two very different spells. Bio is almost always one of the mo
 
 ==🔴Lightning ward== reduces lightning elemental damage by 50%. using 4 electro marbles stolen from enemies like thunder flans or found in chests.
 
+==🔴Luck Sphere and Fortune Sphere==
+
 ==🔴MP Stroll== MP recover while walking
 
 ==🔴Poison ward== 50% chance to resist the poison status effect. Stronger alternatives: 
