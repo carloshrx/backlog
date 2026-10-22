@@ -59,6 +59,13 @@ Bio and poison are two very different spells. Bio is almost always one of the mo
 
 ==🔴Deathtouch== 50% base chance to instantly kill a vulnerable enemy. It has no effect on zombie status. Lulu is the primary candidate for this ability, as her weapon fatal cait sith is purchasable in Moonflow. It most valuable for monster arena capturing or grindin in areas like inside sin and the omega ruins, where it pairs well with capture or mug abilities.
 
+==🔴Cheer==
+• Força (+Strength): Cada uso aumenta a Força de cada personagem em 1 ponto.
+• Resistência Física (+Defense): Cada uso reduz o dano físico recebido em 1/15 (cerca de 6,67%).
+• Acúmulo (Stacking): Pode ser usada até 5 vezes por batalha.
+• Bônus total máximo (5 usos): Concede +5 de Força e reduz o dano físico recebido em 5/15 (equivalente a 33,33% menos dano).
+• Ultrapassa o limite: Consegue elevar a Força além do limite padrão de 255 (indo até 260 em batalha), o que a torna útil até contra chefes do end-game e na Monster Arena
+
 ==🔴Dark ward== 50% to resist status darkness (blind)
 
 ==🔴Firestrike== adiciona o elemento fogo aos ataques físicos e habilidades do personagem. Pode ser adicionada usando 4 bomb fragments. Se o inimigo for fraco ao fogo, o dano aumenta em 50%.
