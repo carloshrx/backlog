@@ -13,6 +13,8 @@ ambient occ hdao high
 
 # Blitzhelp
 
+Read [more](https://www.reddit.com/r/finalfantasyx/comments/txrcud/a_beginners_guide_to_blitzball/)
+
 ==🔴Change to Manual Mode==
 
 - Para mudar o controle do Blitzball no Final Fantasy X (FFX) para o modo manual, pressione Triângulo (no PlayStation) ou Y (no Xbox / Switch) enquanto estiver com a bola ou no início da partida, e selecione a opção Manual A ou Manual B no menu que aparecer.
