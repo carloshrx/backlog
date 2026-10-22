@@ -13,6 +13,18 @@ ambient occ hdao high
 
 ## Blitzhelp
 
+Change to Manual Mode
+
+- Para mudar o controle do Blitzball no Final Fantasy X (FFX) para o modo manual, pressione Triângulo (no PlayStation) ou Y (no Xbox / Switch) enquanto estiver com a bola ou no início da partida, e selecione a opção Manual A ou Manual B no menu que aparecer.
+
+Tipos de Controle Manual
+
+> Manual A: A movimentação do jogador segue a direção fixa do minimapa (cima é cima, baixo é baixo, esquerda é esquerda, direita é direita), o que facilita para acompanhar o radar.
+> Manual B: A movimentação baseia-se na perspectiva da câmera do jogador que está com a bola.
+> Nota: Você só controla manualmente o personagem que está com a bola; os demais continuam no modo automático. No Final Fantasy X-2, o modo manual de Blitzball não existe.
+
+
+
 
 # Tag
 
