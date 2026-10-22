@@ -94,6 +94,7 @@ Oaka's XXIII
 - You can meet O'aka on the S.S. Liki, in Luca, and along the Mi'ihen Highroad. You can split your donations across these meetings.
 - ==🔴Later in Macalania Woods, if you speak to him and tell him his wares are "too pricey," he lowers his prices by an extra 25%==
 - On the Mi'ihen Old Road right before Mushroom Rock Road, a different NPC collects donations for Operation Mi'ihen itself (giving items like a special ball or ring depending on how much you give), which is sometimes confused with O'aka's system
+Oblitzerator speeds up when damaged. Vulnerable to lightning but chucks a Mute Ball at anyone casting Thunder.
 Qactuar Rikku Petrifying Bomb, Tidus Provoke
 - Sidequest Cactuars from the minigame cannot run away, making them ideal for capturing
 Ragora weak to fire
