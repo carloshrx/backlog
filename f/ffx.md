@@ -10,6 +10,10 @@ shadows medium
 anti-alias msaa 8x
 color correct on
 ambient occ hdao high
+
+## Blitzhelp
+
+
 # Tag
 
 ==🔴Berserk Ward== 50% to prevent the Berserk status effect. Customized using 8 hypello potions stolen from Shred in the Calm lands or dropped by Raldo and Swamp Mafdet.
