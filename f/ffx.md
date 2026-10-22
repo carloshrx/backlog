@@ -125,6 +125,8 @@ Buer weak to water/confusion
 Chimera skillset Thundara>Assault>Aqua breath>Megiddo Flame (in that order), vulnerable to trheaten, darkness and silence. Kimari can learn Aqua Breath. RESIST FIRE WATER USE thundara
 - if provoked (trheatened) the movepool turn into thundara on the provoke caster
 Dinonix (green) weak to ice
+Dualhorn 
+- inflict DARKNESS or use sleep ASAP to counter GORE. Kimahri can Learn Fire Breath. Neutral to all elements.
 Garuda 
 Garm immune to sleep
 Gold Element weak to water
