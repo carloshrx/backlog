@@ -113,10 +113,8 @@ Serimorph
 Basic attack with poisontouch (or sleeptouch, darktouch, deathtouch) can help to higher dps
 
 Wasp weak to ice2
+Worker weak to light
 Xiphos weak to ice darkness works, but treaten is the way to go Immunities poison sleep USE blizzarda
-
-color 1 yellow + color 2 blue = white blizz
-skill thunder > hit with water
 
 ## Aeons
 
