@@ -135,9 +135,11 @@ ChocoboEater
 - piercing weapons. After he says "You're next" he'll unleash a powerful attack
 - weak to Fire
 - Casts Blizzard on low hp. Use Nulfrost
+
 Dinonix (green) weak to ice
 Dualhorn 
 - inflict DARKNESS or use sleep ASAP to counter GORE. Kimahri can Learn Fire Breath. Neutral to all elements.
+
 Garuda 
 Garm immune to sleep
 Gold Element weak to water
@@ -159,10 +161,12 @@ Oaka's XXIII
 - You can meet O'aka on the S.S. Liki, in Luca, and along the Mi'ihen Highroad. You can split your donations across these meetings.
 - ==🔴Later in Macalania Woods, if you speak to him and tell him his wares are "too pricey," he lowers his prices by an extra 25%==
 - On the Mi'ihen Old Road right before Mushroom Rock Road, a different NPC collects donations for Operation Mi'ihen itself (giving items like a special ball or ring depending on how much you give), which is sometimes confused with O'aka's system
+
 Oblitzerator speeds up when damaged. Vulnerable to lightning but chucks a Mute Ball at anyone casting Thunder.
 Qactuar Rikku Petrifying Bomb, Tidus Provoke
 - Sidequest Cactuars from the minigame cannot run away, making them ideal for capturing
 Ragora weak to fire
+
 Seymor
 • Fase 1 (Com os Guardas Guado): Use os comandos de "Talk" (Conversar) com Tidus, Wakka ou Yuna para ganhar bônus temporários. Use itens ou magias de Petrificar/Ataques de status nos dois guardas Guado, ou roube os itens deles com a Rikku.
 • Ataques Elementais: Seymour lança magias de gelo, raio, água e fogo em uma sequência exata
@@ -170,6 +174,8 @@ Seymor
 Antecipe-se usando as magias brancas NulIce, NulShock, NulWater e NulBlaze da Yuna para zerar o dano.
 • Invocação da Anima: Quando Seymour invocar a Anima, use um Aeon poderoso (como Shiva ou Ifrit) ou descarregue o Overdrive que você deixou pronto com a Yuna para destruir a Anima antes que ela use o golpe Pain.
 • Pós-Anima: Seymour retornará sozinho e usará magias duplas com poder aumentado. Mantenha a barra de HP da equipe cheia e use Dispel ou Aerospark se ele conjurar Shell em si mesmo
+
+Thunder Flan weak to water
 
 Serimorph 
 - Remove Elemental Weapons: Unequip any weapons with elemental attachments (such as Tidus's Brotherhood, which has a Water strike that Spherimorph will absorb).
