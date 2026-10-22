@@ -78,6 +78,7 @@ Gold Element weak to water
 Ice flan weak to fire 
 Iron Giant weak to water (protect>provoke>cheer)
 Ice wolf weak to fire weak to dark low phys def
+Killer Bee (orange) weak to ice
 Kurasiq weak to water
 Larva weak to water
 Mafdet-blue weak to heavy hit auron weak to piercing weak to fire high magic resist high phys def
