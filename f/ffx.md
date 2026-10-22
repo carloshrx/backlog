@@ -1,6 +1,8 @@
 ## Config
 
-
+video res 1366x768
+bordeless mode
+bright 20
 # Tag
 
 ==🔴Berserk Ward== 50% to prevent the Berserk status effect. Customized using 8 hypello potions stolen from Shred in the Calm lands or dropped by Raldo and Swamp Mafdet.
