@@ -93,8 +93,9 @@ Oaka's XXIII
 - You can meet O'aka on the S.S. Liki, in Luca, and along the Mi'ihen Highroad. You can split your donations across these meetings.
 - ==🔴Later in Macalania Woods, if you speak to him and tell him his wares are "too pricey," he lowers his prices by an extra 25%==
 - On the Mi'ihen Old Road right before Mushroom Rock Road, a different NPC collects donations for Operation Mi'ihen itself (giving items like a special ball or ring depending on how much you give), which is sometimes confused with O'aka's system
-Qactuar Rikku 5Petrifying Bomb, Tidus Provoke
+Qactuar Rikku Petrifying Bomb, Tidus Provoke
 - Sidequest Cactuars from the minigame cannot run away, making them ideal for capturing
+Ragora weak to fire
 Seymor
 • Fase 1 (Com os Guardas Guado): Use os comandos de "Talk" (Conversar) com Tidus, Wakka ou Yuna para ganhar bônus temporários. Use itens ou magias de Petrificar/Ataques de status nos dois guardas Guado, ou roube os itens deles com a Rikku.
 • Ataques Elementais: Seymour lança magias de gelo, raio, água e fogo em uma sequência exata
