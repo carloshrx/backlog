@@ -144,6 +144,7 @@ Garuda
 Garm immune to sleep
 Gold Element weak to water
 Ice flan weak to fire 
+Ipiria weak to ice
 Iron Giant weak to water (protect>provoke>cheer)
 Ice wolf weak to fire weak to dark low phys def
 Killer Bee (orange) weak to ice
