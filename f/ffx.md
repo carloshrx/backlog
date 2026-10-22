@@ -131,6 +131,10 @@ Bomb (red/fire) weak to ice. Cast NulBlaze to counter selfdestruct.
 Buer weak to water/confusion
 Chimera skillset Thundara>Assault>Aqua breath>Megiddo Flame (in that order), vulnerable to trheaten, darkness and silence. Kimari can learn Aqua Breath. RESIST FIRE WATER USE thundara
 - if provoked (trheatened) the movepool turn into thundara on the provoke caster
+ChocoboEater 
+- piercing weapons. After he says "You're next" he'll unleash a powerful attack
+- weak to Fire
+- Casts Blizzard on low hp. Use Nulfrost
 Dinonix (green) weak to ice
 Dualhorn 
 - inflict DARKNESS or use sleep ASAP to counter GORE. Kimahri can Learn Fire Breath. Neutral to all elements.
