@@ -197,7 +197,10 @@ Raptor weak to ice
 Vouivre weak to ice and piercing
 
 Seymor
+Turno 1
+Stone Breath Overdrive Kimahri. Load overdrive before fight.
 • Fase 1 (Com os Guardas Guado): Use os comandos de "Talk" (Conversar) com Tidus, Wakka ou Yuna para ganhar bônus temporários. Use itens ou magias de Petrificar/Ataques de status nos dois guardas Guado, ou roube os itens deles com a Rikku.
+
 • Ataques Elementais: Seymour lança magias de gelo, raio, água e fogo em uma sequência exata
 ==Gelo -> Raio -> Água -> Fogo==
 Antecipe-se usando as magias brancas NulIce, NulShock, NulWater e NulBlaze da Yuna para zerar o dano.
