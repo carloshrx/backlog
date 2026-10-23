@@ -204,7 +204,7 @@ Serimorph
 1. Identify the Element: Use a basic physical attack with a character like Auron, Wakka, or Tidus to trigger Spherimorph's counter and reveal its active element.
 2. Exploit the Weakness: Have Lulu cast the opposing elemental black magic spell.
 3. Debuff & Heal: Use Auron to cast Power Break to lower its physical damage, and keep Yuna ready for healing or switch in Aeons with charged Overdrives matching the weakness.
-Basic attack with poisontouch (or sleeptouch, darktouch, deathtouch) can help to higher dps
+
 
 Sinspawn Gui
 Wasp weak to ice2
