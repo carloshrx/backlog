@@ -156,6 +156,7 @@ Iron Giant weak to water (protect>provoke>cheer)
 Ice wolf weak to fire weak to dark low phys def
 Killer Bee (orange) weak to ice
 Kurasiq weak to water
+Lamashtu weak to fire. Use NulFrost to counter Breath-ice
 Larva weak to water
 Mafdet-blue weak to heavy hit auron weak to piercing weak to fire high magic resist high phys def
 Mafdet-green
@@ -174,7 +175,7 @@ Oblitzerator speeds up when damaged. Vulnerable to lightning but chucks a Mute B
 Qactuar Rikku Petrifying Bomb, Tidus Provoke
 - Sidequest Cactuars from the minigame cannot run away, making them ideal for capturing
 Ragora weak to fire
-
+Raptor weak to ice
 Vouivre weak to ice and piercing
 
 Seymor
