@@ -142,6 +142,8 @@ ChocoboEater
 - weak to Fire
 - Casts Blizzard on low hp. Use Nulfrost
 
+Crawler
+
 Dinonix (green) weak to ice
 Dualhorn 
 - inflict DARKNESS or use sleep ASAP to counter GORE. Kimahri can Learn Fire Breath. Neutral to all elements.
