@@ -42,7 +42,7 @@ A reforçar os conceitos anteriores vou adotar o reforço do regime como acumula
 
 20261011 Iago (prismatico)
 - transição de posições: missionário oral > missionario anal > frango > sentada
-- +
+- 
 
 # X-buffering
 
