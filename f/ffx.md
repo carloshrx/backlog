@@ -174,9 +174,10 @@ Oaka's XXIII
 
 Oblitzerator speeds up when damaged. Vulnerable to lightning but chucks a Mute Ball at anyone casting Thunder.
 Ochu
+- while sleeping damage received is doubled. Use sleep attack or sleeptouch
 - when hp low performs ochu dance which inflicts darkness, silence, confusion and slow
 - immunities darkness, zombie, confusion, bersek, provoke
-- weak to FIRE weak to SLEEP
+- weak to FIRE weak to SLEEP/SILENCE
 Qactuar Rikku Petrifying Bomb, Tidus Provoke
 - Sidequest Cactuars from the minigame cannot run away, making them ideal for capturing
 Ragora weak to fire
