@@ -204,6 +204,9 @@ Serimorph
 1. Identify the Element: Use a basic physical attack with a character like Auron, Wakka, or Tidus to trigger Spherimorph's counter and reveal its active element.
 2. Exploit the Weakness: Have Lulu cast the opposing elemental black magic spell.
 3. Debuff & Heal: Use Auron to cast Power Break to lower its physical damage, and keep Yuna ready for healing or switch in Aeons with charged Overdrives matching the weakness.
+4. See the attacker type to choose right element type
+5. O feitiço que ele usa como contra-ataque indica o elemento oposto à fraqueza atual dele.
+6. Exemplo: Se ele contra-atacar com Blizzard (Gelo), significa que a fraqueza atual dele é Fogo
 
 
 Sinspawn Gui
