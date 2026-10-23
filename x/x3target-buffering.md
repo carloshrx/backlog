@@ -4,13 +4,7 @@
 > 0X0X26 ==pickup== ==(evento unico)== oral especial com pickup (ele chegou lá só no oral) (chance relevante de se repetir, varia em baixa e 100% de certeza de acontecer a qualquer dia da semana).
 > 180926 ==miguel== variar posições, descobrir como fazer ele chegar lá, voce deve descobrir como fazer ele ficar ereto. Ereção fortissima recebendo o oral. Aproveite melhor os angulos sem ir direto para o bate estaca.
 
-# 20261009 protocolo-expectativa-re2hrd
 
-> perda, falta e arrependimento.
-
-> "pior que é assim msm, sempre armado ne"
-
- quebra na noite do dia 10/9 (3 dias depois). O ponto interessante é que a quebra aconteceu de um modo natural, sem uso de mídia. Com um furor HxM (o que distoa do esperado). O tempo de resfriamento foi minimo, entre 15 e 30 minutos e o tempo de punição com dor ou disformia foi mínimo (na prática, imperceptivel). Ainda assim, houve a presença da letra "A" (arrependimento) ainda que em uma escala emocionalmente e psicologicamente gerenciável e suportável. Este evento tem uma importancia de moderada a alta para futuras observações de escalabilidade da voracidade e a capacidade de manter retroalimentação mesmo depois da descarga. A presença do esquema triletra tem pontência notável ainda que seja subjulgada por um descontrole selvagem pós sobrecarga de acumulos de selvageria.
 
 # 20261018 Miguel perto Bosque
 
@@ -33,10 +27,18 @@ A reforçar os conceitos anteriores vou adotar o reforço do regime como acumula
 - 20261009 (B) Consumo de mídia recente e contínuo. Vou usar a partir daqui a observação de que depois de uma seção de mtbr-p até o final o estado de flacidez e falta de tonus é notável e alto. Vou chamar de ==🟡flacidez-p==. Se sucesso na definição do regime e resultados vou desdobrar o contexto em torno da definição.
 
 # Observações
+## 20261009 protocolo-expectativa-re2hrd
 
+> perda, falta e arrependimento.
+
+> "pior que é assim msm, sempre armado ne"
+
+ quebra na noite do dia 10/9 (3 dias depois). O ponto interessante é que a quebra aconteceu de um modo natural, sem uso de mídia. Com um furor HxM (o que distoa do esperado). O tempo de resfriamento foi minimo, entre 15 e 30 minutos e o tempo de punição com dor ou disformia foi mínimo (na prática, imperceptivel). Ainda assim, houve a presença da letra "A" (arrependimento) ainda que em uma escala emocionalmente e psicologicamente gerenciável e suportável. Este evento tem uma importancia de moderada a alta para futuras observações de escalabilidade da voracidade e a capacidade de manter retroalimentação mesmo depois da descarga. A presença do esquema triletra tem pontência notável ainda que seja subjulgada por um descontrole selvagem pós sobrecarga de acumulos de selvageria.
 
 # Histórico
 
+20261018 Miguel-bosque
+- Fui ativo até eu gozar. Depois ele foi ativo até gozar. (?)
 Iago
 
 # X-target
