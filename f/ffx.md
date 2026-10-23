@@ -39,7 +39,11 @@ In Bikanel one of the sandragora pits has a chest with 2 teleport spheres. 1 tel
 
 I won’t get into specific boss strategies but let me know if you want any.
 
+Its easier to steal stamina tablets from Dark Ixion and then escape or Flee (if youre allowing Flee) and repeat as many times as you like. He gets unlocked when you first enter Calm Lands.
 
+Customizing Rikku with 10x Chocobo feathers from the thunder planes Quactars for Sos Haste is good too. Keep rikku in low HP for random encounters and she'll get a lot more turns to steal and switch out.
+
+Buying the initiative katana Sentry for Auron from the Operation Mi'ihen Oakka is good too. Buy any sos nul-tide/ nul-blaze etc armour for anyone you can find. A female crusader NPC in Killika woods past the Lord Ochu will give you a sos nul blaze shield for Tidus if you kill the Ochu on your first visit.
 # Blitzhelp
 
 Read [more](https://www.reddit.com/r/finalfantasyx/comments/txrcud/a_beginners_guide_to_blitzball/)
