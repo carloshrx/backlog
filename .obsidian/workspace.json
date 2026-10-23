@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "f/ffx.md",
+                "file": "x/protocolo-x3stacking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ffx"
+              "title": "protocolo-x3stacking"
             }
           },
           {
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "f/ffx.md",
+                "file": "x/protocolo-x3stacking.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -281,7 +281,7 @@
     "dailynote/2026-10-10º.md",
     "Pasted image 20261009234555.png",
     "a/admin-condominio.md",
-    "p/protocolo-x3stacking.md",
+    "x/protocolo-x3stacking.md",
     "p/protocolo-trono-de-gelo.md",
     "Pasted image 20260930211303.png",
     "aniimo-farm-setup1-reddit.png",
