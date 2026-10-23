@@ -39,12 +39,14 @@
             "id": "380004145429782d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.14.5"
+                "file": "f/ffx.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.14.5"
+              "icon": "lucide-file",
+              "title": "ffx"
             }
           },
           {
@@ -127,6 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "f/ffx.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
