@@ -215,6 +215,8 @@ VS IFRIT
 Attack > Meteor Strike
 Water > Shield > Repeat
 Begin with shield
+
+
 # Zones
 
 ==Moonflow== Poison Ward/poison proof, dark ward/darkproof. Sells good weapon with good touch modifiers. Noxious cait sith.
