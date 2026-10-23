@@ -165,6 +165,7 @@ Bio and poison are two very different spells. Bio is almost always one of the mo
 # Enemies
 
 Aerouge weak to water
+Anima (Seymor Aeon)
 Blue Element weak to thunder
 Bomb (red/fire) weak to ice. Cast NulBlaze to counter selfdestruct.
 Buer weak to water/confusion
