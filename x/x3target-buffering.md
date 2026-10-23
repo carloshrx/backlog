@@ -8,8 +8,6 @@
 
 # 20261018 Miguel perto Bosque
 
-- Pontos que eu fiquei satisfeito (oral)
-- Pontos que eu deveria melhorar (mudar posição para durar)
 
 # 20261022 Resist2hard
 
@@ -39,12 +37,16 @@ A reforçar os conceitos anteriores vou adotar o reforço do regime como acumula
 
 20260926 Miguel-bosque
 - Fui ativo até eu gozar. Depois ele foi ativo até gozar. (?)
+- Pontos que eu fiquei satisfeito (oral)
+- Pontos que eu deveria melhorar (mudar posição para durar)
+
 20261011 Iago (prismatico)
 - transição de posições: missionário oral > missionario anal > frango > sentada
 - +
-# X-target
 
-202610 Miguel, Iago
 # X-buffering
 
 20261023
+# X-target
+
+202610 Miguel, Iago
