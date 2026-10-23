@@ -166,7 +166,9 @@ Bio and poison are two very different spells. Bio is almost always one of the mo
 
 Aerouge weak to water
 Anima (Seymor Aeon)
-- Ifrit can tank Pain
+- weak to Blizzara and Shiva Diamond dust
+- Ifrit can tank Pain and do 3.5k with overdrive
+- Tidus can hit hard with Delay Attack
 Blue Element weak to thunder
 Bomb (red/fire) weak to ice. Cast NulBlaze to counter selfdestruct.
 Buer weak to water/confusion
