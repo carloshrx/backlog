@@ -158,6 +158,7 @@ Killer Bee (orange) weak to ice
 Kurasiq weak to water
 Lamashtu weak to fire. Use NulFrost to counter Breath-ice
 Larva weak to water
+
 Mafdet-blue weak to heavy hit auron weak to piercing weak to fire high magic resist high phys def
 Mafdet-green
 Melusine weak to ice
@@ -172,6 +173,10 @@ Oaka's XXIII
 - On the Mi'ihen Old Road right before Mushroom Rock Road, a different NPC collects donations for Operation Mi'ihen itself (giving items like a special ball or ring depending on how much you give), which is sometimes confused with O'aka's system
 
 Oblitzerator speeds up when damaged. Vulnerable to lightning but chucks a Mute Ball at anyone casting Thunder.
+Ochu
+- when hp low performs ochu dance which inflicts darkness, silence, confusion and slow
+- immunities darkness, zombie, confusion, bersek, provoke
+- weak to FIRE weak to SLEEP
 Qactuar Rikku Petrifying Bomb, Tidus Provoke
 - Sidequest Cactuars from the minigame cannot run away, making them ideal for capturing
 Ragora weak to fire
