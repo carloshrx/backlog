@@ -17,17 +17,17 @@ My first advice would be on the actual challenge. In addition to no sphere grid,
 
 There are a few key items that you need to get for NSG challenges:
 
-The stunning steel from O’aka in Luca. Extractor is almost impossible without it, and it will help with Chocobo Eater and a few other bosses as well.
+- The stunning steel from O’aka in Luca. Extractor is almost impossible without it, and it will help with Chocobo Eater and a few other bosses as well.
 
-The TKO for Wakka from O’aka right before Operation Mi’ihen. It makes a lot of random encounters doable.
+- The TKO for Wakka from O’aka right before Operation Mi’ihen. It makes a lot of random encounters doable.
 
-The Sonic Steel for Tidus from O’aka in Macalania. GET THE SONIC STEEL. It’s basically the only way to prevent game overs in later random encounters.
+- The Sonic Steel for Tidus from O’aka in Macalania. GET THE SONIC STEEL. It’s basically the only way to prevent game overs in later random encounters.
 
 There are a few key item grinding spots in the game:
 
-In Luca right before you fight Oblitzerator spend a few minutes grinding the mechs. They are the only place you can get X potions as a drop and they also drop SOS-nul element armors, which are helpful against Seymour Natus.
+- In Luca right before you fight Oblitzerator spend a few minutes grinding the mechs. They are the only place you can get X potions as a drop and they also drop SOS-nul element armors, which are helpful against Seymour Natus.
 
-Right after Rikku joins the party the area in the moonflow right before Guadosalam is critical. The chests have stamina tablets as a rare drop. Try and get 4 or 5, this is your only opportunity before Yunalesca, other than the magic pots in the sunken cave which suck to farm. The chests also have mega potions and you can steal poison fangs from the bugs. Make sure you have at least 2 poison fangs as well, preferably more. You’ll need them for Anima and Seymour Natus.
+- Right after Rikku joins the party the area in the moonflow right before Guadosalam is critical. The chests have stamina tablets as a rare drop. Try and get 4 or 5, this is your only opportunity before Yunalesca, other than the magic pots in the sunken cave which suck to farm. The chests also have mega potions and you can steal poison fangs from the bugs. Make sure you have at least 2 poison fangs as well, preferably more. You’ll need them for Anima and Seymour Natus.
 
 Also right when you get Rikku backtrack to the Djose highroad and steal a bunch of petrify grenades from the basilisks. They are your get out of jail free card for most of the run.
 

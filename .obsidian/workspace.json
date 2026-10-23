@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "x/x3target-buffering.md",
+                "file": "f/ffx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "x3target-buffering"
+              "title": "ffx"
             }
           },
           {
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "x/x3target-buffering.md",
+                "file": "f/ffx.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -256,6 +256,7 @@
   },
   "active": "380004145429782d",
   "lastOpenFiles": [
+    "x/x3target-buffering.md",
     "f/ffx.md",
     "dailynote/2026-10-23º.md",
     "dailynote/2026-10-22º.md",
@@ -281,7 +282,6 @@
     "dailynote/2026-10-10º.md",
     "Pasted image 20261009234555.png",
     "a/admin-condominio.md",
-    "x/x3target-buffering.md",
     "p/protocolo-trono-de-gelo.md",
     "Pasted image 20260930211303.png",
     "aniimo-farm-setup1-reddit.png",
