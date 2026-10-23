@@ -37,10 +37,14 @@ A reforçar os conceitos anteriores vou adotar o reforço do regime como acumula
 
 # Histórico
 
-20261018 Miguel-bosque
+20260926 Miguel-bosque
 - Fui ativo até eu gozar. Depois ele foi ativo até gozar. (?)
-Iago
-
+20261011 Iago (prismatico)
+- transição de posições: missionário oral > missionario anal > frango > sentada
+- +
 # X-target
 
+202610 Miguel, Iago
 # X-buffering
+
+20261023
