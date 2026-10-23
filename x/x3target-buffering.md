@@ -31,3 +31,14 @@ A reforçar os conceitos anteriores vou adotar o reforço do regime como acumula
 
 - 20261006 (B) Consumo de mídia recente (madrugada). A forma é normal (forma I) e promissora e não apresenta nada de especial apesar de ser um ponto de partida aceitável. O potencial de ereção esta normal desde que as cargas não sejam consumidas com pmo. O clima é frio. Acredito que o último não interfere no resultado.
 - 20261009 (B) Consumo de mídia recente e contínuo. Vou usar a partir daqui a observação de que depois de uma seção de mtbr-p até o final o estado de flacidez e falta de tonus é notável e alto. Vou chamar de ==🟡flacidez-p==. Se sucesso na definição do regime e resultados vou desdobrar o contexto em torno da definição.
+
+# Observações
+
+
+# Histórico
+
+Iago
+
+# X-target
+
+# X-buffering
