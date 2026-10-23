@@ -145,7 +145,7 @@ ChocoboEater
 Dinonix (green) weak to ice
 Dualhorn 
 - inflict DARKNESS or use sleep ASAP to counter GORE. Kimahri can Learn Fire Breath. Neutral to all elements.
-
+Gandarewa
 Garuda 
 Garm immune to sleep
 Gold Element weak to water
