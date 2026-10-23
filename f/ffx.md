@@ -147,7 +147,7 @@ Dualhorn
 - inflict DARKNESS or use sleep ASAP to counter GORE. Kimahri can Learn Fire Breath. Neutral to all elements.
 Funguar  weak to Fire weak to Silence weak to Sleep
 Gandarewa weak to water
-Garuda weak to darkness (only)
+Garuda weak to darkness (only) a bit weak to fire
 Garm immune to sleep
 Gold Element weak to water
 Ice flan weak to fire 
