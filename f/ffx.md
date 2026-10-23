@@ -59,6 +59,12 @@ Bio and poison are two very different spells. Bio is almost always one of the mo
 
 ==🔴Deathtouch== 50% base chance to instantly kill a vulnerable enemy. It has no effect on zombie status. Lulu is the primary candidate for this ability, as her weapon fatal cait sith is purchasable in Moonflow. It most valuable for monster arena capturing or grindin in areas like inside sin and the omega ruins, where it pairs well with capture or mug abilities.
 
+==🔴Bribe== gamble with monsters using gil
+• Great Malboro: Suborne com 1.280.000 Gil para conseguir Wings to Discovery (usadas para a habilidade Triple AP).
+• Sand Worm: Suborne com 900.000 Gil para conseguir Winning Formula (usadas para Triple Overdrive).
+• Chimera (Guado Summon): Suborne com 180.000 Gil para conseguir Underdog's Secret (usadas para Double Overdrive).
+• Mech Scouter / Mech Leader: Suborne com 55.000 / 74.000 Gil para conseguir Door to Tomorrow (usadas para Overdrive -> AP)
+
 ==🔴Cheer==
 • Força (+Strength): Cada uso aumenta a Força de cada personagem em 1 ponto.
 • Resistência Física (+Defense): Cada uso reduz o dano físico recebido em 1/15 (cerca de 6,67%).
