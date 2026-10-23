@@ -146,7 +146,7 @@ Dinonix (green) weak to ice
 Dualhorn 
 - inflict DARKNESS or use sleep ASAP to counter GORE. Kimahri can Learn Fire Breath. Neutral to all elements.
 Funguar  weak to Fire weak to Silence weak to Sleep
-Gandarewa
+Gandarewa weak to water
 Garuda 
 Garm immune to sleep
 Gold Element weak to water
