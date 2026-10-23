@@ -145,9 +145,9 @@ ChocoboEater
 Dinonix (green) weak to ice
 Dualhorn 
 - inflict DARKNESS or use sleep ASAP to counter GORE. Kimahri can Learn Fire Breath. Neutral to all elements.
-Extractor
+Extractor weak to lightning
 - when get up use Delay Attack
-- 
+- Steal
 Funguar  weak to Fire weak to Silence weak to Sleep
 Gandarewa weak to water
 Garuda weak to darkness (only) a bit weak to fire
