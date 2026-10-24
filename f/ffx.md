@@ -270,7 +270,7 @@ Larva weak to water
 Mafdet-blue weak to heavy hit auron weak to piercing weak to fire high magic resist high phys def
 Mafdet-green
 
-Malboro immune to bio, imune to sleep
+Malboro immune to bio, imune to sleep. Cast protect. weak to fire, weak to piercin
 
 Mechguard use STEAL
 Mechgunner use STEAL
