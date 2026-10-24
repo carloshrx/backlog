@@ -195,7 +195,7 @@ Extractor weak to lightning
 - when get up use Delay Attack
 - Steal
 Evrae
-- weak to dark
+- weak to dark buster/armor break
 - high magic defense. no elemental weaknesess
 - exales poison breath if hit
 - Ask Cid to move the airship away and he'll launch a volley of guided missiles for u
