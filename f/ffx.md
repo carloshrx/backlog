@@ -257,8 +257,9 @@ Serimorph
 6. Exemplo: Se ele contra-atacar com Blizzard (Gelo), significa que a fraqueza atual dele é Fogo
 
 Sandworm
-- use Bio
-- immune to threaten
+- Darkness and Sleep ASAP
+- use Bio on 1st turn and Watera 
+- immune to threaten, slow, confusion, KO, zombie, petrification, provoke
 Sinspawn Gui
 - ?
 Wasp weak to ice
