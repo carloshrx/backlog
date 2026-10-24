@@ -190,6 +190,7 @@ Crawler
 Dinonix (green) weak to ice
 Dualhorn 
 - inflict DARKNESS or use sleep ASAP to counter GORE. Kimahri can Learn Fire Breath. Neutral to all elements.
+- Piercing can work
 Extractor weak to lightning
 - when get up use Delay Attack
 - Steal
