@@ -198,9 +198,6 @@ Bio and poison are two very different spells. Bio is almost always one of the mo
 | Lightning        | ==🔵Water==            | Aquatic-water based, machina                 |
 | Holy             | None                   | Undead                                       |
 
-## Enemies
-
-
 # Enemies
 
 Alcyone weak to fire or wakka normal
@@ -391,6 +388,10 @@ If you are crafting custom weapons instead of using Celestial Weapons, the setup
 	• Gillionaire / Master Thief (Rikku-specific utility for gil or rare item drops)
 
 # Meta Armor
+
+# Move Meta
+
+Tidus > Haste > Provoke > Slow, Slowga or delay burst > Haste
 
 
 Variações e Alternativas Populares
