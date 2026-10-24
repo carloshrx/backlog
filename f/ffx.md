@@ -203,6 +203,18 @@ Bio and poison are two very different spells. Bio is almost always one of the mo
 Alcyone weak to fire or wakka normal
 Aerouge weak to water
 Anacondaur weak to piercing, weak to fira
+	Melhor Localização / Ponto de Encontro:
+	
+	• Área Noroeste (Northwest) e Esquerda Superior: É onde eles aparecem com mais abundância e frequência.
+	• Próximo ao Ponto de Salvamento (Save Sphere): Vários jogadores relatam encontrar com boa frequência logo atrás do cristal de salvamento nas Planícies Calmas.
+	
+	Dicas de Combate:
+	
+	• Habilidade (Ronso Rage): Kimahri pode usar Lancet neles para aprender Stone Breath ou Stone Gaze.
+	• Ataque de Petrificação: Eles abrem o combate com Stone Gaze/Stone Breath (use Soft para curar ou equipamentos com proteção contra petrificação).
+	• Habilidade Útil: Usar a habilidade Provoke (Provocar) reduz a precisão do Stone Gaze.
+	• Roubo / Drops: É possível roubar Petrified Grenades e eles dropam Power Spheres
+
 Anima (Seymor Aeon)
 - weak to Blizzara and Shiva Diamond dust
 - Ifrit can tank Pain and do 3.5k with overdrive
