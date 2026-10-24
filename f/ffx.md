@@ -164,6 +164,7 @@ Bio and poison are two very different spells. Bio is almost always one of the mo
 
 # Enemies
 
+Alcyone weak to fire or wakka normal
 Aerouge weak to water
 Anima (Seymor Aeon)
 - weak to Blizzara and Shiva Diamond dust
