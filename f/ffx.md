@@ -95,6 +95,23 @@ Por que capturar?
 ## Weapon meta Capture
 
 
+As Melhores Customizações para Armas de Captura
+
+As armas de captura vêm com um slot livre. Como derrotar inimigos com efeitos de status de morte instantânea ou petrificação ainda conta como uma captura válida, estas combinações transformam o processo em um passeio:
+• Capture + Stonestrike (Petrificar): A melhor modificação disparada para este momento. A petrificação mata instantaneamente a maioria dos monstros comuns do jogo, capturando-os na hora.
+	• Como fazer: Requer 60 Petrify Grenades. Você pode roubá-las facilmente dos Anacondaurs que aparecem ali mesmo na Planície Bonança ou no Djose Highroad. Coloque na arma do Wakka ou da Rikku para garantir ataques rápidos.
+• Capture + Deathstrike (Morte Instantânea): Perfeito para eliminar fiends com muita vida (como os Ogres) num único golpe.
+	• Como fazer: Requer 60 Farplane Shadows. Geralmente colocada na arma do Auron para lidar com inimigos blindados.
+• Capture + First Strike (Iniciativa): Essencial para o seu personagem com maior velocidade ou utilidade (geralmente o Tidus).
+	• Por que usar: O Malboro da região noroeste costuma emboscar o seu grupo com o temido ataque Bad Breath, causando múltiplos status negativos e Game Over automático. Com o First Strike, você pode usar a habilidade Delay Buster ou trocar imediatamente para a Yona para invocar um Aeon e proteger o grupo.
+	• Como fazer: Requer 1 Return Sphere.
+
+## Armor Meta capture
+
+Os monstros em Calm Lands começam a bater forte e usar golpes traiçoeiros por trás de status físicos nocivos. Proteja-se usando:
+• Stoneproof (Imunidade a Pedra): Evita que os Anacondaurs transformem seu grupo inteiro em estátuas e quebrem os personagens, resultando em Game Over instantâneo.
+	• Como fazer: Requer 20 Petrify Grenades.
+• Confuseproof ou Berserkproof: Extremamente úteis se você planeja caçar Malboros no canto noroeste da planície. Ficar confuso contra eles significa que seus próprios personagens vão se nocautear.
 # Tag
 
 ==🔴Berserk Ward== 50% to prevent the Berserk status effect. Customized using 8 hypello potions stolen from Shred in the Calm lands or dropped by Raldo and Swamp Mafdet.
