@@ -260,6 +260,10 @@ Antecipe-se usando as magias brancas NulIce, NulShock, NulWater e NulBlaze da Yu
 • Invocação da Anima: Quando Seymour invocar a Anima, use um Aeon poderoso (como Shiva ou Ifrit) ou descarregue o Overdrive que você deixou pronto com a Yuna para destruir a Anima antes que ela use o golpe Pain.
 • Pós-Anima: Seymour retornará sozinho e usará magias duplas com poder aumentado. Mantenha a barra de HP da equipe cheia e use Dispel ou Aerospark se ele conjurar Shell em si mesmo
 
+Seymor Natus
+- When hp is low he'll petrify with break and cast the non-elemental spell Flare
+
+
 Thunder Flan weak to water
 
 Serimorph 
