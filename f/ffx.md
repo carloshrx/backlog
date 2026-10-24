@@ -195,10 +195,11 @@ Extractor weak to lightning
 - when get up use Delay Attack
 - Steal
 Evrae
+- weak to dark
 - high magic defense. no elemental weaknesess
 - exales poison breath if hit
 - Ask Cid to move the airship away and he'll launch a volley of guided missiles for u
-- 
+
 Funguar  weak to Fire weak to Silence weak to Sleep
 Gandarewa weak to water
 Garuda weak to darkness (only) a bit weak to fire
