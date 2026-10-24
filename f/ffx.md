@@ -208,8 +208,9 @@ Larva weak to water
 
 Mafdet-blue weak to heavy hit auron weak to piercing weak to fire high magic resist high phys def
 Mafdet-green
-Murussu
 Melusine weak to ice
+Murussu
+Mushussu
 Oaka's XXIII
 - giving money (gil) to the traveling merchant O'aka XXIII changes his future item and equipment prices during Operation Mi'ihen. Donating 10,001 gil or more gives you a 30% discount, while lower amounts cause price markups from 20% to 100%
 - 0 – 100 gil: Prices go up by 100% (double cost).
