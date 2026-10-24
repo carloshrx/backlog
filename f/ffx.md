@@ -190,6 +190,8 @@ Crawler
 - Restores Negator after being hit by magic four times
 - immune to all status ailments (all breaks, poison, silence, dark, petri, confusion, eject, doom)
 
+Coerl weak to fira
+
 Dinonix (green) weak to ice
 Dualhorn 
 - inflict DARKNESS or use sleep ASAP to counter GORE. Kimahri can Learn Fire Breath. Neutral to all elements.
