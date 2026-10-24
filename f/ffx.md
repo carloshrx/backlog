@@ -76,6 +76,24 @@ Regras para conseguir
 • Se você perder essa chance no navio, pode voltar depois pegando o navio de volta de Luca para Kilika.
 • Depois de aprender, lembre-se de equipar o Jecht Shot no menu de Blitzball do Tidus (você pode precisar subir o Tidus para o nível 2 para abrir o slot de habilidade).
 
+# Capture and weapon meta Capture
+
+## Capture
+Como funciona
+
+• Armas com Capture: Você precisa comprar armas especiais com a habilidade Capture do proprietário da Monster Arena.
+• Golpe Fatal: O golpe final no monstro deve ser um ataque físico (ou habilidade física baseada em arma) desferido pelo personagem que estiver equipando a arma de captura.
+• O que não funciona: Magias, Overdrives e invocações (Aeons) não capturam o monstro se derem o golpe final.
+• Limite: É possível capturar até 10 unidades de cada tipo de monstro em cada região de Spira.
+
+Por que capturar?
+
+• Desbloquear Criações: Capturar monstros abre novas batalhas na Monster Arena divididas em três categorias: Area Conquest, Species Conquest e Original Creations.
+• Nemesis: Capturar 10 de cada monstro em todas as áreas do jogo desbloqueia o Nemesis, o chefe mais forte da Arena.
+• Recompensas: Concluir listas de captura concede itens raros e sigils essenciais para as armas supremas dos personagens.
+
+## Weapon meta Capture
+
 
 # Tag
 
