@@ -256,8 +256,10 @@ Serimorph
 5. O feitiço que ele usa como contra-ataque indica o elemento oposto à fraqueza atual dele.
 6. Exemplo: Se ele contra-atacar com Blizzard (Gelo), significa que a fraqueza atual dele é Fogo
 
-
+Sandworm
+- 
 Sinspawn Gui
+- ?
 Wasp weak to ice
 Wendigo
 - immune bio/poison
@@ -265,7 +267,7 @@ Wendigo
 Worker weak to light
 Xiphos weak to ice darkness works, but treaten is the way to go Immunities poison sleep USE blizzarda
 Zu
-- imune to trh626eaten
+- imune to trheaten
 # Aeons
 
 Ixion HASTE >
