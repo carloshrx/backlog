@@ -277,6 +277,8 @@ Sandworm
 - immune to threaten, slow, confusion, KO, zombie, petrification, provoke
 Sinspawn Gui
 - ?
+
+Warrior monk weak to piercing, weak to darkness
 Wasp weak to ice
 Wendigo
 - immune bio/poison
