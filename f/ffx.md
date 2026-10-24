@@ -295,6 +295,8 @@ Ochu
 - immunities darkness, zombie, confusion, bersek, provoke
 - weak to FIRE weak to SLEEP
 - Silence must be useful but dont touch sleep advantage. Dont use silence here (moveskill)
+  
+Ogre weak to Sleep Buster
 Qactuar Rikku Electro Marble, Tidus Provoke
 - Sidequest Cactuars from the minigame cannot run away, making them ideal for capturing
 Ragora weak to fire
