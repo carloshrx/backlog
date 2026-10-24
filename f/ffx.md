@@ -169,6 +169,7 @@ Bio and poison are two very different spells. Bio is almost always one of the mo
 
 Alcyone weak to fire or wakka normal
 Aerouge weak to water
+Anacondaur weak to piercing, 
 Anima (Seymor Aeon)
 - weak to Blizzara and Shiva Diamond dust
 - Ifrit can tank Pain and do 3.5k with overdrive
