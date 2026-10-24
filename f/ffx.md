@@ -190,7 +190,7 @@ Crawler
 - Restores Negator after being hit by magic four times
 - immune to all status ailments (all breaks, poison, silence, dark, petri, confusion, eject, doom)
 
-Coerl weak to fira
+Coerl extremely weak to piercing, weak to fira
 
 Dinonix (green) weak to ice
 Dualhorn 
