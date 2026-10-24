@@ -98,6 +98,7 @@ Por que capturar?
 As Melhores Customizações para Armas de Captura
 
 As armas de captura vêm com um slot livre. Como derrotar inimigos com efeitos de status de morte instantânea ou petrificação ainda conta como uma captura válida, estas combinações transformam o processo em um passeio:
+
 • Capture + Stonestrike (Petrificar): A melhor modificação disparada para este momento. A petrificação mata instantaneamente a maioria dos monstros comuns do jogo, capturando-os na hora.
 	• Como fazer: Requer 60 Petrify Grenades. Você pode roubá-las facilmente dos Anacondaurs que aparecem ali mesmo na Planície Bonança ou no Djose Highroad. Coloque na arma do Wakka ou da Rikku para garantir ataques rápidos.
 • Capture + Deathstrike (Morte Instantânea): Perfeito para eliminar fiends com muita vida (como os Ogres) num único golpe.
