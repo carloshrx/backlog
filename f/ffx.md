@@ -261,8 +261,11 @@ Antecipe-se usando as magias brancas NulIce, NulShock, NulWater e NulBlaze da Yu
 • Pós-Anima: Seymour retornará sozinho e usará magias duplas com poder aumentado. Mantenha a barra de HP da equipe cheia e use Dispel ou Aerospark se ele conjurar Shell em si mesmo
 
 Seymor Natus
-- When hp is low he'll petrify with break and cast the non-elemental spell Flare
-
+1. When hp is low he'll petrify with break and cast the non-elemental spell Flare
+2. Use Bio: Assim que a batalha começar, aplique o status Bio no Seymour para drenar a vida dele a cada turno
+3. Aplique Reflect: Conjurar a magia Reflect em Seymour (usando a Yuna) impede que a Mortibody consiga curá-lo com Cura, fazendo com que os feitiços de cura ricocheteiem ou sejam bloqueados
+- Não destrua a Mortibody: Ignorar a criatura ou apenas bater nela junto com o Seymour evita que ela fique drenando o HP dele de forma descontrolada ou que você perca turnos atoa
+- Aproveite os Overdrives dos Aeons: Carregue os Overdrives dos seus Aeons antes da luta. Depois do passo 1 e 2 Chame um Aeon (como o Bahamut) para descarregar o Overdrive e causar dano massivo. Quando Seymour usar Banish para eliminar o Aeon, invoque logo o próximo e repita até ele cair
 
 Thunder Flan weak to water
 
