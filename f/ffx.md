@@ -210,7 +210,7 @@ Mafdet-green
 Mechguard use STEAL
 Melusine weak to ice
 Murussu
-Mushussu weak to sleep weak to ice
+Mushussu SLEEP asap
 Oaka's XXIII
 - giving money (gil) to the traveling merchant O'aka XXIII changes his future item and equipment prices during Operation Mi'ihen. Donating 10,001 gil or more gives you a 30% discount, while lower amounts cause price markups from 20% to 100%
 - 0 – 100 gil: Prices go up by 100% (double cost).
