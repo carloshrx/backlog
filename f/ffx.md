@@ -236,6 +236,8 @@ Ragora weak to fire
 Raptor weak to ice
 Vouivre weak to ice and piercing
 
+Sandragora weak to SLEEP weak to FIRE immunities provoke, trheat, confu, silence
+
 Seymor
 weak to slow, bio/poison, magic break
 Turno 1
