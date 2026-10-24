@@ -162,6 +162,9 @@ Bio and poison are two very different spells. Bio is almost always one of the mo
 | Lightning        | ==🔵Water==            | Aquatic-water based, machina                 |
 | Holy             | None                   | Undead                                       |
 
+## Enemies
+
+
 # Enemies
 
 Alcyone weak to fire or wakka normal
