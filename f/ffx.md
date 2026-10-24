@@ -200,7 +200,7 @@ Bio and poison are two very different spells. Bio is almost always one of the mo
 
 # Enemies
 
-Alcyone weak to fire or wakka normal
+Alcyone weak to sleep buster, weak to fire or wakka normal
 Aerouge weak to water
 Anacondaur weak to piercing, weak to fira
 	Melhor Localização / Ponto de Encontro:
