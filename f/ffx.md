@@ -194,6 +194,8 @@ Dualhorn
 Extractor weak to lightning
 - when get up use Delay Attack
 - Steal
+Evrae
+- 
 Funguar  weak to Fire weak to Silence weak to Sleep
 Gandarewa weak to water
 Garuda weak to darkness (only) a bit weak to fire
