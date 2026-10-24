@@ -203,6 +203,7 @@ Bio and poison are two very different spells. Bio is almost always one of the mo
 Alcyone weak to sleep buster, weak to fire or wakka normal
 Aerouge weak to water
 Anacondaur weak to piercing, weak to fira
+![](Pasted%20image%2020261024195718.png)
 	Melhor Localização / Ponto de Encontro:
 	
 	• Área Noroeste (Northwest) e Esquerda Superior: É onde eles aparecem com mais abundância e frequência.
