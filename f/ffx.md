@@ -260,7 +260,7 @@ Serimorph
 Sinspawn Gui
 Wasp weak to ice
 Wendigo
-- 
+- immune bio/poison
 Worker weak to light
 Xiphos weak to ice darkness works, but treaten is the way to go Immunities poison sleep USE blizzarda
 
