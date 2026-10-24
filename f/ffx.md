@@ -209,6 +209,7 @@ Larva weak to water
 Mafdet-blue weak to heavy hit auron weak to piercing weak to fire high magic resist high phys def
 Mafdet-green
 Mechguard use STEAL
+Mechgunner use STEAL
 Melusine weak to ice
 Murussu
 Mushussu Treahten > SLEEP/Armor Break asap
