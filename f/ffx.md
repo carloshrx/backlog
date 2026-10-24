@@ -291,6 +291,8 @@ Wendigo
 - immune bio/poison
 - when it RAISES IT FISTS IT IS COUNTERATTACK POSTURE
 Worker weak to light
+YKT-63 weak fo fire, weak to power break, use protect
+
 Xiphos weak to ice darkness works, but treaten is the way to go Immunities poison sleep USE blizzarda
 Zu
 - imune to trheaten
