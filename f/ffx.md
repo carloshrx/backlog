@@ -199,7 +199,9 @@ Gandarewa weak to water
 Garuda weak to darkness (only) a bit weak to fire
 Garm immune to sleep
 Gold Element weak to water
-Guadoguardian silence with normal attack rikku or wakka > fire or ice > steal
+Guadoguardian
+- weak to piercing
+- silence with normal attack rikku or wakka > fire or ice > steal
 Ice flan weak to fire 
 Ipiria weak to ice
 Iron Giant weak to water (protect>provoke>cheer)
