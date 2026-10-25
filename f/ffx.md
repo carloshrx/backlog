@@ -381,6 +381,49 @@ Attack > Meteor Strike
 Water > Shield > Repeat
 Begin with shield
 
+## Yojimbo
+
+A compatibilidade (compatibility) do Yojimbo é um valor numérico oculto que funciona como uma barra de "lealdade" ou "afinidade" entre o jogador e o Aeon. Ela varia de 0 a 255, iniciando exatamente em 128 assim que você o contrata.
+Quanto maior for esse valor, maiores serão as chances de Yojimbo usar seus melhores ataques — como o Zanmato (que derrota qualquer inimigo instantaneamente) e o Wakizashi — gastando muito menos dinheiro ou até mesmo de forma gratuita.
+
+Como as ações alteram a compatibilidade
+
+Tudo o que Yojimbo faz após ser invocado altera esse número oculto. Você pode moldar o comportamento dele evitando ações negativas e repetindo as positivas:
+
+🟢 Ações que AUMENTAM a afinidade
+
+• Usar Zanmato: +4 pontos.
+• Usar Wakizashi (contra todos os alvos): +3 pontos.
+• Usar Wakizashi (contra apenas um alvo): +1 ponto.
+• Usar Kozuka: +0 pontos (neutro, não altera).
+
+🔴 Ações que DIMINUEM a afinidade
+
+• Usar Daigoro (o cachorro): -1 ponto (acontece quando você paga muito pouco ou se a afinidade estiver baixa).
+• Dispensar Yojimbo imediatamente (Dismiss sem pagar nada): -3 pontos.
+• Yojimbo ser nocauteado (KO): -10 pontos.
+• Pagar 0 Gil a ele: -20 pontos (nunca faça isso).
+
+Método para maximizar a compatibilidade rapidamente
+
+Para subir o valor de 128 para o máximo (255), use a estratégia desenvolvida pela comunidade para "treinar" o Yojimbo sem gastar quase nada:
+1. Vá para Besaid: Os monstros lá são extremamente fracos.
+2. Invoque Yojimbo e pague sempre valores que sejam potências de dois, sendo 256 Gil ou 512 Gil os ideais para o treino. (O algoritmo do jogo favorece pagamentos baseados em potências de dois).
+3. Deixe o fluxo rodar:
+	• Se ele usar Wakizashi ou Zanmato, a compatibilidade subiu. Continue batalhando.
+	• Se ele usar Daigoro repetidamente, resete o jogo ou carregue seu save anterior para não perder progresso de afinidade.
+4. Ataques gratuitos: Conforme a barra oculta sobe, ele passará a atacar de graça assim que entra em campo. Se ele usar um ataque gratuito bom, sua afinidade também sobe sem gastar um único Gil.
+
+Como o jogo calcula o uso do Zanmato?
+
+A compatibilidade não age sozinha. Quando você faz um pagamento, o jogo calcula a Motivação de Yojimbo usando quatro fatores cruciais:
+• O valor pago em Gil.
+• A compatibilidade atual (acrescenta um bônus pesado se estiver em 255).
+• A barra de Overdrive cheia (garante um bônus fixo na fórmula).
+• O Nível de Resistência a Zanmato (Zanmato Level) do oponente. Inimigos comuns têm nível 1, enquanto chefes e Dark Aeons têm nível 4, 5 ou 6, exigindo muito mais motivação para o golpe ser desferido.
+Resumo da ópera: Se você estiver com a compatibilidade em 255 e a barra de Overdrive do Yojimbo cheia, suas chances de decepar um chefe com o Zanmato pagando quantias razoáveis de Gil sobem drasticamente.
+Quer que eu te mostre quantos Gils você deve pagar exatamente para ter quase 100% de chance de Zanmato contra os Dark Aeons ou o Penance?
+
 # Rikku - flexible arm
 
 Auto-haste
