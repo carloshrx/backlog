@@ -609,3 +609,22 @@ Butterfly hunt
 Try to catch seven of the blue butterflies, but watch out for the reds for they call powerful fiends when threatened. 
 Butterflies disappear after a certain time. Try catching the blue butterflies while avoiding the red ones.
 
+# Zombieproof/Zombiestrike
+
+O Candle of Life (Vela da Vida) é um item de batalha em Final Fantasy X que possui várias utilidades estratégicas.
+
+Principais Efeitos e Usos
+
+• Efeito em Batalha: Ao ser usado (através da habilidade Use da Rikku ou Copycat), aplica o status Doom (morte contada) em um inimigo.
+• Personalização de Equipamentos:
+	• Zombiestrike (Arma): requer 30x Candle of Life.
+	• Zombieproof (Proteção/Armadura): requer 10x Candle of Life (útil para imunidade ao status Zombie).
+• Mix da Rikku: Serve como ingrediente para diversas misturas de Mix, gerando efeitos como Super Elixir, Ultra Cure, Quartet of 9, entre outros.
+
+Onde Obtenho / Como Farmar
+
+• Roubar (Steal):
+	• Fallen Monk e Fallen Monk (Flamethrower/Rifle) (nas Zanarkand Ruins): comum (x2).
+	• Don Tonberry (Monster Arena - raro, x2).
+	• Pteryx (Monster Arena - raro).
+• Recompensa da Monster Arena: Você recebe 99x Candles of Life de presente ao desbloquear a criação Coeurlregina na Monster Arena (capturando todos os monstros da Cavern of the Stolen Fayth / Sunken Cave).
