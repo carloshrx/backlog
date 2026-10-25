@@ -233,6 +233,8 @@ Chimera geist
 3. Assault (Physical attack)
 4. Aqua Breath (Water elemental damage)
 bliz>assayt>aqua>bliz>assaul>aqua>megido<<blizz<<assault<<
+usou aqua 
+proximo megi
 120
 15 5 5 5 5 4.8 4.9 5 5 9 5 5
 
