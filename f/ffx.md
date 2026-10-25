@@ -232,7 +232,7 @@ Chimera geist
 2. Blizzara or Thundara
 3. Assault (Physical attack)
 4. Aqua Breath (Water elemental damage)
-bliz>assayt>aqua>bliz>assaul>aqua>megido<<
+bliz>assayt>aqua>bliz>assaul>aqua>megido<<blizz<<assault<<
 120
 15 5 5 5 5 4.8 4.9 5 5 9 5 5
 
