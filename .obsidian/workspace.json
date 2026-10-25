@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "f/ffx.md",
+                "file": "s/saude-prep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ffx"
+              "title": "saude-prep"
             }
           },
           {
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "f/ffx.md",
+                "file": "s/saude-prep.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -256,9 +256,10 @@
   },
   "active": "380004145429782d",
   "lastOpenFiles": [
+    "a/agenda26.md",
+    "f/ffx.md",
     "Pasted image 20261024195718.png",
     "dailynote/2026-10-24º.md",
-    "f/ffx.md",
     "x/x3target-buffering.md",
     "dailynote/2026-10-23º.md",
     "dailynote/2026-10-22º.md",
@@ -272,7 +273,6 @@
     "dailynote/2026-10-18º.md",
     "dailynote/2026-10-17º.md",
     "dailynote/2026-10-16º.md",
-    "a/agenda26.md",
     "dailynote/2026-10-15º.md",
     "a/admin-provadevida.md",
     "i/inss.md",
@@ -293,7 +293,6 @@
     "resources-offlink/exemplo-vaga-ruby.jpg",
     "resources-offlink/curriculo-ats-keywords.jpg",
     "resources-offlink/architectural-styles.png",
-    "resources-offlink/whatsapp-supported-markdown.jpg",
     "img",
     "pdf/c-completo-total.pdf",
     "news.blizzard.com/en-us/article/24267729",
