@@ -228,7 +228,13 @@ Chimera skillset Thundara>Assault>Aqua breath>Megiddo Flame (in that order), vul
 - if provoked (trheatened) the movepool turn into thundara on the provoke caster
 
 Chimera geist
+1. Megiddo Flame (Fire elemental damage)
+2. Blizzara or Thundara
+3. Assault (Physical attack)
+4. Aqua Breath (Water elemental damage)
 Thundara>Assault>Aqua breath>Megiddo Flame>Blizza
+120
+15 
 
 Chimera head weak to reflect
 
