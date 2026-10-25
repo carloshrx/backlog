@@ -273,7 +273,7 @@ Funguar  weak to Fire weak to Silence weak to Sleep
 Gandarewa weak to water
 Garuda weak to darkness (only) a bit weak to fire
 Garm immune to sleep
-Ghost use silence buster 
+Ghost use silence buster and find the correct element to hit with sensor
 Gold Element weak to water
 Guadoguardian
 - weak to piercing
