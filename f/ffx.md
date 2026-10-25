@@ -1,5 +1,7 @@
 ## Config
 
+https://jegged.com/Games/Final-Fantasy-X
+
 video res 1920x1080
 screenmode bordeless mode
 bright 50
