@@ -282,7 +282,7 @@ Guadoguardian
 - weak to piercing
 - silence with normal attack rikku or wakka > fire or ice > steal
 
-Grenade 
+Grenade weak to ice
 Ice flan weak to fire 
 Ipiria weak to ice
 Iron Giant weak to water (protect>provoke>cheer)
