@@ -395,7 +395,76 @@ Como conseguir o Celestial Mirror:
 	• Volte ao Monster Arena nas Calm Lands e use o Celestial Mirror diante do baú para abri-lo e pegar a Nirvana.
 Se precisar de ajuda com os Moon Crest e Moon Sigil para liberar todo o poder da Nirvana, é só avisar!
 
+O Moon Crest (Símbolo da Lua) é o item necessário para a primeira fase de upgrade da Nirvana.
+Para pegá-lo, vá até a Besaid Island:
+• Onde encontrar: Ele está escondido em um baú na praia de Besaid.
+• Como pegar: Vá até a praia, pule na água e nade para o canto direito (leste) da tela. O baú estará escondido em uma pequena área de areia na encosta do penhasco.
+⚠️ Aviso Importante (FFX Remaster): Se você estiver jogando a versão HD Remaster e já estiver avançado na história (após os eventos na Holy Bridge de Bevelle), um chefe secreto chamado Dark Valefor estará bloqueando a entrada da vila de Besaid. Caso você chegue voando pela Airship, ele atacará imediatamente. Se a sua equipe ainda não for forte o suficiente para vencê-lo, você não conseguirá entrar na praia por aquele caminho.
+Você já derrotou o Dark Valefor ou quer saber como pegar o Moon Sigil para terminar o upgrade?
 
+
+Conversa no Modo IA: ffx how to open calm lands arena bo
+
+
+Você disse: ffx how to open calm lands arena bo
+
+ffx how to open calm lands arena bo
+Para abrir o baú (e conseguir a Nirvana, a Arma Celestial da Yuna) no Monster Arena (Arena de Monstros) das Calm Lands em Final Fantasy X, você precisa do Celestial Mirror (Espelho Celestial).
+
+Como conseguir o Celestial Mirror:
+
+1. Pegue o Cloudy Mirror (Espelho Nublado):
+	• Vá até o Remiem Temple (localizado descendo o penhasco a sudeste das Calm Lands usando um Chocobo).
+	• Participe e vença a Corrida de Chocobo lá para ganhar o Cloudy Mirror como recompensa.
+2. Transforme em Celestial Mirror:
+	• Leve o Cloudy Mirror até Macalania Woods.
+	• Na entrada/acampamento de Macalania, fale com a mãe e a criança, depois encontre o pai próximo e junte a família.
+	• Suba o caminho brilhante (starlight road) à esquerda e fale com o garoto. A interação transformará o Cloudy Mirror no Celestial Mirror.
+3. Abra o Baú:
+	• Volte ao Monster Arena nas Calm Lands e use o Celestial Mirror diante do baú para abri-lo e pegar a Nirvana.
+Se precisar de ajuda com os Moon Crest e Moon Sigil para liberar todo o poder da Nirvana, é só avisar!
+• 
+GameFAQs
+How do I open the first chest given by the Monster Arena guy.
+How do I open the first chest given by the Monster Arena guy. - Final Fantasy X. ... Final Fantasy X. PlayStation 2 PlayStation Vi...
+• 
+GameFAQs
+Monster Arena - Final Fantasy X / X
+Opening the Monster Arena Before you can do anything else, you must open the Arena. To do so, you must Capture (using the special ...
+• 
+Reddit
+Is there any content that I should do immediately so I don't ...
+Comments Section catsgoprrrrr • 8mo ago If you can't open the chest at the Monster Arena yet, and you've captured 1 of each of the...
+Mostrar tudo
+
+Moon Crest
+
+O Moon Crest (Símbolo da Lua) é o item necessário para a primeira fase de upgrade da Nirvana.
+Para pegá-lo, vá até a Besaid Island:
+• Onde encontrar: Ele está escondido em um baú na praia de Besaid.
+• Como pegar: Vá até a praia, pule na água e nade para o canto direito (leste) da tela. O baú estará escondido em uma pequena área de areia na encosta do penhasco.
+⚠️ Aviso Importante (FFX Remaster): Se você estiver jogando a versão HD Remaster e já estiver avançado na história (após os eventos na Holy Bridge de Bevelle), um chefe secreto chamado Dark Valefor estará bloqueando a entrada da vila de Besaid. Caso você chegue voando pela Airship, ele atacará imediatamente. Se a sua equipe ainda não for forte o suficiente para vencê-lo, você não conseguirá entrar na praia por aquele caminho.
+Você já derrotou o Dark Valefor ou quer saber como pegar o Moon Sigil para terminar o upgrade?
+
+sim
+
+Para conseguir o Moon Sigil (Sigilo da Lua) e liberar o poder total da Nirvana em Final Fantasy X, você precisa derrotar todos os Aeons de Belgemine no Remiem Temple.
+
+Passo a passo para obter o Moon Sigil:
+
+1. Requisitos de Aeons:
+	• Você precisa ter coletado todos os Aeons principais do jogo, incluindo os opcionais Yojimbo e Anima, além de desbloquear as Magus Sisters (Cindy, Mindy e Sandy) no próprio Remiem Temple.
+2. Desafie a Belgemine:
+	• Vá até o Remiem Temple (localizado descendo o penhasco a sudeste das Calm Lands).
+	• Fale com Belgemine e lute contra a sequência de Aeons dela (Valefor, Ifrit, Ixion, Shiva, Bahamut, Yojimbo, Anima e as Magus Sisters).
+3. Receba a recompensa:
+	• Após derrotar o último Aeon (as Magus Sisters), a opção de enviá-la para o Farplane irá aparecer.
+	• Aceite fazer o envio para receber o Moon Sigil.
+
+Como aprimorar a Nirvana ao máximo:
+
+• Leve a Nirvana, o Moon Crest e o Moon Sigil até a Macalania Woods.
+• Use a pia batismal/esfera brilhante na Starlight Road (onde você pegou o Celestial Mirror) para turbinar a arma com o poder máximo de Yuna.
 
 # Zones
 
