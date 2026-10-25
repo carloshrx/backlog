@@ -234,7 +234,7 @@ Chimera geist
 4. Aqua Breath (Water elemental damage)
 bliz>assayt>aqua>bliz>assaul>aqua>megido<<
 120
-15 5 5 5 5 4.8 4.9 5 5 9
+15 5 5 5 5 4.8 4.9 5 5 9 5
 
 Chimera head weak to reflect
 
