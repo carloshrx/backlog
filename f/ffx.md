@@ -275,6 +275,7 @@ Garuda weak to darkness (only) a bit weak to fire
 Garm immune to sleep
 Ghost use silence buster and find the correct element to hit with sensor
 Gold Element weak to water
+Gojimbo waterga
 Guadoguardian
 - weak to piercing
 - silence with normal attack rikku or wakka > fire or ice > steal
