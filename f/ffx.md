@@ -83,6 +83,32 @@ Regras para conseguir
 ->deathproof
 ->stoneproof
 
+Em Final Fantasy X, armaduras com 4 slots (vazios ou com habilidades) são essenciais para criar equipamentos de final de jogo (Endgame e Post-Game contra chefes secretos e Dark Aeons).
+
+Como conseguir Armaduras de 4 Slots
+
+
+1. Comprar com o Wantz (Método mais confiável)
+
+• Localização: Logo na entrada da Macalania Woods (vindo do Thunder Plains).
+• Preço: 100.000 Gil cada.
+• Pré-requisitos obrigatórios:
+	• Você deve ter falado com o Wantz em Mt. Gagazet durante a campanha.
+	• Deve ter obtido a Airship (Nave).
+	• Deve ter ido até o destino Highbridge na nave e conversado com o Maester Mika.
+
+2. Drops de Monstros (Omega Ruins e Monster Arena)
+
+Certos monstros dropam equipamentos de 4 slots (podem vir completamente vazios ou com algumas habilidades pré-fixadas):
+• Varuna (Omega Ruins / Monster Arena)
+• Black Element (Omega Ruins / Monster Arena)
+• Master Tonberry (Monster Arena)
+• Adamantoise (Omega Ruins / Monster Arena)
+• YKT-11 e YAT-97 (Zanarkand - encontros aleatórios)
+• Dark Aeons (ex: Dark Yojimbo pode dropar armaduras de 4 slots com Ribbon)
+
+
+
 # Capture and weapon meta Capture
 
 ## Capture
