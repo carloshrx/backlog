@@ -466,6 +466,8 @@ Como aprimorar a Nirvana ao máximo:
 • Leve a Nirvana, o Moon Crest e o Moon Sigil até a Macalania Woods.
 • Use a pia batismal/esfera brilhante na Starlight Road (onde você pegou o Celestial Mirror) para turbinar a arma com o poder máximo de Yuna.
 
+silver hourglass
+
 # Zones
 
 ==Moonflow== Poison Ward/poison proof, dark ward/darkproof. Sells good weapon with good touch modifiers. Noxious cait sith.
