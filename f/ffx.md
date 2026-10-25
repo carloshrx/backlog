@@ -78,7 +78,10 @@ Regras para conseguir
 
 ## FOUR SLOTS ARMORS
 
-
+->auto-med
+->confusionproof
+->deathproof
+->stoneproof
 
 # Capture and weapon meta Capture
 
