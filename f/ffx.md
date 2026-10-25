@@ -381,7 +381,13 @@ Attack > Meteor Strike
 Water > Shield > Repeat
 Begin with shield
 
-# Nirvana
+# Rikku - flexible arm
+
+Auto-haste
+Silencestrike
+Darkstrike
+Evade & counter
+# Yuna - Nirvana
 
 
 Como conseguir o Celestial Mirror:
