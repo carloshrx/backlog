@@ -426,6 +426,8 @@ A compatibilidade não age sozinha. Quando você faz um pagamento, o jogo calcul
 Resumo da ópera: Se você estiver com a compatibilidade em 255 e a barra de Overdrive do Yojimbo cheia, suas chances de decepar um chefe com o Zanmato pagando quantias razoáveis de Gil sobem drasticamente.
 Quer que eu te mostre quantos Gils você deve pagar exatamente para ter quase 100% de chance de Zanmato contra os Dark Aeons ou o Penance?
 
+
+## Mount Gagazet bloosom key all monsters captured and belgemine door att
 # Rikku - flexible arm
 
 Auto-haste
