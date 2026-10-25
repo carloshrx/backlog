@@ -232,9 +232,9 @@ Chimera geist
 2. Blizzara or Thundara
 3. Assault (Physical attack)
 4. Aqua Breath (Water elemental damage)
-Thundara>Assault>Aqua breath>Megiddo Flame>Blizza
+
 120
-15 
+15 5 5
 
 Chimera head weak to reflect
 
