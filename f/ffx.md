@@ -76,6 +76,10 @@ Regras para conseguir
 • Se você perder essa chance no navio, pode voltar depois pegando o navio de volta de Luca para Kilika.
 • Depois de aprender, lembre-se de equipar o Jecht Shot no menu de Blitzball do Tidus (você pode precisar subir o Tidus para o nível 2 para abrir o slot de habilidade).
 
+## FOUR SLOTS ARMORS
+
+
+
 # Capture and weapon meta Capture
 
 ## Capture
