@@ -220,6 +220,8 @@ Anima (Seymor Aeon)
 - weak to Blizzara and Shiva Diamond dust
 - Ifrit can tank Pain and do 3.5k with overdrive
 - Tidus can hit hard with Delay Attack
+
+Bashura use Dark Bust
 Blue Element weak to thunder
 Bomb (red/fire) weak to ice. Cast NulBlaze to counter selfdestruct.
 Buer weak to water/confusion
