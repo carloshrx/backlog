@@ -379,6 +379,23 @@ Attack > Meteor Strike
 Water > Shield > Repeat
 Begin with shield
 
+# Nirvana
+
+
+Como conseguir o Celestial Mirror:
+
+1. Pegue o Cloudy Mirror (Espelho Nublado):
+	• Vá até o Remiem Temple (localizado descendo o penhasco a sudeste das Calm Lands usando um Chocobo).
+	• Participe e vença a Corrida de Chocobo lá para ganhar o Cloudy Mirror como recompensa.
+2. Transforme em Celestial Mirror:
+	• Leve o Cloudy Mirror até Macalania Woods.
+	• Na entrada/acampamento de Macalania, fale com a mãe e a criança, depois encontre o pai próximo e junte a família.
+	• Suba o caminho brilhante (starlight road) à esquerda e fale com o garoto. A interação transformará o Cloudy Mirror no Celestial Mirror.
+3. Abra o Baú:
+	• Volte ao Monster Arena nas Calm Lands e use o Celestial Mirror diante do baú para abri-lo e pegar a Nirvana.
+Se precisar de ajuda com os Moon Crest e Moon Sigil para liberar todo o poder da Nirvana, é só avisar!
+
+
 
 # Zones
 
