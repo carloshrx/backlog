@@ -288,7 +288,7 @@ Lamashtu weak to fire. Use NulFrost to counter Breath-ice
 Larva weak to water
 Mafdet-blue weak to heavy hit auron weak to piercing weak to fire high magic resist high phys def
 Mafdet-green
-
+Magic urn use Flee
 Malboro immune to bio, imune to sleep. Cast protect. weak to fire, weak to piercin
 
 Mechguard use STEAL
