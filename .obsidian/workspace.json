@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-10-25º.md",
+                "file": "f/ffx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-25º"
+              "title": "ffx"
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-10-25º.md",
+                "file": "f/ffx.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -213,8 +213,8 @@
   },
   "active": "32c4e3cf718c432e",
   "lastOpenFiles": [
-    "f/ffx.md",
     "dailynote/2026-10-25º.md",
+    "f/ffx.md",
     "dailynote/2026-10-23º.md",
     "t/tfi.md",
     "s/saude-prep.md",
