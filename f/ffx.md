@@ -80,10 +80,10 @@ Regras para conseguir
 
 ## FOUR SLOTS ARMORS
 
-->auto-med
-->confusionproof
-->deathproof
-->stoneproof
+auto-med
+confusionproof
+deathproof
+stoneproof
 
 Em Final Fantasy X, armaduras com 4 slots (vazios ou com habilidades) são essenciais para criar equipamentos de final de jogo (Endgame e Post-Game contra chefes secretos e Dark Aeons).
 
