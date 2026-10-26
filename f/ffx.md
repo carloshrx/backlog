@@ -710,3 +710,14 @@ Para customizar Master Thief, você precisa de 30 Pendulums. Veja o tempo estima
 • Tempo estimado: Várias horas (Inviável).
 • Como funciona: O Neslug dropa 1 Pendulum comum (ou 2 em Overkill) ao ser derrotado.
 • Por que evitar: Neslug é um dos chefes mais difíceis e demorados da Monster Arena (ele se esconde no casco e se cura). Levaria uma eternidade para juntar 30 dele
+
+# Break HP Limit
+
+Wings to Discovery são itens raros em Final Fantasy X usados primariamente para customizar a habilidade Break HP Limit em armaduras (requer 30 unidades) ou Triple AP em armas (requer 50 unidades), além de servirem para mixes poderosos da Rikku
+
+Principais Formas de Obter Wings to Discovery
+
+• Corrida de Chocobos no Remiem Temple (Prêmio único): Vencer a corrida abrindo exatamente 3 baús sem bater em nenhum poste premia você com 30 Wings to Discovery de uma só vez. (Nota: Só pode ser feito uma vez por save).
+• Derrotar Shinryu na Monster Arena (Melhor método repetível): Você desbloqueia o Shinryu capturando 2 exemplares de cada monstro aquático em Mt. Gagazet. Derrotá-lo garante 1x Wings to Discovery (ou 2x em Overkill) com alta taxa de drop.
+• Suborno (Bribe): Você pode subornar o Malboro (nas Calm Lands) ou o Great Malboro (nas Omega Ruins / Inside Sin), mas é um método extremamente caro que consome centenas de milhares de Gil.
+Você já pegou os 30 Wings do Remiem Temple ou está procurando a melhor forma de farmar contra o Shinryu na Arena?
