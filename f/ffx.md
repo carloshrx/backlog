@@ -422,9 +422,10 @@ Zu
 - imune to trheaten
 
 Yunalesca
-confuseproof
-deathproof
-automed
+
+Rikku: armor custom: masterthief confuseproof sleeproof
+auron: armor custom: confuseproof darkproof 
+yuna: armor custom: confuseproof silenceproof
 # Aeons
 
 Ixion HASTE >
