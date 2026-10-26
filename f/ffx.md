@@ -682,3 +682,26 @@ Onde Obtenho / Como Farmar
 
 # Gil Farm
 
+## Master Thief
+
+O tempo de farm para conseguir a habilidade Master Thief varia drasticamente dependendo do método escolhido. A boa notícia é que você não precisa passar horas matando monstros; existe uma recompensa fixa que te dá o item necessário instantaneamente.
+Para customizar Master Thief, você precisa de 30 Pendulums. Veja o tempo estimado para cada método de obtenção:
+
+1. Corrida de Chocobos no Templo de Remiem (O Método Recomendado)
+
+• Tempo estimado: 15 a 45 minutos.
+• Como funciona: Você deve vencer a corrida de Chocobos no Remiem Temple abrindo exatamente 4 baús pelo caminho.
+• Dificuldade: Média/Alta. Os controles do chocobo são travados e exigem prática, mas você recebe os 30 Pendulums de uma só vez como recompensa única na primeira vez que conseguir. É de longe a forma mais rápida do jogo.
+
+2. Suborno (Bribe) do Ultima Weapon (Alternativa rica pós-Yunalesca)
+
+• Tempo estimado: O tempo de juntar 1.400.000 a 2.000.000 Gil.
+• Como funciona: Quando você tiver o dirigível e acessar as Omega Ruins, pode usar a habilidade Bribe no chefe Ultima Weapon.
+• Recompensa: 99 Pendulums de uma só vez.
+• Vale a pena? Apenas se você já tiver muito dinheiro acumulado pelo truque do One-Eye ou derrotando Mimics nas Omega Ruins, caso contrário, o farm de Gil demorará algumas horas.
+
+3. Farmando o Neslug na Monster Arena (O pior método)
+
+• Tempo estimado: Várias horas (Inviável).
+• Como funciona: O Neslug dropa 1 Pendulum comum (ou 2 em Overkill) ao ser derrotado.
+• Por que evitar: Neslug é um dos chefes mais difíceis e demorados da Monster Arena (ele se esconde no casco e se cura). Levaria uma eternidade para juntar 30 dele
