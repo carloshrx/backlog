@@ -332,6 +332,7 @@ Killer Bee (orange) weak to ice
 Kurasiq weak to water
 Lamashtu weak to fire. Use NulFrost to counter Breath-ice
 Larva weak to water
+Mandragora use sleep buster>bio
 Mafdet-blue weak to heavy hit auron weak to piercing weak to fire high magic resist high phys def
 Mafdet-green
 Magic urn use Flee
