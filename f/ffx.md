@@ -256,6 +256,10 @@ Anima (Seymor Aeon)
 - Ifrit can tank Pain and do 3.5k with overdrive
 - Tidus can hit hard with Delay Attack
 
+Bahamut 
+- put to sleep, apply bio, focus >
+- outro
+
 Bashura use Dark Bust
 Blue Element weak to thunder
 Bomb (red/fire) weak to ice. Cast NulBlaze to counter selfdestruct.
