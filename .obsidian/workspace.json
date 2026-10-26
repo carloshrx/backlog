@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailynote/2026-10-26º.md",
+                "file": "x/x3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-26º"
+              "title": "x3"
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-10-26º.md",
+                "file": "x/x3.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -213,8 +213,8 @@
   },
   "active": "32c4e3cf718c432e",
   "lastOpenFiles": [
-    "f/ffx.md",
     "dailynote/2026-10-26º.md",
+    "f/ffx.md",
     "x/x3.md",
     "s/saude-sae.md",
     "a/agenda26.md",
