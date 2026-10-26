@@ -235,6 +235,7 @@ Bio and poison are two very different spells. Bio is almost always one of the mo
 
 # Enemies
 
+Ahriman 
 Alcyone weak to sleep buster, weak to fire or wakka normal
 Aerouge weak to water
 Anacondaur weak to piercing, use SLEEP BURST, weak to FIRE, ABS thunder
@@ -324,6 +325,7 @@ Guadoguardian
 - silence with normal attack rikku or wakka > fire or ice > steal
 
 Grenade weak to ice weak to hko dark buster wakka
+Grendel use thundara
 Ice flan weak to fire 
 Ipiria weak to ice
 Iron Giant weak to water (protect>provoke>cheer)
