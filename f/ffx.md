@@ -679,3 +679,6 @@ Onde Obtenho / Como Farmar
 	• Don Tonberry (Monster Arena - raro, x2).
 	• Pteryx (Monster Arena - raro).
 • Recompensa da Monster Arena: Você recebe 99x Candles of Life de presente ao desbloquear a criação Coeurlregina na Monster Arena (capturando todos os monstros da Cavern of the Stolen Fayth / Sunken Cave).
+
+# Gil Farm
+
