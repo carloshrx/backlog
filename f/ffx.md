@@ -694,6 +694,8 @@ Para customizar Master Thief, você precisa de 30 Pendulums. Veja o tempo estima
 1. Chegar em primeiro lugar SEM tocar em nenhum poste (as estacas coloridas nas laterais da pista).
 • Dificuldade: Média/Alta. Os controles do chocobo são travados e exigem prática, mas você recebe os 30 Pendulums de uma só vez como recompensa única na primeira vez que conseguir. É de longe a forma mais rápida do jogo.
 - Ordem dos baus
+- continua ate o primeiro, suba e pegue o de tras depois o proximo
+- depois do pule volte e pegue o camindo da direita do chocobo
 
 2. Suborno (Bribe) do Ultima Weapon (Alternativa rica pós-Yunalesca)
 
