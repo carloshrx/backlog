@@ -692,6 +692,7 @@ Para customizar Master Thief, você precisa de 30 Pendulums. Veja o tempo estima
 • Tempo estimado: 15 a 45 minutos.
 • Como funciona: Você deve vencer a corrida de Chocobos no Remiem Temple abrindo exatamente 4 baús pelo caminho.
 • Dificuldade: Média/Alta. Os controles do chocobo são travados e exigem prática, mas você recebe os 30 Pendulums de uma só vez como recompensa única na primeira vez que conseguir. É de longe a forma mais rápida do jogo.
+- Ordem dos baus
 
 2. Suborno (Bribe) do Ultima Weapon (Alternativa rica pós-Yunalesca)
 
