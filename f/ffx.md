@@ -735,3 +735,7 @@ O método clássico de evolução rápida funciona assim:
 • Passo 3 (A Batalha): Lute contra o Don Tonberry na Area Conquest (Caverna dos Fayth Roubados). O personagem batedor ataca o Don Tonberry, ele revida com o ataque Karma (que causa dano baseado em quantos monstros aquele personagem já matou), e os companheiros ganham milhões de APs de uma só vez.
 Assista a um guia detalhado sobre como executar o método de farm rápido de AP contra o Don Tonberry em Final Fantasy X:
 4m
+
+## OMEGA RUINS
+
+https://jegged.com/Games/Final-Fantasy-X/Side-Quests/Omega-Ruins.html
