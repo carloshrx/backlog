@@ -763,6 +763,7 @@ O método clássico de evolução rápida funciona assim:
 Assista a um guia detalhado sobre como executar o método de farm rápido de AP contra o Don Tonberry em Final Fantasy X:
 4m
 
+# One-eye
 ## OMEGA RUINS
 
 https://jegged.com/Games/Final-Fantasy-X/Side-Quests/Omega-Ruins.html
