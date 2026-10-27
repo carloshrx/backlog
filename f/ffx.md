@@ -764,7 +764,9 @@ Assista a um guia detalhado sobre como executar o método de farm rápido de AP 
 4m
 
 # One-eye
-## OMEGA RUINS
+## OMEGA RUINS X72 Y35
+
+Omega Ruins 
 
 https://jegged.com/Games/Final-Fantasy-X/Side-Quests/Omega-Ruins.html
 
