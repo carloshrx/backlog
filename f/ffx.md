@@ -722,3 +722,16 @@ Principais Formas de Obter Wings to Discovery
 • Derrotar Shinryu na Monster Arena (Melhor método repetível): Você desbloqueia o Shinryu capturando 2 exemplares de cada monstro aquático em Mt. Gagazet. Derrotá-lo garante 1x Wings to Discovery (ou 2x em Overkill) com alta taxa de drop.
 • Suborno (Bribe): Você pode subornar o Malboro (nas Calm Lands) ou o Great Malboro (nas Omega Ruins / Inside Sin), mas é um método extremamente caro que consome centenas de milhares de Gil.
 Você já pegou os 30 Wings do Remiem Temple ou está procurando a melhor forma de farmar contra o Shinryu na Arena?
+
+# Don Tonberry AP
+
+
+2. O "Truque de AP" (Don Tonberry AP Trick)
+
+Se você pesquisou "No AP" pensando no famoso método de farmar AP infinito no final do jogo, o termo correto na verdade é Overdrive to AP (Overdrive para AP).
+O método clássico de evolução rápida funciona assim:
+• Passo 1 (Arma): Você precisa de uma arma com Triple AP (obtida dropada pelo monstro One-Eye / Olho Único na Monster Arena) e personalizá-la com Overdrive to AP e Triple Overdrive.
+• Passo 2 (Modo de Overdrive): Configure o personagem principal (atacante) no modo Stoic (Estoico) e os outros dois personagens no modo Comrade (Camarada).
+• Passo 3 (A Batalha): Lute contra o Don Tonberry na Area Conquest (Caverna dos Fayth Roubados). O personagem batedor ataca o Don Tonberry, ele revida com o ataque Karma (que causa dano baseado em quantos monstros aquele personagem já matou), e os companheiros ganham milhões de APs de uma só vez.
+Assista a um guia detalhado sobre como executar o método de farm rápido de AP contra o Don Tonberry em Final Fantasy X:
+4m
