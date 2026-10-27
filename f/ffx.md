@@ -624,7 +624,7 @@ Tidus > Haste > Provoke > Slow, Slowga or delay burst > Haste
 Variações e Alternativas Populares
 
 • Para o Dark Yojimbo / Lutas específicas: Substitua o Auto-Phoenix por Defense +20% em um dos personagens, pois contra o Yojimbo o ideal é sobreviver aos ataques em vez de depender apenas de reviver.
-• Para o Penance: Muitos jogadores preferem a build: Auto-Haste, Auto-Protect, Auto-Potion e Defense +25% (ou Auto-Regen), usando X-Potions com a habilidade Distiller/Auto-Potion para curar a party inteira rapidamente sem gastar turnos com magias.
+• Para o Penance: Muitos jogadores preferem a build: Auto-Haste, Auto-Protect, Auto-Potion e Defense +25% (ou Auto-Regen), usando X-Potions com a combinação do overdrive mix da rikku Distiller (Power, Mana, Speed ou Ability Distiller)+X-Potion/Auto-Potion para curar a party inteira rapidamente sem gastar turnos com magias.
 • Com Break HP Limit (BHPL): Se você optar por treinar HP até 99.999 (o que exige dezenas de horas extras de grinding de spheres), a build muda para: Break HP Limit, Auto-Haste, Auto-Regen e Ribbon. No entanto, a build padrão sem BHPL (9.999 HP) é muito mais eficiente e exige menos tempo de jogo.
 
 
