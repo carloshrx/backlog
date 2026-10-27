@@ -706,11 +706,38 @@ Para customizar Master Thief, você precisa de 30 Pendulums. Veja o tempo estima
 • Recompensa: 99 Pendulums de uma só vez.
 • Vale a pena? Apenas se você já tiver muito dinheiro acumulado pelo truque do One-Eye ou derrotando Mimics nas Omega Ruins, caso contrário, o farm de Gil demorará algumas horas.
 
-3. Farmando o Neslug na Monster Arena (O pior método)
+## Gerando Gill
 
-• Tempo estimado: Várias horas (Inviável).
-• Como funciona: O Neslug dropa 1 Pendulum comum (ou 2 em Overkill) ao ser derrotado.
-• Por que evitar: Neslug é um dos chefes mais difíceis e demorados da Monster Arena (ele se esconde no casco e se cura). Levaria uma eternidade para juntar 30 dele
+1. Método do Kottos (O Mais Eficiente)
+
+Este método transforma itens ganhos no Monster Arena em armaduras de alto valor de venda.
+• O que você precisa: Ter liberado o Monster Arena e capturado monstros suficientes na Mihain High Road para desbloquear a criação de espécie Kottos.
+• Passo a passo:
+	1. Vá até Kilika e compre 100 Tetra Armors na loja (custa 2.250 Gil cada).
+	2. Lute contra Kottos no Monster Arena (custa 6.000 Gil por batalha).
+	3. Use a habilidade Overkill em Kottos para dropar 40x Healing Springs por luta.
+	4. Personalize as Tetra Armors com a habilidade SOS Regen (custa 12 Healing Springs por peça).
+	5. Venda cada armadura modificada por 37.781 Gil.
+• Lucro: Mais de 3,3 milhões de Gil de lucro líquido em cerca de 32 minutos.
+
+2. Método dos Mimics (Ruínas de Ômega)
+
+Ideal se você preferir lutar em vez de fazer gerenciamento de inventário em lojas.
+• O que você precisa: Acesso às Ruínas de Ômega (digite as coordenadas na Aeronave) e a habilidade Gillionaire (dobra o Gil ganho).
+• Passo a passo:
+	1. Encontre batalhas contra o lagarto Zaurus que aparecem junto a um baú de tesouro.
+	2. Use o comando Steal (Roubar) no baú vazio.
+	3. Um monstro chamado Mimic (50.000 HP) vai pular para fora do baú.
+	4. Derrote o Mimic para ganhar 50.000 Gil por vitória (ou 100.000 Gil se alguém naparty estiver com Gillionaire).
+• Dica: A arma Celestial de Rikku já vem com Gillionaire nativo, facilitando muito o processo se você já a tiver liberado.
+
+3. Venda de Equipamentos Sobressalentes
+
+• O que fazer: Se você passou o jogo lutando contra todos os inimigos sem fugir, seu inventário de armas e armaduras deve estar lotado.
+• Ação: Vá a qualquer loja e venda todos os equipamentos antigos ou inúteis que acumularam na sua jornada. Isso costuma render um montante inicial rápido para financiar os primeiros passos no Monster Arena.
+Se você quiser, me diga:
+• Quantos Gil você tem no momento?
+• Você já tem acesso liberado ao Monster Arena ou prefere um método direto em mapas de campo?
 
 # Break HP Limit
 
