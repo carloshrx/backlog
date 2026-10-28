@@ -235,6 +235,7 @@ Bio and poison are two very different spells. Bio is almost always one of the mo
 
 # Enemies
 
+Adamantoise break armor use sleep Buster
 Ahriman 
 Alcyone weak to sleep buster, weak to fire or wakka normal
 Aerouge weak to water
