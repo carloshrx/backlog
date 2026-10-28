@@ -800,5 +800,7 @@ bikanel ?, ?, ?, zu, sandworm, cactuar 3/6 visited >> ok
 stolenfaithcavern yowie, imp, darkelement, nidhogg, thorn, ?, epaaj, ghost, ? 7/9
 sin ? ?/?
 
-
+valefor X / Bevelle (ok)
+macalania (ok) / djose (X)
+zanarkand (ok) / kilika (X)
 entrada
