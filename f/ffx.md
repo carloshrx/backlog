@@ -805,3 +805,10 @@ besaid X / Bevelle (ok)
 macalania (ok) / djose (ok) revisited
 zanarkand (ok) / kilika (ok) revisited
 entrada
+
+# Hyper lategame
+
+![](Pasted%20image%2020261028171920.png)
+
+https://www.youtube.com/watch?v=_Xm-Uif9dos
+
