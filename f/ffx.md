@@ -796,7 +796,7 @@ calmlands skoll, nebiros, flameflan, shred, anacondaur, ogre, coeurl, chimerabra
 mt gagazet bandersnatch, ahriman, darkflan, grenade, grat, grendel, bashura, mandragora, behemoth, ?, ?, maelspike 10/12
 Omega Dungeon zaurus, floatingdeath, blackelement, halma, puroboros, spirit, machea, mastercoeurl, ?(demonolith), varuna 9/10
 kilika dinonix, killerbee, yellowelement, ragora 4/4
-mushroomrockroad raptor, gandarewa, ?, redelement, ?, ?, ? 3/7
+mushroomrockroad raptor, gandarewa, ?, redelement, ?, ?, ? 3/7 visited >
 thunderplains melusine, aerouge, buer, goldelement, kurasiqqu, larva, irongiant, Qactuar 8/8
 bikanel ?, ?, ?, zu, sandworm, cactuar 3/6
 stolenfaithcavern yowie, imp, darkelement, nidhogg, thorn, ?, epaaj, ghost, ? 7/9
