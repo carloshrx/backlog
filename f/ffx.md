@@ -801,3 +801,4 @@ stolenfaithcavern yowie, imp, darkelement, nidhogg, thorn, ?, epaaj, ghost, ? 7/
 sin ? ?/?
 
 
+entrada
