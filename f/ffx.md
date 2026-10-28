@@ -640,7 +640,10 @@ Onde conseguir as armaduras e materiais
 Auto-haste
 auto-potion
 auto-protect
-ribbon or auto-defense
+auto-defense
+
+use ribbon on yuna or tidus (preferable one with firstrike)
+audefense scales very well on auron because of magic counter upset
 
 
 - Auto-potion
