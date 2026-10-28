@@ -798,7 +798,7 @@ Omega Dungeon zaurus, floatingdeath, blackelement, halma, puroboros, spirit, mac
 kilika dinonix, killerbee, yellowelement, ragora 4/4
 mushroomrockroad raptor, gandarewa, ?, redelement, ?, ?, ? 3/7 visited >
 thunderplains melusine, aerouge, buer, goldelement, kurasiqqu, larva, irongiant, Qactuar 8/8
-bikanel ?, ?, ?, zu, sandworm, cactuar 3/6
+bikanel ?, ?, ?, zu, sandworm, cactuar 3/6 visited >> ok
 stolenfaithcavern yowie, imp, darkelement, nidhogg, thorn, ?, epaaj, ghost, ? 7/9
 sin ? ?/?
 
