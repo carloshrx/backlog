@@ -637,6 +637,11 @@ Onde conseguir as armaduras e materiais
 	• Auto-Protect: Light Curtain x70 (obtido contra o chefe Fafnir no Monster Arena).
 	• Ribbon: Dark Matter x99 (dropado/recompensa do Monster Arena ou do truque do Dark Yojimbo)
 
+Auto-haste
+auto-potion
+auto-protect
+ribbon or auto-defense
+
 
 - Auto-potion
 To customize Auto-Potion onto any armor in Final Fantasy X, you need 4 Stamina Tablets per piece of equipment. The ability automatically triggers a healing item when a character's HP drops to or below 50%, prioritizing the lowest-tier potion available in your inventory (Potion -> Hi-Potion -> X-Potion).
