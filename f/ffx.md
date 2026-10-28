@@ -777,3 +777,21 @@ https://jegged.com/Games/Final-Fantasy-X/Tips-and-Tricks/Best-Armor.html
 complete 10 areas
 thunderplains, macalania, calmlands
 omega ruins (missing one)
+
+# Monster arena
+
+Besaid dingo, condor, waterflan 3/3
+Miihen miihenfang, ?, floating eye, ?, ?, vouivre, bomb, dualhorn 5/8
+Djoseroad 0/7
+Macalania snowwolf, iguion, wasp, evileye, iceflan, blueelement, murussu, mafdet, xiphos, chimera 10/10
+calmlands skoll, nebiros, flameflan, shred, anacondaur, ogre, coeurl, chimerabrain, malboro 9/9
+mt gagazet bandersnatch, ahriman, darkflan, grenade, grat, grendel, bashura, mandragora, behemoth, ?, ?, maelspike 10/12
+Omega Dungeon zaurus, floatingdeath, blackelement, halma, puroboros, spirit, machea, mastercoeurl, ?(demonolith), varuna 9/10
+kilika dinonix, killerbee, yellowelement, ragora 4/4
+mushroomrockroad raptor, gandarewa, ?, redelement, ?, ?, ? 3/7
+thunderplains melusine, aerouge, buer, goldelement, kurasiqqu, larva, irongiant, Qactuar 8/8
+bikanel ?, ?, ?, zu, sandworm, cactuar 3/6
+stolenfaithcavern yowie, imp, darkelement, nidhogg, thorn, ?, epaaj, ghost, ? 7/9
+sin ? ?/?
+
+
