@@ -782,9 +782,7 @@ https://jegged.com/Games/Final-Fantasy-X/Side-Quests/Omega-Ruins.html
 
 https://jegged.com/Games/Final-Fantasy-X/Tips-and-Tricks/Best-Armor.html
 
-complete 10 areas
-thunderplains, macalania, calmlands
-omega ruins (missing one)
+
 
 # Monster arena
 
