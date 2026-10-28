@@ -339,7 +339,7 @@ Mafdet-blue weak to heavy hit auron weak to piercing weak to fire high magic res
 Mafdet-green
 Magic urn use Flee
 Malboro immune to bio, imune to sleep. Cast protect. weak to fire, weak to piercin
-
+Malboro BLUE (GREAT) 
 Mechguard use STEAL
 Mechgunner use STEAL
 Melusine weak to ice
