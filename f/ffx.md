@@ -781,6 +781,7 @@ https://jegged.com/Games/Final-Fantasy-X/Side-Quests/Omega-Ruins.html
 # Input
 
 https://jegged.com/Games/Final-Fantasy-X/Tips-and-Tricks/Best-Armor.html
+https://www.reddit.com/r/ffx/comments/emxjrj/jumbo_flan_strategy/?tl=pt-br
 
 
 
