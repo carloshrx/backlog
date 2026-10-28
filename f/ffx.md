@@ -776,5 +776,6 @@ https://jegged.com/Games/Final-Fantasy-X/Tips-and-Tricks/Best-Armor.html
 Floating Death (Omega Ruins) farm 4 killed 1
 floatin eye ok
 buer ok
+evil eye ok
 
 620996
