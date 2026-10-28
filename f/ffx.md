@@ -810,5 +810,5 @@ entrada
 
 ![](Pasted%20image%2020261028171920.png)
 
-https://www.youtube.com/watch?v=_Xm-Uif9dos
+[Stat Maxxing](https://www.youtube.com/watch?v=_Xm-Uif9dos)
 
