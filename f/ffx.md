@@ -789,7 +789,7 @@ omega ruins (missing one)
 # Monster arena
 
 Besaid dingo, condor, waterflan 3/3
-Miihen miihenfang, ?, floating eye, ?, ?, vouivre, bomb, dualhorn 5/8
+Miihen miihenfang, ?, floating eye, ?, ?, vouivre, bomb, dualhorn 5/8 Ipiria, 
 Djoseroad 0/7
 Macalania snowwolf, iguion, wasp, evileye, iceflan, blueelement, murussu, mafdet, xiphos, chimera 10/10
 calmlands skoll, nebiros, flameflan, shred, anacondaur, ogre, coeurl, chimerabrain, malboro 9/9
