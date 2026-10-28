@@ -790,7 +790,7 @@ omega ruins (missing one)
 
 Besaid dingo, condor, waterflan 3/3
 Miihen miihenfang, ?, floating eye, ?, ?, vouivre, bomb, dualhorn 5/8 Ipiria, 
-Djoseroad 0/7
+Djoseroad 0/7 basilisk funguar? bunyip simurg garm
 Macalania snowwolf, iguion, wasp, evileye, iceflan, blueelement, murussu, mafdet, xiphos, chimera 10/10
 calmlands skoll, nebiros, flameflan, shred, anacondaur, ogre, coeurl, chimerabrain, malboro 9/9
 mt gagazet bandersnatch, ahriman, darkflan, grenade, grat, grendel, bashura, mandragora, behemoth, ?, ?, maelspike 10/12
