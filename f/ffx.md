@@ -782,8 +782,18 @@ https://jegged.com/Games/Final-Fantasy-X/Side-Quests/Omega-Ruins.html
 
 https://jegged.com/Games/Final-Fantasy-X/Tips-and-Tricks/Best-Armor.html
 https://www.reddit.com/r/ffx/comments/emxjrj/jumbo_flan_strategy/?tl=pt-br
-
-
+Rikku Celestial weapon
+Tidus Celestial weapon
+Auron Celestial weapon
+Auron Celestial weapon nv2
+One-Eye How to kill? (im here)
+Don Berry Ap trick
+Dark Valefor
+Three Mages Aeon
+Belgemine final fight
+Omega ruins clear
+Inside sin
+Rikku, Kima and lulu level up (starting from don Berry)
 
 # Monster arena
 
