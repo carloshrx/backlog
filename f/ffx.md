@@ -803,5 +803,5 @@ sin ? ?/?
 
 valefor X / Bevelle (ok)
 macalania (ok) / djose (X)
-zanarkand (ok) / kilika (X)
+zanarkand (ok) / kilika (ok)
 entrada
