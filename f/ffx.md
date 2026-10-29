@@ -790,6 +790,19 @@ Rikku Celestial weapon
 Tidus Celestial weapon
 Auron Celestial weapon
 Auron Celestial weapon nv2
+stolen fayth cavern capture all monsters
+• Yowie: Em toda a caverna
+• Imp: Em toda a caverna
+• Dark Element: Em toda a caverna (áreas comuns)
+• Nidhogg: Em toda a caverna (áreas comuns)
+• Thorn: Em toda a caverna (áreas comuns)
+• Valaha: Mais comum nas salas grandes / pode aparecer em qualquer lugar
+• Epaaj: Mais comum perto da entrada/saída ou em qualquer lugar
+• Ghost: Raro, pode aparecer em qualquer lugar
+• Tonberry: Raro, com maior taxa de aparecimento nas áreas com luz verde / próximas ao corredor com o baú da Key Sphere Nível 2
+• Coeurl: Exclusivo das áreas com tom esverdeado
+• Defender: Exclusivo das áreas com tom esverdeado
+• Malboro: Exclusivo das áreas com tom esverdeado
 One-Eye How to kill? (im here)
 Don Berry Ap trick
 Dark Valefor
