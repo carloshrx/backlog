@@ -791,6 +791,13 @@ Tidus Celestial weapon
 Auron Celestial weapon
 Auron Celestial weapon nv2
 stolen fayth cavern capture all monsters
+Localização:
+	• Vá até a northeast exit (saída nordeste) das Calm Lands.
+	• Atravesse a ponte e siga pelo caminho à direita (que é quase escondido).
+	• Desça o vale e, próximo ao ponto de salvamento (Save Point), você encontrará a entrada da caverna no lado esquerdo.
+	• Dica: Uma forma fácil de retornar depois que você já tiver a Airship (Nave) é viajar até Mt. Gagazet e ir para o sul de volta às Calm Lands.
+	
+Lista dos montros:
 	• Yowie: Em toda a caverna
 	• Imp: Em toda a caverna
 	• Dark Element: Em toda a caverna (áreas comuns)
