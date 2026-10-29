@@ -886,3 +886,4 @@ entrada
 
 [Stat Maxxing](https://www.youtube.com/watch?v=_Xm-Uif9dos)
 
+## Rikku best offensives
