@@ -810,6 +810,46 @@ Lista dos montros:
 	• Coeurl: Exclusivo das áreas com tom esverdeado
 	• Defender: Exclusivo das áreas com tom esverdeado
 	• Malboro: Exclusivo das áreas com tom esverdeado
+
+A melhor e mais famosa estratégia antes de enfrentar o One-Eye é a versão inicial do Truque do Don Tonberry na Arena de Monstros.
+Embora o One-Eye solte as cobiçadas armas com Triple AP, você não precisa dele para começar a farmar níveis massivos. É perfeitamente possível montar uma "versão de entrada" dessa estratégia para deixar seus personagens fortes o suficiente para destruí-lo.
+Abaixo está o passo a passo para o seu nível atual:
+
+Passo 1: Capturar os Monstros Necessários
+
+Para liberar os itens que você precisa, vá até a Monster Arena nas Calm Lands e cumpra estes objetivos:
+• Capture pelo menos 1 monstro de cada espécie na Caverna do Stolen Fayth (onde você pega o Yojimbo) para liberar o Don Tonberry na arena.
+• Capture monstros suficientes pelo mundo até liberar a categoria Bomb King (Área Conquest). Como recompensa, o dono da arena te dará 99x Door to Tomorrow.
+
+Passo 2: Criar as Armas de Entrada para o Truque
+
+Compre armas vazias com 2 ou 3 espaços abertos (o Wantz na Macalania Woods ou em Guadosalam costuma vender).
+1. Use a opção Customize no menu.
+2. Gaste suas Doors to Tomorrow para colocar a habilidade Overdrive -> AP nas armas de pelo menos 3 personagens.
+3. (Opcional, mas ajuda muito): Se tiver armaduras com espaço, coloque Auto-Phoenix em pelo menos um personagem que vai ficar na reserva do ataque.
+
+Passo 3: Configurar os Modos de Overdrive
+
+Vá no menu de Overdrive dos seus personagens e mude os modos:
+• O Atacante Principal (Ex: Tidus ou Wakka): Mude para o modo Stoic (ganha AP ao receber dano). Dica: Escolha o personagem que mais matou monstros durante o jogo inteiro.
+• Os Outros Dois Personagens: Mude para o modo Comrade (ganham AP quando um aliado recebe dano).
+
+Passo 4: Executar o Truque na Arena
+
+1. Lute contra o Don Tonberry na Arena de Monstros.
+2. No primeiro turno, faça o seu Atacante Principal usar um golpe físico normal nele.
+3. O Don Tonberry vai contra-atacar com o golpe Karma, que causa dano baseado em quantos monstros aquele personagem já matou na história. Se ele já matou muitos, o dano será de 99.999, matando-o instantaneamente.
+4. Graças à arma com Overdrive -> AP, esse dano absurdo de 99.999 é convertido em centenas de milhares de pontos de AP para o grupo inteiro na hora.
+5. Reviva o personagem morto (com Phoenix Down ou Auto-Phoenix) e repita o processo.
+6. IMPORTANTE: Quando o Don Tonberry der quatro passos para frente e chegar perto do seu grupo, ele não usará mais o Karma. Nesse momento exato, use o comando Flee (Fugir) da batalha. Você manterá todo o AP acumulado!
+
+O Resultado
+
+Em uma única luta de 3 minutos, seus personagens vão ganhar de 20 a 50 Sphere Levels (S.Lv) de uma só vez.
+Use esses níveis para andar pelo Sphere Grid focando em nós de Strength (Força) e Defense (Defesa). Assim que os seus atacantes físicos alcançarem cerca de 100 de Strength, você poderá voltar ao One-Eye e derrotá-lo em apenas 2 ou 3 golpes.
+Se você decidir testar, me avise:
+• Você já tem os 99 Door to Tomorrow ou precisa de ajuda para saber quais monstros capturar para liberá-los?
+• Quem é o personagem que mais lutou e matou monstros na sua jornada até agora?
 One-Eye How to kill? (im here)
 Don Berry Ap trick
 Dark Valefor
