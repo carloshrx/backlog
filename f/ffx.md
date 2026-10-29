@@ -772,7 +772,9 @@ O método clássico de evolução rápida funciona assim:
 Assista a um guia detalhado sobre como executar o método de farm rápido de AP contra o Don Tonberry em Final Fantasy X:
 Exemplo
 
-Wakka atacante Triple AP, Overdrive > AP, 
+Rikku Triple AP, Overdrive > AP, Triple Overdrive 
+Wakka atacante Triple AP, Overdrive > AP, Triple Overdrive 
+Tidus Triple AP, Overdrive > AP, Triple Overdrive 
 # One-eye
 # OMEGA RUINS X72 Y35
 
