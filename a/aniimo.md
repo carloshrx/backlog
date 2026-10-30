@@ -44,6 +44,7 @@ https://www.reddit.com/r/Aniimo/comments/1x1ho68/harvest_gathering/
 ## Layouts
 
 https://aniidex.com/pt/homeland/layout-codes/
+https://aniidex.com/homeland/layout-codes/americas/2817/
 
 Tall hardwood step - marble
 Glass window
