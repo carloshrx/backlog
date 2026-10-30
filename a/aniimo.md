@@ -40,3 +40,8 @@ hit kill da chaminha quando chegou perto para ultar
 
 harvest gathering: bright bloom
 https://www.reddit.com/r/Aniimo/comments/1x1ho68/harvest_gathering/
+
+## Layouts
+
+https://aniidex.com/pt/homeland/layout-codes/
+
