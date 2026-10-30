@@ -45,3 +45,7 @@ https://www.reddit.com/r/Aniimo/comments/1x1ho68/harvest_gathering/
 
 https://aniidex.com/pt/homeland/layout-codes/
 
+Tall hardwood step - marble
+Glass window
+Folding glass window
+
