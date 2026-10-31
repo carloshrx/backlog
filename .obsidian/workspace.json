@@ -207,14 +207,14 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "32c4e3cf718c432e",
   "lastOpenFiles": [
-    "a/aniimo.md",
+    "a/agenda26.md",
     "dailynote/2026-10-31º.md",
+    "a/aniimo.md",
     "Pasted image 20261030212657.png",
     "dailynote/2026-10-30º.md",
     "f/ffx.md",
@@ -223,7 +223,6 @@
     "dailynote/2026-10-28º.md",
     "x/x3.md",
     "dailynote/2026-10-27º.md",
-    "a/agenda26.md",
     "dailynote/2026-10-26º.md",
     "s/saude-sae.md",
     "s/saude-prep.md",
