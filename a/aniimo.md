@@ -46,7 +46,10 @@ https://www.reddit.com/r/Aniimo/comments/1x1ho68/harvest_gathering/
 https://aniidex.com/pt/homeland/layout-codes/
 https://aniidex.com/homeland/layout-codes/americas/2817/
 
-Tall hardwood step - marble
-Glass window
-Folding glass window
 
+![](Pasted%20image%2020261030212657.png)
+Decorative Column - Maple
+Eg to reproduce
+
+eggs
+https://aniidex.com/homeland/layout-codes/europe/1737/
