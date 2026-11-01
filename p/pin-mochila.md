@@ -2,7 +2,9 @@ https://www.mercadolivre.com.br/patch-bordado-tarja-fecho-de-contato-para-mochil
 Patch Bordado Tarja Fecho De Contato Para Mochila Colete
 Vendido por Lionebolsas
 
-Patch Space Candy
+Patch Space Candy (todos)
 https://www.fallenstore.com.br/patch-space-candy
 
+Patch cs2 (todos)
+https://www.fallenstore.com.br/patch-cs2
 
