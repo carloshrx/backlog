@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2026-11-2º"
             }
+          },
+          {
+            "id": "f95f2dcbfe158a28",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.15.0"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,7 +223,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "32c4e3cf718c432e",
+  "active": "f95f2dcbfe158a28",
   "lastOpenFiles": [
     "p/pin-mochila.md",
     "dailynote/2026-11-2º.md",
