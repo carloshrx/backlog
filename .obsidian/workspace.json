@@ -25,12 +25,14 @@
             "id": "f95f2dcbfe158a28",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.15.0"
+                "file": "dailynote/2026-11-2º.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.15.0"
+              "icon": "lucide-file",
+              "title": "2026-11-2º"
             }
           }
         ],
