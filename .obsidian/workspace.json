@@ -39,10 +39,14 @@
             "id": "1ebd11c67185b150",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "a/aniimo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "aniimo"
             }
           }
         ],
@@ -111,6 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "a/aniimo.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -231,11 +236,13 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "1ebd11c67185b150",
   "lastOpenFiles": [
+    "dailynote/2026-11-4º.md",
     "dailynote/2026-11-3º.md",
     "dailynote/2026-11-2º.md",
     "p/pin-mochila.md",
@@ -264,7 +271,6 @@
     "dailynote/2026-10-20º.md",
     "n/nio.md",
     "i/intelbras-cam.md",
-    "dailynote/2026-10-19º.md",
     "Pasted image 20261009234555.png",
     "Pasted image 20260930211303.png",
     "aniimo-farm-setup1-reddit.png",
