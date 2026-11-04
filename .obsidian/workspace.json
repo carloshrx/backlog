@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "2026-11-3º"
             }
+          },
+          {
+            "id": "1ebd11c67185b150",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +111,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailynote/2026-11-3º.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -225,10 +234,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f95f2dcbfe158a28",
+  "active": "1ebd11c67185b150",
   "lastOpenFiles": [
-    "dailynote/2026-11-2º.md",
     "dailynote/2026-11-3º.md",
+    "dailynote/2026-11-2º.md",
     "p/pin-mochila.md",
     "dailynote/2026-11-1º.md",
     "dailynote/2026-10-31º.md",
