@@ -12,5 +12,5 @@ fazer scizor na outlands
 juntar drops fazer gema e ir atras de comprar bike
 usar idledeck com links de streamers
 deixe a conta principal no navegador
-
+equipar tm aoe em algum poke
 
