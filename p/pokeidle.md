@@ -23,6 +23,18 @@ usar idledeck com links de streamers
 deixe a conta principal no navegador
 equipar tm aoe em algum poke
 
+# Outland
+
+outland dropa item raro basicamente
+ai tu pode ou usar
+ou vender
+vc dropa boss token, fragmentos de bike - casa - shiny stone
+se tu junta 10 fragmentos vc faz um item completo
+e tem como vender por gema no RMT
+mas não aconselho a vender tudo não, se tu quiser qualidade de vida vc vai querer uma bike e uma casa por exemplo
+e vai querer usar os boss tokens pra dropar item de boss
+como o TM AoE que faz todo ataque do seu pokemon ser em uma area 11x11
+e como outland te da acesso a tudo isso nao tem pokemon shiny la e os pokemons nao evoluem/mega-evoluem
 # Shiny
 
 ruim insetos
