@@ -9,6 +9,13 @@ pkidle.champions@gmail.com
 
 pkidle.champions@gmail.com
 @{pkidle}xMv55WV30L
+
+# Binance
+
+pode só colocar que é pra você a transferencia
+mas se n quiser
+https://pokeidle.io/terms
+
 # Begin
 /resgatar NB32RE8DLM
 link para usar no idle deck
@@ -45,6 +52,8 @@ insano meta com ponto bom
 todos podem ser vendidos por gemas
 
 # Stats
+
+É a primeira opção dentro do canal do discord do pokemon idle 
 
 https://discord.com/channels/1534357980298874891/1535048246047801424/1568144359407484959
 
