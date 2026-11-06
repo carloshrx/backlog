@@ -71,3 +71,7 @@ pra pvp é bom q seja mais equilibrado, pve tendo o respectivo atk + spd ja ta o
 shiny é 3x e p5 2x status se nao me engano, entao qnd for trocar procurar por eles, como o mario disse, os iniciais atualmente ja sao bem fortes 
 
 ![](Pasted%20image%2020261106032111.png)
+
+# Vínculo
+
+![](Pasted%20image%2020261106182615.png)![](Pasted%20image%2020261106182636.png)![](Pasted%20image%2020261106182708.png)
