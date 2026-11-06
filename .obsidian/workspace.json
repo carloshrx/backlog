@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "n/nickname.md",
+                "file": "p/pokeidle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nickname"
+              "title": "pokeidle"
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "n/nickname.md",
+                "file": "p/pokeidle.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -213,8 +213,8 @@
   },
   "active": "76beb0e3e337ecb7",
   "lastOpenFiles": [
-    "p/pokeidle.md",
     "n/nickname.md",
+    "p/pokeidle.md",
     "f/ffx.md",
     "dailynote/2026-11-5º.md",
     "dailynote/2026-11-4º.md",

@@ -43,3 +43,14 @@ bom usaveis com stat bom
 insano meta com ponto bom
 
 todos podem ser vendidos por gemas
+
+# Stats
+
+https://discord.com/channels/1534357980298874891/1535048246047801424/1568144359407484959
+
+qualidade > iv > potencia
+os ivs precisam estar bem distribuidos (se for so pro pve, no minimo que esteja bem em atk (caso seja pokemon fisico) ou em SP.ATK caso seja magico (vc pode ver o moveset dos pokemons na pokedex)
+
+pra pvp é bom q seja mais equilibrado, pve tendo o respectivo atk + spd ja ta otimo
+
+shiny é 3x e p5 2x status se nao me engano, entao qnd for trocar procurar por eles, como o mario disse, os iniciais atualmente ja sao bem fortes 
