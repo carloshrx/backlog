@@ -1,7 +1,12 @@
 # Acc
 
+## pkidle
+
 pkidle.champions@gmail.com
 @{pkidle}xMv55WV30L
+
+## kick
+
 
 ## Begin
 4 contas e a principal no nav
