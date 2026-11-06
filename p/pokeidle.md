@@ -17,6 +17,7 @@ mas se n quiser
 https://pokeidle.io/terms
 
 # Begin
+
 /resgatar NB32RE8DLM
 link para usar no idle deck
 https://pokeidle.io/?ref=tftoddy
@@ -29,6 +30,10 @@ juntar drops fazer gema e ir atras de comprar bike
 usar idledeck com links de streamers
 deixe a conta principal no navegador
 equipar tm aoe em algum poke
+
+# Hunt
+
+https://pokeidle-gg.pages.dev/#hunt
 
 # Outland
 
