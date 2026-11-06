@@ -1,3 +1,4 @@
+https://pokeidle.io/app
 # Acc
 
 ## pkidle
