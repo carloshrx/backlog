@@ -10,7 +10,7 @@ pkidle.champions@gmail.com
 pkidle.champions@gmail.com
 @{pkidle}xMv55WV30L
 # Begin
-
+/resgatar NB32RE8DLM
 link para usar no idle deck
 https://pokeidle.io/?ref=tftoddy
 4 contas e a principal no nav
