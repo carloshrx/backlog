@@ -54,3 +54,5 @@ os ivs precisam estar bem distribuidos (se for so pro pve, no minimo que esteja 
 pra pvp é bom q seja mais equilibrado, pve tendo o respectivo atk + spd ja ta otimo
 
 shiny é 3x e p5 2x status se nao me engano, entao qnd for trocar procurar por eles, como o mario disse, os iniciais atualmente ja sao bem fortes 
+
+![](Pasted%20image%2020261106032111.png)
