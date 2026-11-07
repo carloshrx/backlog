@@ -2,10 +2,15 @@ https://pokeidle.io/app
 # Acc
 
 ## Idledeck 1 (main) + 3
-## pkidle
+### pkidle.io c1 main
 
 pkidle.champions@gmail.com
 @{pkidle}xMv55WV30L
+### pkidle.io c2
+
+### pkidle.io c3
+
+### pkidle.io c4
 
 ## kick
 
