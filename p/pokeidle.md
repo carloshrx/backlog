@@ -8,7 +8,7 @@ pkidle.champions@gmail.com
 @{pkidle}xMv55WV30L
 ### pkidle.io c2
 Dinonix
-dinonixidledeck@gmail.com
+dinonixpkidle@gmail.com
 @{pkidle}xMv77WVYKL
 ### pkidle.io c3
 Tomberry
