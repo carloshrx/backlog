@@ -16,7 +16,7 @@ tomberrypkidle@gmail.com
 @{pkidle}aMc89WVYKL
 ### pkidle.io c4
 Chocobomix
-chocobomixidledeck@gmail.com
+chocobomixpkidle@gmail.com
 @{pkidle}yMo89KSYCD
 ## kick
 
