@@ -46,9 +46,11 @@ equipar tm aoe em algum poke
 
 # Indique e Ganhe (codigo de indicação)
 
+## Meu código de indicação
 https://pokeidle.io/?ref=K829XT8
 
-K829XT8
+Meu código: K829XT8
+Entrei pelo código: CCTPPDP
 # Hunt
 
 https://pokeidle-gg.pages.dev/#hunt
