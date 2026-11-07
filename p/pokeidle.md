@@ -48,6 +48,10 @@ mas não aconselho a vender tudo não, se tu quiser qualidade de vida vc vai que
 e vai querer usar os boss tokens pra dropar item de boss
 como o TM AoE que faz todo ataque do seu pokemon ser em uma area 11x11
 e como outland te da acesso a tudo isso nao tem pokemon shiny la e os pokemons nao evoluem/mega-evoluem
+
+# Precificador
+
+briaoale github io/precificador-pokemon/
 # Shiny
 
 ruim insetos
