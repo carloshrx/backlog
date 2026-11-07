@@ -12,7 +12,7 @@ dinonixpkidle@gmail.com
 @{pkidle}xMv77WVYKL
 ### pkidle.io c3
 Tomberry
-tomberryidledeck@gmail.com
+tomberrypkidle@gmail.com
 @{pkidle}aMc89WVYKL
 ### pkidle.io c4
 Chocobomix
