@@ -30,7 +30,7 @@ pode só colocar que é pra você a transferencia
 mas se n quiser
 https://pokeidle.io/terms
 
-# Begin
+# IdleDeck TFToddy
 
 /resgatar NB32RE8DLM
 link para usar no idle deck
