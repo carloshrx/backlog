@@ -5,9 +5,11 @@ https://pokeidle.io/app
 ### pkidle.io c1 main
 Quimera
 pkidle.champions@gmail.com
+==Para login no pokeidle.io use sem o ponto==
+pkidlechampions@gmail.com
 @{pkidle}xMv55WV30L
 ### pkidle.io c2
-Dinonix
+Quimera2
 dinonixpkidle@gmail.com
 @{pkidle}xMv77WVYKL
 ### pkidle.io c3
@@ -30,7 +32,13 @@ pode só colocar que é pra você a transferencia
 mas se n quiser
 https://pokeidle.io/terms
 
-# IdleDeck TFToddy
+# IdleDeck
+
+## IdleDeck Como configurar o endereço do pokeidle.io
+
+![](Pasted%20image%2020261107163807.png)![](Pasted%20image%2020261107163837.png)
+
+## IdleDeck Convite TFToddy
 
 /resgatar NB32RE8DLM
 link para usar no idle deck
