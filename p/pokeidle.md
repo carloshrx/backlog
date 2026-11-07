@@ -44,6 +44,11 @@ usar idledeck com links de streamers
 deixe a conta principal no navegador
 equipar tm aoe em algum poke
 
+# Indique e Ganhe (codigo de indicação)
+
+https://pokeidle.io/?ref=K829XT8
+
+K829XT8
 # Hunt
 
 https://pokeidle-gg.pages.dev/#hunt
