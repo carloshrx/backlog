@@ -98,3 +98,4 @@ shiny é 3x e p5 2x status se nao me engano, entao qnd for trocar procurar por e
 # Vínculo
 
 ![](Pasted%20image%2020261106182615.png)![](Pasted%20image%2020261106182636.png)![](Pasted%20image%2020261106182708.png)
+
