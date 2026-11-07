@@ -17,8 +17,7 @@ Quimera3
 tomberrypkidle@gmail.com
 @{pkidle}aMc89WVYKL
 ### pkidle.io c4 
-==(passa o limite de contas, email não usado)==
-Chocobomix
+Quimera4
 chocobomixpkidle@gmail.com
 @{pkidle}yMo89KSYCD
 ## kick
