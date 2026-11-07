@@ -1,6 +1,7 @@
 https://pokeidle.io/app
 # Acc
 
+## Idledeck 1 (main) + 3
 ## pkidle
 
 pkidle.champions@gmail.com
