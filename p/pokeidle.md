@@ -9,9 +9,11 @@ pkidle.champions@gmail.com
 ### pkidle.io c2
 Dinonix
 dinonixidledeck@gmail.com
+@{pkidle}xMv77WVYKL
 ### pkidle.io c3
-
-Tom
+Tomberry
+tomberryidledeck@gmail.com
+@{pkidle}aMc89WVYKL
 ### pkidle.io c4
 
 ## kick
