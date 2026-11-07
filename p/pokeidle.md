@@ -14,7 +14,8 @@ dinonixpkidle@gmail.com
 Tomberry
 tomberrypkidle@gmail.com
 @{pkidle}aMc89WVYKL
-### pkidle.io c4
+### pkidle.io c4 
+==(passa o limite de contas, email não usado)==
 Chocobomix
 chocobomixpkidle@gmail.com
 @{pkidle}yMo89KSYCD
