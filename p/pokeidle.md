@@ -3,13 +3,15 @@ https://pokeidle.io/app
 
 ## Idledeck 1 (main) + 3
 ### pkidle.io c1 main
-
+Quimera
 pkidle.champions@gmail.com
 @{pkidle}xMv55WV30L
 ### pkidle.io c2
-
+Dinonix
+dinonixidledeck@gmail.com
 ### pkidle.io c3
 
+Tom
 ### pkidle.io c4
 
 ## kick

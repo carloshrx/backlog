@@ -207,16 +207,18 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "76beb0e3e337ecb7",
   "lastOpenFiles": [
+    "dailynote/2026-11-7º.md",
+    "p/pokeidle.md",
     "Pasted image 20261106182708.png",
     "Pasted image 20261106182636.png",
     "Pasted image 20261106182615.png",
     "dailynote/2026-11-6º.md",
-    "p/pokeidle.md",
     "Pasted image 20261106032111.png",
     "n/nickname.md",
     "f/ffx.md",
@@ -249,7 +251,6 @@
     "aniimo-farm-setup1-reddit.png",
     "e/Sem título.canvas",
     "img",
-    "resources-offlink/thinking-piramid.jpg",
     "img",
     "pdf/c-completo-total.pdf",
     "news.blizzard.com/en-us/article/24267729",
