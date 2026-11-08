@@ -65,6 +65,9 @@ https://pokeidle-gg.pages.dev/#hunt
 
 # Outland
 
+- Vendendo pokemons em outland
+
+
 outland dropa item raro basicamente
 ai tu pode ou usar
 ou vender
