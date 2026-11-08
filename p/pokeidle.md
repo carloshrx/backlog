@@ -31,6 +31,13 @@ pode só colocar que é pra você a transferencia
 mas se n quiser
 https://pokeidle.io/terms
 
+# Discord activity
+
+Application ID
+1568872346842824824
+
+Publickey
+367092cd8845a80ea23745f979d4a96a1cc1b84adb66671b909b39f9076a9faa
 # IdleDeck
 
 ## IdleDeck Como configurar o endereço do pokeidle.io

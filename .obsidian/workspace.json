@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "x/x3.md",
+                "file": "p/pokeidle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "x3"
+              "title": "pokeidle"
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "x/x3.md",
+                "file": "p/pokeidle.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -213,9 +213,9 @@
   },
   "active": "76beb0e3e337ecb7",
   "lastOpenFiles": [
+    "x/x3.md",
     "p/pokeidle.md",
     "Pasted image 20261107210514.png",
-    "x/x3.md",
     "Pasted image 20261107163837.png",
     "Pasted image 20261107163807.png",
     "d/discord-alerts-callouts.md",
