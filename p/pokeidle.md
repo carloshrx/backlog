@@ -43,6 +43,8 @@ Configure o CustomRP:• Baixe e instale o programa CustomRP.
 • Abra o CustomRP e cole o seu Application ID no campo correspondente.
 • No campo Large Image Key (Chave da Imagem Grande), digite exatamente o nome da imagem que você enviou no portal do Discord (ex: logo_jogo).
 • No campo Details ou State, você pode escrever o que está fazendo no jogo.
+
+346
 # IdleDeck
 
 ## IdleDeck Como configurar o endereço do pokeidle.io
