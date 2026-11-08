@@ -45,6 +45,9 @@ Configure o CustomRP:• Baixe e instale o programa CustomRP.
 • No campo Details ou State, você pode escrever o que está fazendo no jogo.
 
 346
+
+• Para subir o nível do "Game Time" no Discord: Você precisa ativar a opção "Exibir atividade atual como mensagem de status" nas configurações de privacidade do Discord e jogar jogos reais e verificados instalados no seu computador.
+• Para farmar horas e cartas na Steam: Se você quer acumular horas ou liberar cartas para insígnias sem precisar jogar de verdade, você deve usar programas de simulação (idlers) dedicados da Steam, como o Idle Master Extended, ASF (ArchiSteamFarm) ou o aplicativo de celular Idle Daddy. Esses programas simulam o ID do jogo diretamente nos servidores da Valve de forma segura
 # IdleDeck
 
 ## IdleDeck Como configurar o endereço do pokeidle.io
