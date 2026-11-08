@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p/pokeidle.md",
+                "file": "dailynote/2026-11-8º.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pokeidle"
+              "title": "2026-11-8º"
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "p/pokeidle.md",
+                "file": "dailynote/2026-11-8º.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -207,13 +207,15 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "76beb0e3e337ecb7",
   "lastOpenFiles": [
-    "x/x3.md",
     "p/pokeidle.md",
+    "dailynote/2026-11-8º.md",
+    "x/x3.md",
     "Pasted image 20261107210514.png",
     "Pasted image 20261107163837.png",
     "Pasted image 20261107163807.png",
