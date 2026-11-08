@@ -108,3 +108,7 @@ shiny é 3x e p5 2x status se nao me engano, entao qnd for trocar procurar por e
 ![](Pasted%20image%2020261106182615.png)![](Pasted%20image%2020261106182636.png)![](Pasted%20image%2020261106182708.png)
 
 [Vincular tutorial](https://cdn.discordapp.com/attachments/1535048393183985674/1567902961924055121/vincular-pt-master.mp4?ex=6af081ec&is=6aef306c&hm=412c8698fb5b3c1539562b87e9661ef9ef16603a14812de188a63b7352a08eac&)
+
+# Weaknesses table
+
+![](Pasted%20image%2020261107210514.png)
