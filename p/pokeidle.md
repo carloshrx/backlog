@@ -66,7 +66,8 @@ https://pokeidle-gg.pages.dev/#hunt
 # Outland
 
 - Vendendo pokemons em outland
-
+	+ se forem 3.5+ vende no rmt por 50M de coins pois vão comprar para sacrificar
+	+ 
 
 outland dropa item raro basicamente
 ai tu pode ou usar
