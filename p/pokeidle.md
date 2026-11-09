@@ -108,6 +108,13 @@ briaoale github io/precificador-pokemon/
 |    Fire Stone     |       |  93k  |
 |    Grass Stone    |       |       |
 
+# RMT gemTransfer altToMain
+
+tem q juntar um pokemon acima d 3.5 e juntar uma quantidade legal de gema na alt
+ai vc poem o pokemon pela main e compra na alt
+um preco acima doq vale o pokemon
+se alguem comprar lucro
+- justifica a venda de Boss token por gema (2) porque a gema é usada na compra do poke da main via alt
 
 # Shiny
 
