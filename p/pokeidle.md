@@ -140,9 +140,13 @@ se alguem comprar lucro
 | --- | --- |
 |     |     |
 
-# Sacrifial
+# Sacrificial Bonus nv2
 
 P3 > Menor preço > Brave/Furious/'Prefix'
+
+# Smartphone android STFU.fun
+
+
 # Shiny
 
 ruim insetos
