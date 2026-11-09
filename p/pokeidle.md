@@ -35,6 +35,9 @@ https://pokeidle.io/terms
 
 Exp Boost
 Farm Boost
+
+# Charizard AOE P5 + Bike + Pokeball to farm shinnyes
+
 # Discord activity
 
 Application ID
@@ -133,6 +136,9 @@ se alguem comprar lucro
 | --- | --- |
 |     |     |
 
+# Sacrifial
+
+P4/P5 > Menor preço > Brave
 # Shiny
 
 ruim insetos
