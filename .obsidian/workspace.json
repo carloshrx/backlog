@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p/pokeidle.md",
+                "file": "g/gunbound.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pokeidle"
+              "title": "gunbound"
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "p/pokeidle.md",
+                "file": "g/gunbound.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -213,8 +213,10 @@
   },
   "active": "76beb0e3e337ecb7",
   "lastOpenFiles": [
-    "g/gunbound.md",
+    "g/github-doc.md",
     "p/pokeidle.md",
+    "p/portfolio.md",
+    "g/gunbound.md",
     "dailynote/2026-11-9º.md",
     "a/agenda26.md",
     "f/ffx.md",
@@ -246,8 +248,6 @@
     "Pasted image 20261028171920.png",
     "dailynote/2026-10-28º.md",
     "dailynote/2026-10-27º.md",
-    "dailynote/2026-10-26º.md",
-    "s/saude-sae.md",
     "Pasted image 20261024195718.png",
     "e/Sem título.canvas",
     "img",

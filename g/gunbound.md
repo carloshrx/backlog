@@ -8,4 +8,10 @@ a cada 0,5 de vento a favor levanta 1 ângulo, a cada 0,5 de vento contra a baix
 |     | 49  |           0.5            |        |           0.5           | 51  |     |     |
 |     |     |            0             |   50   |            0            |     |     |     |
 
+calcular angulo a partir do vento
 
+vento a favor
+vento / 0.5 = angulo * (+1)
+
+vento contra
+vento / 0.5 = angulo * (-1)
