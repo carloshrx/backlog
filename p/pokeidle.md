@@ -96,18 +96,20 @@ mas não aconselho a vender tudo não, se tu quiser qualidade de vida vc vai que
 e vai querer usar os boss tokens pra dropar item de boss
 como o TM AoE que faz todo ataque do seu pokemon ser em uma area 11x11
 e como outland te da acesso a tudo isso nao tem pokemon shiny la e os pokemons nao evoluem/mega-evoluem
-
 # Precificador
 
 briaoale github io/precificador-pokemon/
-# RMT 
+# RMT item
 
 |       Item        | Gemas | Coins |
 | :---------------: | :---: | :---: |
 | Bronze Boss Token |   2   |  15m  |
+|   Cocoon Stone    |       |  22k  |
 |    Earth Stone    |       |  60k  |
 |    Fire Stone     |       |  96k  |
 |    Grass Stone    |       |       |
+|    Leaf Stone     |       |  90k  |
+|    Venom Stone    |       |  92k  |
 |    Rock Stone     |       |  82k  |
 
 # RMT gemTransfer altToMain
@@ -118,6 +120,12 @@ um preco acima doq vale o pokemon
 se alguem comprar lucro
 - justifica a venda de Boss token por gema (2) porque a gema é usada na compra do poke da main via alt
 - ==🟡o leilão só aceita pokemons com qualidade acima de 3.5==
+
+# RMT poke
+
+|     |     |
+| --- | --- |
+|     |     |
 
 # Shiny
 
