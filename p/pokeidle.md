@@ -101,16 +101,16 @@ e como outland te da acesso a tudo isso nao tem pokemon shiny la e os pokemons n
 briaoale github io/precificador-pokemon/
 # RMT item
 
-|       Item        | Gemas | Coins |
-| :---------------: | :---: | :---: |
-| Bronze Boss Token |   2   |  15m  |
-|   Cocoon Stone    |       |  22k  |
-|    Earth Stone    |       |  60k  |
-|    Fire Stone     |       |  96k  |
-|    Grass Stone    |       |       |
-|    Leaf Stone     |       |  90k  |
-|    Venom Stone    |       |  92k  |
-|    Rock Stone     |       |  82k  |
+|       Item        | Gemas |  Coins  |
+| :---------------: | :---: | :-----: |
+| Bronze Boss Token |  3-4  | 15m-20m |
+|   Cocoon Stone    |       |   22k   |
+|    Earth Stone    |       |   60k   |
+|    Fire Stone     |       |   96k   |
+|    Grass Stone    |       |         |
+|    Leaf Stone     |       |   90k   |
+|    Venom Stone    |       |   92k   |
+|    Rock Stone     |       |   82k   |
 
 # RMT gemTransfer altToMain
 
