@@ -100,6 +100,9 @@ e como outland te da acesso a tudo isso nao tem pokemon shiny la e os pokemons n
 # Precificador
 
 briaoale github io/precificador-pokemon/
+# RMT 
+
+
 # Shiny
 
 ruim insetos
