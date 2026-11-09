@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "g/gunbound.md",
+                "file": "p/pokeidle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gunbound"
+              "title": "pokeidle"
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "g/gunbound.md",
+                "file": "p/pokeidle.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -213,10 +213,10 @@
   },
   "active": "76beb0e3e337ecb7",
   "lastOpenFiles": [
+    "g/gunbound.md",
     "g/github-doc.md",
     "p/pokeidle.md",
     "p/portfolio.md",
-    "g/gunbound.md",
     "dailynote/2026-11-9º.md",
     "a/agenda26.md",
     "f/ffx.md",

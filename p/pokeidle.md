@@ -106,6 +106,10 @@ e como outland te da acesso a tudo isso nao tem pokemon shiny la e os pokemons n
 # Precificador
 
 briaoale github io/precificador-pokemon/
+
+# Reduzir nível 
+
+Opção para reduzir o nível do pokemon (por exemplo de nível 1000) para um treinar de nível 100. 
 # RMT item
 
 Consulte https://pokeidle-gg.pages.dev/#mercado
