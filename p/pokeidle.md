@@ -141,6 +141,9 @@ se alguem comprar lucro
 Lista uma Stone por gema , anuncia a pedra no global e compra
 # RMT poke
 
+- fases iniciais podem ser de preço menor para comprar;
+- focar em bosses de z-move/aoe/tm;
+
 |     |     |
 | --- | --- |
 |     |     |
