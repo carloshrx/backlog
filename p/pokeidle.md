@@ -102,6 +102,12 @@ e como outland te da acesso a tudo isso nao tem pokemon shiny la e os pokemons n
 briaoale github io/precificador-pokemon/
 # RMT 
 
+|       Item        | Gemas | Coins |
+| :---------------: | :---: | :---: |
+| Bronze Boss Token |   2   |  15m  |
+|    Fire Stone     |       |  93k  |
+|    Grass Stone    |       |       |
+
 
 # Shiny
 
