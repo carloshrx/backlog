@@ -114,16 +114,16 @@ Opção para reduzir o nível do pokemon (por exemplo de nível 1000) para um tr
 
 Consulte https://pokeidle-gg.pages.dev/#mercado
 
-|       Item        | Gemas |  Coins  |
-| :---------------: | :---: | :-----: |
-| Bronze Boss Token |  3-4  | 15m-20m |
-|   Cocoon Stone    |       |   22k   |
-|    Earth Stone    |       |   60k   |
-|    Fire Stone     |       |   96k   |
-|    Grass Stone    |       |         |
-|    Leaf Stone     |       |   90k   |
-|    Venom Stone    |       |   92k   |
-|    Rock Stone     |       |   82k   |
+|       Item        | Gemas roxas |  Coins  |
+| :---------------: | :---------: | :-----: |
+| Bronze Boss Token |     3-4     | 15m-20m |
+|   Cocoon Stone    |             |   22k   |
+|    Earth Stone    |             |   60k   |
+|    Fire Stone     |             |   96k   |
+|    Grass Stone    |             |         |
+|    Leaf Stone     |             |   90k   |
+|    Venom Stone    |             |   92k   |
+|    Rock Stone     |             |   82k   |
 
 # RMT gemTransfer altToMain
 
