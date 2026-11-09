@@ -138,7 +138,7 @@ se alguem comprar lucro
 
 # Sacrifial
 
-P4/P5 > Menor preço > Brave
+P3 > Menor preço > Brave/Furious/'Prefix'
 # Shiny
 
 ruim insetos
