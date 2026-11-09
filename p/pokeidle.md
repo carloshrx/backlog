@@ -101,6 +101,8 @@ e como outland te da acesso a tudo isso nao tem pokemon shiny la e os pokemons n
 briaoale github io/precificador-pokemon/
 # RMT item
 
+Consulte https://pokeidle-gg.pages.dev/#mercado
+
 |       Item        | Gemas |  Coins  |
 | :---------------: | :---: | :-----: |
 | Bronze Boss Token |  3-4  | 15m-20m |
