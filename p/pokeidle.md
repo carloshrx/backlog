@@ -76,15 +76,15 @@ https://pokeidle.io/?ref=K829XT8
 
 Meu código: K829XT8
 Entrei pelo código: CCTPPDP
-# Hunt
+# Hunt (site para calcular hunts)
 
 https://pokeidle-gg.pages.dev/#hunt
-
+- ==O primeiro resultado mostra a melhor média. Observe os 5 primeiros resultados para encontrar resultados específicos melhores que o primeiro no rank;==
 # Outland
 
 - Vendendo pokemons em outland
-	+ se forem 3.5=50M, 3.6=60M, 3.7=70M vende no rmt por 50M de coins pois vão comprar para sacrificar ou por 9 gemas
-	+ 
+	+ se forem 3.5=50M, 3.6=60M, 3.7=70M vende no rmt por 50M de coins pois vão comprar para sacrificar ou por 9 gemas;
+
 
 outland dropa item raro basicamente
 ai tu pode ou usar
