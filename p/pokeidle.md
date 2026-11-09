@@ -31,6 +31,10 @@ pode só colocar que é pra você a transferencia
 mas se n quiser
 https://pokeidle.io/terms
 
+# Boosts
+
+Exp Boost
+Farm Boost
 # Discord activity
 
 Application ID
