@@ -143,6 +143,8 @@ Lista uma Stone por gema , anuncia a pedra no global e compra
 
 - fases iniciais podem ser de preço menor para comprar;
 - focar em bosses de z-move/aoe/tm;
+- caçar shinnies enquanto upa;
+- no nível 5000 farmar ovo (ate ser nerfado);
 
 |     |     |
 | --- | --- |
