@@ -105,8 +105,10 @@ briaoale github io/precificador-pokemon/
 |       Item        | Gemas | Coins |
 | :---------------: | :---: | :---: |
 | Bronze Boss Token |   2   |  15m  |
-|    Fire Stone     |       |  93k  |
+|    Earth Stone    |       |  60k  |
+|    Fire Stone     |       |  96k  |
 |    Grass Stone    |       |       |
+|    Rock Stone     |       |  82k  |
 
 # RMT gemTransfer altToMain
 
@@ -115,6 +117,7 @@ ai vc poem o pokemon pela main e compra na alt
 um preco acima doq vale o pokemon
 se alguem comprar lucro
 - justifica a venda de Boss token por gema (2) porque a gema é usada na compra do poke da main via alt
+- ==🟡o leilão só aceita pokemons com qualidade acima de 3.5==
 
 # Shiny
 
