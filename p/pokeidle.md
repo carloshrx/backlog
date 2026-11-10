@@ -190,3 +190,10 @@ shiny é 3x e p5 2x status se nao me engano, entao qnd for trocar procurar por e
 # Weaknesses table
 
 ![](Pasted%20image%2020261107210514.png)
+
+# ETC
+
+main 1789 ultrapot 0h46
+alt2 3071 ultrapot 0h44
+alt3 3786 ultrapot 0h46
+alt4 2829 ultrapot 0h45
