@@ -155,6 +155,10 @@ Lista uma Stone por gema , anuncia a pedra no global e compra
 
 P3 > Menor preço > Brave/Furious/'Prefix'
 
+# Safari
+
+Tem que pegar um Boss Token que a chance é 1 a cada 2.000, depois tem que matar um Boss nível 3100+ 5 pokémons com 0,75% de chance de ganhar 1 Safari Ticket.
+Lá você pode pegar qualquer pokémon do jogo não sendo mítico/lendário, apenas.
 # Smartphone android STFU.fun
 
 
