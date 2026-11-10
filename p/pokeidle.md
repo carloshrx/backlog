@@ -199,6 +199,6 @@ shiny é 3x e p5 2x status se nao me engano, entao qnd for trocar procurar por e
 # ETC
 
 main 1789 ultrapot 0h46 0610 2h13 90/1179
-alt2 3071 ultrapot 0h44 3446 2h11 90/
-alt3 3786 ultrapot 0h46 3445 2h11 90/
-alt4 2829 ultrapot 0h45 1788 2h11 90/
+alt2 3071 ultrapot 0h44 3446 2h11 90/341
+alt3 3786 ultrapot 0h46 3445 2h11 90/341
+alt4 2829 ultrapot 0h45 1788 2h11 90/1041
