@@ -20,6 +20,10 @@ tomberrypkidle@gmail.com
 Quimera4
 chocobomixpkidle@gmail.com
 @{pkidle}yMo89KSYCD
+
+## idledeck vínculo
+
+RP11-2DZ8
 ## kick
 
 pkidle.champions@gmail.com
