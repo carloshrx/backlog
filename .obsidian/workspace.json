@@ -207,14 +207,13 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "76beb0e3e337ecb7",
   "lastOpenFiles": [
-    "p/pokeidle.md",
     "dailynote/2026-11-10º.md",
+    "p/pokeidle.md",
     "a/admin-condominio.md",
     "a/agenda26.md",
     "a/admin-balanço.md",
