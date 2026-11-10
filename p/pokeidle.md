@@ -88,6 +88,10 @@ Entrei pelo código: CCTPPDP
 
 https://pokeidle-gg.pages.dev/#hunt
 - ==O primeiro resultado mostra a melhor média. Observe os 5 primeiros resultados para encontrar resultados específicos melhores que o primeiro no rank;==
+
+# Megaevolução
+
+ingame clica em wiki (ultima opção da barra de menu superior) e rola pra baixo, tem uma seção O Mundo e subseção Mega Evolução (11ª)
 # Outland
 
 - Vendendo pokemons em outland
