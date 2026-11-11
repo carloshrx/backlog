@@ -59,6 +59,7 @@ quanto antes voce trocar o teu inicial melhor, mas n adianta trocar por um poke 
 
 ![](Pasted%20image%2020261111152426.png)
 ![](Pasted%20image%2020261111152450.png)
+![](Pasted%20image%2020261111152721.png)
 # Binance
 
 pode só colocar que é pra você a transferencia
