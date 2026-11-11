@@ -66,9 +66,11 @@ quanto antes voce trocar o teu inicial melhor, mas n adianta trocar por um poke 
 pode só colocar que é pra você a transferencia
 mas se n quiser
 https://pokeidle.io/terms
-
 e gema via usdt solana
+![](Pasted%20image%2020261111153514.png)
+
 # Boosts
+
 
 Exp Boost
 Farm Boost
