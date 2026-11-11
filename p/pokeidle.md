@@ -12,6 +12,7 @@ pkidlechampions@gmail.com
 Quimera2
 dinonixpkidle@gmail.com
 @{pkidle}xMv77WVYKL
+twitch: dinonixpkidle
 ### pkidle.io c3
 Quimera3
 tomberrypkidle@gmail.com
