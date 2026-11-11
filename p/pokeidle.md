@@ -117,6 +117,7 @@ Entrei pelo código: CCTPPDP
 # Hunt (site para calcular hunts)
 
 https://pokeidle-gg.pages.dev/#hunt
+
 - ==O primeiro resultado mostra a melhor média. Observe os 5 primeiros resultados para encontrar resultados específicos melhores que o primeiro no rank;==
 
 # Megaevolução
