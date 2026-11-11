@@ -47,7 +47,7 @@ RP11-2DZ8
 pkidle.champions@gmail.com
 @{pkidle}xMv55WV30L
 
-# AOE + P5/shinny + bike + xp/h + shinny hunt
+# AOE + P5/shinny + bike + xp/h + casa + shinny hunt 
 
 ![](Pasted%20image%2020261111022110.png)
 ![](Pasted%20image%2020261111022746.png)
