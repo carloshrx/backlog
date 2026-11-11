@@ -56,6 +56,9 @@ pkidle.champions@gmail.com
 quanto antes voce trocar o teu inicial melhor, mas n adianta trocar por um poke que tu vai ter que trocar de novo daqui 300/400 lvls
 
 ![](Pasted%20image%2020261111025659.png)
+
+![](Pasted%20image%2020261111152426.png)
+![](Pasted%20image%2020261111152450.png)
 # Binance
 
 pode só colocar que é pra você a transferencia
