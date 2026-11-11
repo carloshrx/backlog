@@ -22,6 +22,11 @@ Quimera4
 chocobomixpkidle@gmail.com
 @{pkidle}yMo89KSYCD
 
+## live links twitch/kick
+
+Twitch (6)
+
+
 ## idledeck vínculo
 
 RP11-2DZ8
