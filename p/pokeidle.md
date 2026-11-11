@@ -24,14 +24,19 @@ chocobomixpkidle@gmail.com
 
 ## live links twitch/kick
 
-Twitch (6)
+Twitch
 https://www.twitch.tv/rodil
 https://www.twitch.tv/tftoddy
+https://www.twitch.tv/surskity11
+https://www.twitch.tv/clovaobengala
+https://www.twitch.tv/patopapao
 
-
-
-https://www.twitch.tv/techzz
-
+Kick 
+https://kick.com/rodil
+https://kick.com/tftoddy
+https://www.twitch.tv/surskity11
+https://www.twitch.tv/clovaobengala
+https://kick.com/patopapao2
 ## idledeck vínculo
 
 RP11-2DZ8
