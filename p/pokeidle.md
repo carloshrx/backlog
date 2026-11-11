@@ -169,7 +169,10 @@ Tem que pegar um Boss Token que a chance é 1 a cada 2.000, depois tem que matar
 Lá você pode pegar qualquer pokémon do jogo não sendo mítico/lendário, apenas.
 # Smartphone android STFU.fun
 
+# Sniper
 
+[sniper](https://chromewebstore.google.com/detail/rotom-sniper-assistente-p/olccbpdjdkbfgondiiaicmlifhbcggmk?authuser=0&hl=pt-BR)
+necessário logar no navegador para funcionar
 # Shiny
 
 ruim insetos
