@@ -25,7 +25,12 @@ chocobomixpkidle@gmail.com
 ## live links twitch/kick
 
 Twitch (6)
+https://www.twitch.tv/rodil
+https://www.twitch.tv/tftoddy
 
+
+
+https://www.twitch.tv/techzz
 
 ## idledeck vínculo
 
