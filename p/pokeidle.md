@@ -39,6 +39,7 @@ https://kick.com/tftoddy
 https://www.twitch.tv/surskity11
 https://www.twitch.tv/clovaobengala
 https://kick.com/patopapao2
+
 ## idledeck vínculo
 
 RP11-2DZ8
