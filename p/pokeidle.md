@@ -8,16 +8,17 @@ pkidle.champions@gmail.com
 ==Para login no pokeidle.io use sem o ponto==
 pkidlechampions@gmail.com
 @{pkidle}xMv55WV30L
+twitch/kick: pkidlechampions
 ### pkidle.io c2
 Quimera2
 dinonixpkidle@gmail.com
 @{pkidle}xMv77WVYKL
-twitch: dinonixpkidle
+twitch/kick: dinonixpkidle
 ### pkidle.io c3
 Quimera3
 tomberrypkidle@gmail.com
 @{pkidle}aMc89WVYKL
-twitch: tomberrypkidle
+twitch/kick: tomberrypkidle
 ### pkidle.io c4 
 Quimera4
 chocobomixpkidle@gmail.com
