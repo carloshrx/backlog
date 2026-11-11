@@ -17,6 +17,7 @@ twitch: dinonixpkidle
 Quimera3
 tomberrypkidle@gmail.com
 @{pkidle}aMc89WVYKL
+twitch: tomberrypkidle
 ### pkidle.io c4 
 Quimera4
 chocobomixpkidle@gmail.com
