@@ -97,11 +97,23 @@ Configure o CustomRP:• Baixe e instale o programa CustomRP.
 • Para farmar horas e cartas na Steam: Se você quer acumular horas ou liberar cartas para insígnias sem precisar jogar de verdade, você deve usar programas de simulação (idlers) dedicados da Steam, como o Idle Master Extended, ASF (ArchiSteamFarm) ou o aplicativo de celular Idle Daddy. Esses programas simulam o ID do jogo diretamente nos servidores da Valve de forma segura
 # IdleDeck
 
-## IdleDeck Como configurar o endereço do pokeidle.io
+## Atualizações
+
+### 12/11/2026
+
+==🔴Ctrl+Tab entre contas==, lives mais leves e menos processador
+Ctrl+Tab passa para a próxima conta e Ctrl+Shift+Tab volta para a anterior, como as abas de um navegador (também com o jogo em foco).
+Lives: a Twitch e a Kick ficam em abas separadas na janela das lives, cada conta pode abrir mais lives (ou "Sem limite") e você escolhe a qualidade em que elas abrem, até 160p, para gastar menos internet (Configurações › Contas e jogos).
+Para quem cria extensões: com o "Modo desenvolvedor" ligado na janela de extensões, dá para carregar a pasta de uma extensão numa conta e testar antes de publicar numa loja (ela passa pela mesma análise de risco).
+Otimizar a conta não tira mais você do jogo: os jogos que pediam o login de novo depois de otimizar agora continuam logados.
+Vincular o computador à sua conta não esbarra mais em "este computador está vinculado a outra conta" quando o PC é outro (como em computadores com o Windows copiado de outra máquina).
+Na versão da Microsoft Store, o Windows não pede mais para liberar o IdleDeck no Firewall a cada atualização.
+O IdleDeck usa menos processador com contas em que a página fica parada (tela de login, jogos de texto, redes sociais) e com o modo econômico ligado, que agora vale também para a conta selecionada na visão Painel.
+## Como configurar o endereço do pokeidle.io
 
 ![](Pasted%20image%2020261107163807.png)![](Pasted%20image%2020261107163837.png)
 
-## IdleDeck Convite TFToddy
+## Convite TFToddy
 
 /resgatar NB32RE8DLM
 link para usar no idle deck
