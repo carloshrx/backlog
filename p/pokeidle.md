@@ -154,7 +154,7 @@ briaoale github io/precificador-pokemon/
 
 # Prioridade (meta)
 
-sua prioridade é bike -> poke bom (p5 ou shiny) -> aoe -> casa
+sua prioridade é bike -> poke bom (p5 ou shiny) -> aoe -> casa -> pvp
 # Reduzir nível 
 
 Opção para reduzir o nível do pokemon (por exemplo de nível 1000) para um treinar de nível 100. 
