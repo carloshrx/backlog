@@ -186,7 +186,9 @@ Consulte https://pokeidle-gg.pages.dev/#mercado
 |    Leaf Stone     |             |   90k   |
 |    Venom Stone    |             |   92k   |
 |    Rock Stone     |             |   82k   |
+# RMT Coin to Gem
 
+![](Pasted%20image%2020261112193720.png)
 # RMT gemTransfer altToMain
 
 ## Metodo 1
