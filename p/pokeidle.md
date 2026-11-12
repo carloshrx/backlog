@@ -71,9 +71,10 @@ e gema via usdt solana
 
 # Boosts
 
+# Casa
 
-Exp Boost
-Farm Boost
+tu só vai querer uma casa nivel 2k+
+sua prioridade é bike -> poke bom (p5 ou shiny) -> aoe -> casa
 
 # Charizard AOE P5 + Bike + Pokeball to farm shinnyes
 
@@ -151,6 +152,9 @@ e como outland te da acesso a tudo isso nao tem pokemon shiny la e os pokemons n
 
 briaoale github io/precificador-pokemon/
 
+# Prioridade (meta)
+
+sua prioridade é bike -> poke bom (p5 ou shiny) -> aoe -> casa
 # Reduzir nível 
 
 Opção para reduzir o nível do pokemon (por exemplo de nível 1000) para um treinar de nível 100. 
