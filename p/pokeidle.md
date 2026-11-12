@@ -68,7 +68,8 @@ mas se n quiser
 https://pokeidle.io/terms
 e gema via usdt solana
 ![](Pasted%20image%2020261111153514.png)
-
+![](Pasted%20image%2020261112180920.png)
+![](Pasted%20image%2020261112180943.png)
 # Boosts
 
 # Casa
