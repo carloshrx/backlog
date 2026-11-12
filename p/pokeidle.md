@@ -109,6 +109,7 @@ Otimizar a conta não tira mais você do jogo: os jogos que pediam o login de no
 Vincular o computador à sua conta não esbarra mais em "este computador está vinculado a outra conta" quando o PC é outro (como em computadores com o Windows copiado de outra máquina).
 Na versão da Microsoft Store, o Windows não pede mais para liberar o IdleDeck no Firewall a cada atualização.
 O IdleDeck usa menos processador com contas em que a página fica parada (tela de login, jogos de texto, redes sociais) e com o modo econômico ligado, que agora vale também para a conta selecionada na visão Painel.
+![](Pasted%20image%2020261112170741.png)
 ## Como configurar o endereço do pokeidle.io
 
 ![](Pasted%20image%2020261107163807.png)![](Pasted%20image%2020261107163837.png)
