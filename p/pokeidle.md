@@ -307,9 +307,9 @@ mega gardevoir
 linha de frente:
 
 corpo a corpo
-mega kanghaskan / mega chesnaught!
-mega swampert (meio)
-mega audino / 
+mega kanghaskan / ==🔴mega chesnaught==! (ataques grass e fighting)
+==🟠mega swampert== (meio)
+mega audino / mega scrafty (ataques dark e fighting)
 
 exploud?
 
