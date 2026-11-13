@@ -286,4 +286,8 @@ alt4 2829 ultrapot 0h45 1788 2h11 90/1041 - 681 min (das 2h40 até 14h) gastam 7
 
 # Meus pokes preferidos
 
-Mega Mawile apesar de corpo a corpo e fraco a fire/ground consegue lidar muito bem com boa parte da tipagem do meta ice fighting rock dragon dark fairy.
+Linha de frente
+
+Mega Clefairy
+
+
