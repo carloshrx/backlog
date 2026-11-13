@@ -2,8 +2,7 @@
 
 pkidle.champions@gmail.com
 @{pkidle}xMv55WV30L
-
-# Itens
+# Item table
 
 - Até 3 itens por pokemon
 - Dois componentes no mesmo pokemon se combinam sozinhos: o combinado mantém os atributos deles e soma seu efeito.
@@ -19,3 +18,8 @@ pkidle.champions@gmail.com
 | Carbos<br>+8% atkspd   |                                  |                                                      |                                                                                                                                             |                                            |                  |                     |
 | Iron<br>+20% def       |                                  |                                                      |                                                                                                                                             |                                            |                  |                     |
 | Zinc<br>+20% sp.def    |                                  |                                                      |                                                                                                                                             |                                            |                  |                     |
+# Status condition
+
+Burn (fire):
+Paralysis (eletric):
+Poison: half-damage
