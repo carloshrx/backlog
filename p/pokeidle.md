@@ -307,9 +307,9 @@ mega gardevoir
 linha de frente:
 
 corpo a corpo
-mega kanghaskan 
+mega kanghaskan / mega chesnaught
 mega swampert (meio)
-mega audino 
+mega audino / 
 
 exploud?
 
