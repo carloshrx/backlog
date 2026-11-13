@@ -298,9 +298,16 @@ mega altaria fighting dragon dark
 
 
 Snorlax
-
+mega feraligatr
 
 mega gardevoir
+
+------------
+
+linha de frente:
+
+mega swampert
+
 
 
 
