@@ -96,6 +96,19 @@ Configure o CustomRP:• Baixe e instale o programa CustomRP.
 
 • Para subir o nível do "Game Time" no Discord: Você precisa ativar a opção "Exibir atividade atual como mensagem de status" nas configurações de privacidade do Discord e jogar jogos reais e verificados instalados no seu computador.
 • Para farmar horas e cartas na Steam: Se você quer acumular horas ou liberar cartas para insígnias sem precisar jogar de verdade, você deve usar programas de simulação (idlers) dedicados da Steam, como o Idle Master Extended, ASF (ArchiSteamFarm) ou o aplicativo de celular Idle Daddy. Esses programas simulam o ID do jogo diretamente nos servidores da Valve de forma segura
+
+## Exp100-85 pilha multiplicativa
+
+Treinador e Pokemon
+1,05 × 1,1 × 1,36 = ×1,5708
++57,1%
+Os bônus multiplicam um ao outro, não somam: cada um vale em cima do XP que os outros já deram. Por isso juntar bônus rende mais que a soma das porcentagens.
+
+Por que não +51%? Somando as porcentagens (5% + 10% + 36%) daria +51%; multiplicando (1,05 × 1,1 × 1,36) dá +57,1%.
+
+O número é o do servidor: cada abate paga o XP do selvagem × ele, e o XP/h da Sessão já sai com o bônus dentro.
+
+Os apagados não estão valendo agora — o botão de cada um leva até onde ele se liga.
 # IdleDeck
 
 ## Atualizações
