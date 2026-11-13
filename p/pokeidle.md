@@ -307,7 +307,8 @@ mega gardevoir
 linha de frente:
 
 corpo a corpo
-mega swampert
+mega kanghaskan 
+mega swampert (meio)
 
 exploud?
 
