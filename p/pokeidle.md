@@ -309,7 +309,7 @@ linha de frente:
 corpo a corpo
 mega kanghaskan / ==🔴mega chesnaught==! (ataques grass e fighting)
 ==🟠mega swampert== (meio)
-mega audino / mega scrafty (ataques dark e fighting)
+mega audino / mega scrafty (ataques dark e fighting) / ==🔴Mega Golurk==
 
 exploud?
 
