@@ -182,6 +182,8 @@ briaoale github io/precificador-pokemon/
 # Prioridade (meta)
 
 sua prioridade é bike (common +15% ==🔴rare +50%==)-> poke bom (p5 ou shiny) -> aoe -> casa -> pvp
+
+Deixa 3 contas em outland e a principal tu upa até o lvl 1000, depois tu só inverte, como a principal vai estar farmando em outland 2 quando alcançar o lvl 1000 tu consegue colocar a secundária pra upar e as outras ficam no farm e assim sucessivamente, depois tu repete o processo até o lvl 2k e assim vai.
 # Reduzir nível 
 
 Opção para reduzir o nível do pokemon (por exemplo de nível 1000) para um treinar de nível 100. 
