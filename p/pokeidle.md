@@ -309,6 +309,7 @@ linha de frente:
 corpo a corpo
 mega kanghaskan 
 mega swampert (meio)
+mega audino 
 
 exploud?
 
