@@ -18,8 +18,20 @@ pkidle.champions@gmail.com
 | Carbos<br>+8% atkspd   |                                  |                                                      |                                                                                                                                             |                                            |                  |                     |
 | Iron<br>+20% def       |                                  |                                                      |                                                                                                                                             |                                            |                  |                     |
 | Zinc<br>+20% sp.def    |                                  |                                                      |                                                                                                                                             |                                            |                  |                     |
+## Item Stack
+
+Yes: Two identical items stack their full effects
+Except Focus Sash: Saves only once. Extra copies only give their stats.
 # Status condition
 
-Burn (fire):
-Paralysis (eletric):
-Poison: half-damage
+Burn (fire): loses 50% attack (loses 50% auto-attack and attack based ability damage)
+Freezing (ice): frozen cant move (fire hit thaws it)
+Leech Seed: 
+Paralysis (eletric): -50% attack speed and 1 in 4 attacks fails (basic attack speed relation with mana regen)
+Poison (poison): half-damage
+
+## Controls (pc)
+
+D Refresh
+E Sell Unit
+F Buy XP
