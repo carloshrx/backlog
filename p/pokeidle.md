@@ -312,5 +312,8 @@ mega kanghaskan / ==🔴mega chesnaught==! (ataques grass e fighting)
 mega audino / mega scrafty (ataques dark e fighting) / ==🔴Mega Golurk==
 
 
+https://www.youtube.com/redirect?event=live_chat&redir_token=QUlxb01IWlBZNVVWR0VPcDZTVy1QTktrOGdzRXxBQnJ0NjlrSGZEeW5rS1lLSno2NXctNF9ad2N6bGRBeGUta2ZRdkhLRnRLbTlpNUtaczBpT1hhMWRCUWNMSnBGZU5XYjB0bHJBUlFWcXUwNWF1cDdDOEhpN0NtTEZ0WDVmTUYy&q=https%3A%2F%2Fwww.stonegy-online.com%2Fregister%3Fp%3D5d63cffd
 
 
+
+https://www.stonegy-online.com/register?p=5d63cffd
