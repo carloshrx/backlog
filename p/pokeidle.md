@@ -291,3 +291,7 @@ Linha de frente
 Mega Clefairy
 
 
+
+
+mega clefairy grass fighting bug dragon dark
+mega altaria fighting dragon dark
