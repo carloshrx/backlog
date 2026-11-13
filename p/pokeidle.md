@@ -298,8 +298,9 @@ mega altaria fighting dragon dark
 
 
 Snorlax
-Slaking
-Snorlax
+
+
 mega gardevoir
+
 
 
