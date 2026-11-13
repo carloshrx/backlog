@@ -30,7 +30,15 @@ Leech Seed:
 Paralysis (eletric): -50% attack speed and 1 in 4 attacks fails (basic attack speed relation with mana regen)
 Poison (poison): loses hp (toxic scales over time)
 Trapped: normal and fighting attacks being trapped
-Ground: Electric attacks (and their )
+Ground: immunity to electric attacks (and their paralysis) (?)
+Flying: immunity to ground attacks (except sandstorm) (?)
+Normal: Ghost attacks (?)
+
+# Status antitank
+
+Heal Block: -30% healing
+Shield Break: -
+Wear: -18% def -18% sp.def (razor fang and twisted spoon)
 
 ## Controls (pc)
 
