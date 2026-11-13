@@ -306,6 +306,7 @@ mega gardevoir
 
 linha de frente:
 
+corpo a corpo
 mega swampert
 
 exploud?
