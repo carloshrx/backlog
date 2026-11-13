@@ -308,6 +308,6 @@ linha de frente:
 
 mega swampert
 
-
+exploud?
 
 
