@@ -26,9 +26,11 @@ Except Focus Sash: Saves only once. Extra copies only give their stats.
 
 Burn (fire): loses 50% attack (loses 50% auto-attack and attack based ability damage)
 Freezing (ice): frozen cant move (fire hit thaws it)
-Leech Seed: 
+Leech Seed:
 Paralysis (eletric): -50% attack speed and 1 in 4 attacks fails (basic attack speed relation with mana regen)
-Poison (poison): half-damage
+Poison (poison): loses hp (toxic scales over time)
+Trapped: normal and fighting attacks being trapped
+Ground: Electric attacks (and their )
 
 ## Controls (pc)
 
