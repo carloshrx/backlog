@@ -299,3 +299,5 @@ mega altaria fighting dragon dark
 
 Snorlax
 Slaking
+Snorlax
+
