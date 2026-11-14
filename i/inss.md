@@ -21,7 +21,7 @@ https://meu.inss.gov.br/#/extrato-previdenciario?tk-categoria=Por%20Menu
 - [x] 202610-inss-boleto
 - [x] 202610-inss-comprovante
 15 de Novembro
-- [ ] 202611-inss-boleto
+- [x] 202611-inss-boleto
 - [ ] 202611-inss-comprovante
 15 de Dezembro
 - [ ] 202612-inss-boleto
