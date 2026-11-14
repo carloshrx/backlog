@@ -10,15 +10,17 @@ pkidle.champions@gmail.com
 - Everyone starts with one and gets another at 2-8 and another at 4-8.
 
 
-| x                      | Hp up<br>+10% hp | Protein<br>+12% atk | Calcium<br>+12% sp.atk | Carbos<br>+8% atkspd | Iron<br>+20% def | Zinc<br>+20% sp.def |
+|                        |                  |                     |                        |                      |                  |                     |
 | ---------------------- | ---------------- | ------------------- | ---------------------- | -------------------- | ---------------- | ------------------- |
+| x                      | Hp up<br>+10% hp | Protein<br>+12% atk | Calcium<br>+12% sp.atk | Carbos<br>+8% atkspd | Iron<br>+20% def | Zinc<br>+20% sp.def |
 | Hp up<br>+10% hp       | Left Overs       | Rocky Helmet        | Shell Bell             | Focus Sash<br><br>   | Flame Orb<br>    | Sitrus Berry<br>    |
 | Protein<br>+12% atk    | Rocky Helmet     | Choice Band         | Life Orb               |                      |                  |                     |
 | Calcium<br>+12% sp.atk | Shell Bell<br>   | Life Orb            | Choice Specs           |                      |                  |                     |
-| Carbos<br>+8% atkspd   | Focus Sash       | Scope Lens          |                        |                      |                  |                     |
-| Iron<br>+20% def       | Flame Orb<br>    | Razor Fang          |                        |                      |                  |                     |
-| Zinc<br>+20% sp.def    | Sitrus Berry     | Expert Belt         |                        |                      |                  |                     |
+| Carbos<br>+8% atkspd   | Focus Sash       | Scope Lens          | Quick Claw             |                      |                  |                     |
+| Iron<br>+20% def       | Flame Orb<br>    | Razor Fang          | Twisted Spoon          |                      |                  |                     |
+| Zinc<br>+20% sp.def    | Sitrus Berry     | Expert Belt         | LightClay              |                      |                  |                     |
 - Choice Band: +45% atk
+- Choice Scarf: +35% atkspd
 - Choice Specs: +50% sp.atk (its ability's damage, heals and shields) (?)
 - Expert Belt: +6% atk +6% sp.atk +20% sp.def ==🔴Its basic attacks use its best type: if super effective, +30% damage (never less). Its super effective abilities, +45%==
 - Flame Orb: +10% hp +20% def ==🔴Sunfire: 1 hex range enemies lose 0.3% of maxhp/s and Healblock (-30% healing)==
@@ -26,11 +28,11 @@ pkidle.champions@gmail.com
 - Left Overs +20% hp +1% hp/s
 - Life Orb: 12% atk + 12% sp.atk +15% damage (basic and ability) ==🔴Rising up to 50% the less hp it has left==
 - Quick Claw: +12% sp.atk +8% atkspd ==🔴Starts combat with +20% Energy and after using its ability, starts the next one at 8% (each Claw adds up)==
-- 
 - Razor Fang: +12% atk +20% def ==🔴Wear: -18% def and -18% sp.def==
 - Rocky Helmet +10% hp +15% def +22% AA return
 - Scope Lens: +6% atk +6% sp.atk +8% atkspd +25% crit AA (and ability if ability crits); ==🔴Crit deal x1.9==
 - Shell Bell +10% hp +6% atk +6% sp.atk ==🔴Drain: Heals 15% of direct damage dealed (aa and ability) burn and poison dont count==
+- Twisted Spoon: +12% sp.atk +20 def Enemies its ability damages lose 18% defense and Sp. Def for 4s (wear). Your whole team deals more damage.
 - Sitrus Berry +10% hp +20% sp.def ==🔴Lifeline: at 50% hp heals 20%== 
 
 ## Item Stack
