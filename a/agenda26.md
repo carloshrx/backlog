@@ -1,9 +1,10 @@
 | diário                                             | semanal                                          | mensal                                     |
 | -------------------------------------------------- | ------------------------------------------------ | ------------------------------------------ |
-| [saude-dina-medicacao](/s/saude-dina-medicacao.md) | [admin-balanço](/a/admin-balanço.md)             | [backlog-obsidian](/b/backlog-obsidian.md) |
+| [saude-dina-medicacao](/s/saude-dina-medicacao.md) | [admin-balanço](admin-balanço.md)                | [backlog-obsidian](/b/backlog-obsidian.md) |
 | [saude-prep](/s/saude-prep.md)                     | [saude-dina-receitas](/s/saude-dina-receitas.md) | [inss](/i/inss.md)                         |
 |                                                    | [tfi](/t/tfi.md)                                 | [iptu](/i/iptu.md) (6 parcelas)            |
-|                                                    | [quarto](/q/quarto.md)                           | [saude-sae](/s/saude-sae.md)               |
+|                                                    | [quarto](/q/quarto.md)                           | [saude-sae](/s/saude-sae.md)<br>           |
+|                                                    |                                                  | [admin-net](a/admin-fin/admin-net.md)      |
 
 ```dataviewjs
 const now = new Date();
@@ -19,7 +20,7 @@ dv.header(1, "Data de hoje: " + now.toLocaleString());
 6 QUI
 7 SEX
 8 SAB
-- [admin-balanço](/a/admin-balanço.md)
+- [admin-balanço](admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
 - [quarto](/l/quarto.md)
 
@@ -32,7 +33,7 @@ dv.header(1, "Data de hoje: " + now.toLocaleString());
 13 QUI
 14 SEX
 15 SAB
-- [admin-balanço](/a/admin-balanço.md)
+- [admin-balanço](admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
 - [quarto](/l/quarto.md)
 
@@ -56,9 +57,9 @@ dv.header(1, "Data de hoje: " + now.toLocaleString());
 27 QUI
 28 SEX
 - buscar exame urina ([saude-dina-itu](/s/saude-dina-itu.md))
-- [admin-bdb](/a/admin-bdb.md)
+- [admin-bdb](admin-bdb.md)
 29 SAB
-- [admin-balanço](/a/admin-balanço.md)
+- [admin-balanço](admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
 - [quarto](/l/quarto.md)
 ___
@@ -76,7 +77,7 @@ AGO 31 SEG
 4 SEX
 - 8h00 [saude-sae](/s/saude-sae.md)
 5 SAB
-- [admin-balanço](/a/admin-balanço.md)
+- [admin-balanço](admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
 - [quarto](/l/quarto.md)
 
@@ -84,16 +85,16 @@ AGO 31 SEG
 
 6 DOM
 7 SEG 
-- [admin-mercantil](/a/admin-mercantil.md)
+- [admin-mercantil](admin-mercantil.md)
 8 TER 
-- [admin-condominio](/a/admin-condominio.md)
+- [admin-condominio](admin-condominio.md)
 9 QUA
 10 QUI
 11 SEX
-- [admin-net](/a/admin-net.md)
+- [admin-net](admin-net.md)
 - [iptu](/i/iptu.md)
 12 SAB
-- [admin-balanço](/a/admin-balanço.md)
+- [admin-balanço](admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
 - [quarto](/l/quarto.md)
 
@@ -109,8 +110,8 @@ AGO 31 SEG
 - 13h trocar receita memantina (verificar quantos comprimidos tem a caixa)
 18 SEX
 19 SAB
-- [admin-ape](/a/admin-ape.md)
-- - [admin-balanço](/a/admin-balanço.md)
+- [admin-ape](admin-ape.md)
+- - [admin-balanço](admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
 - [quarto](/l/quarto.md)
 
@@ -124,7 +125,7 @@ AGO 31 SEG
 - buscar receita memantina
 25 SEX
 26 SAB
-- [admin-balanço](/a/admin-balanço.md)
+- [admin-balanço](admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
 - [quarto](/l/quarto.md)
 
@@ -132,13 +133,13 @@ AGO 31 SEG
 
 27 DOM
 28 SEG
-- [admin-bdb](/a/admin-bdb.md)
+- [admin-bdb](admin-bdb.md)
 29 TER
 30 QUA
 OUT 1 QUI
 OUT 2 SEX
 OUT 3 SAB
-- [admin-balanço](/a/admin-balanço.md)
+- [admin-balanço](admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
 - [quarto](/l/quarto.md)
 ___
@@ -152,17 +153,17 @@ ___
 7 QUA 
 - [admin-mercantil](admin-mercantil.md)
 8 QUI
-- [admin-condominio](/a/admin-condominio.md)
+- [admin-condominio](admin-condominio.md)
 9 SEX
 10 SAB
-- [admin-balanço](/a/admin-balanço.md)
+- [admin-balanço](admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
 - [quarto](/l/quarto.md)
 
 ## Outubro Semana 2
 11 DOM
 12 SEG
-- [admin-net](/a/admin-net.md)
+- [admin-net](admin-net.md)
 13 TER
 14 QUA
 - [admin-provadevida](admin-provadevida.md)
@@ -170,14 +171,14 @@ ___
 - [inss](/i/inss.md)
 16 SEX
 17 SAB
-- [admin-balanço](/a/admin-balanço.md)
+- [admin-balanço](admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
 - [quarto](/l/quarto.md)
 
 ## Outubro Semana 3
 18 DOM
 19 SEG
-- [admin-ape](/a/admin-ape.md)
+- [admin-ape](admin-ape.md)
 20 TER
 - memantina 
 21 QUA
@@ -185,7 +186,7 @@ ___
 23 SEX
 - [datas-aniversarios](/d/datas-aniversarios.md)
 24 SAB
-- [admin-balanço](/a/admin-balanço.md)
+- [admin-balanço](admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
 - [quarto](/l/quarto.md)
 25 DOM
@@ -195,11 +196,11 @@ ___
 26 SEG
 27 TER
 28 QUA
-- [admin-bdb](/a/admin-bdb.md)
+- [admin-bdb](admin-bdb.md)
 29 QUI
 30 SEX
 31 SAB
-- [admin-balanço](/a/admin-balanço.md)
+- [admin-balanço](admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
 - [quarto](/l/quarto.md)
 
@@ -214,7 +215,7 @@ ___
 5 QUI
 6 SEX
 7 SAB
-- [admin-balanço](/a/admin-balanço.md)
+- [admin-balanço](admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
 - [quarto](/l/quarto.md)
 
@@ -223,15 +224,15 @@ ___
 8 DOM
 9 SEG
 - [admin-mercantil](admin-mercantil.md)
-- [admin-condominio](/a/admin-condominio.md)
+- [admin-condominio](admin-condominio.md)
 10 TER
 11 QUA
-- [admin-net](/a/admin-net.md)
+- [admin-net](admin-net.md)
 12 QUI
 13 SEX
 - [inss](/i/inss.md)
 14 SAB
-- [admin-balanço](/a/admin-balanço.md)
+- [admin-balanço](admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
 - [quarto](/l/quarto.md)
 
@@ -242,10 +243,10 @@ ___
 17 TER
 18 QUA
 19 QUI
-- [admin-ape](/a/admin-ape.md)
+- [admin-ape](admin-ape.md)
 20 SEX
 21 SAB
-- [admin-balanço](/a/admin-balanço.md)
+- [admin-balanço](admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
 - [quarto](/l/quarto.md)
 
@@ -259,7 +260,7 @@ ___
 27 SEX 
 - consultar preço ex-sae vldrqta
 28 SAB
-- [admin-balanço](/a/admin-balanço.md)
+- [admin-balanço](admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
 - [quarto](/l/quarto.md)
 ___
@@ -268,13 +269,13 @@ ___
 
 NOV 29 DOM
 NOV 30 SEG
-- [admin-bdb](/a/admin-bdb.md)
+- [admin-bdb](admin-bdb.md)
 1 TER 
 2 QUA
 3 QUI
 4 SEX
 5 SAB
-- [admin-balanço](/a/admin-balanço.md)
+- [admin-balanço](admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
 - [quarto](/l/quarto.md)
 
@@ -285,13 +286,13 @@ NOV 30 SEG
 - [admin-mercantil](admin-mercantil.md)
 - exame [saude-sae](/s/saude-sae.md)
 8 TER
-- [admin-condominio](/a/admin-condominio.md)
+- [admin-condominio](admin-condominio.md)
 9 QUA
 10 QUI
 11 SEX
-- [admin-net](/a/admin-net.md)
+- [admin-net](admin-net.md)
 12 SAB
-- [admin-balanço](/a/admin-balanço.md)
+- [admin-balanço](admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
 - [quarto](/l/quarto.md)
 
@@ -305,8 +306,8 @@ NOV 30 SEG
 17 QUI
 18 SEX
 19 SAB
-- [admin-ape](/a/admin-ape.md)
-- [admin-balanço](/a/admin-balanço.md)
+- [admin-ape](admin-ape.md)
+- [admin-balanço](admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
 - [quarto](/l/quarto.md)
 
@@ -319,7 +320,7 @@ NOV 30 SEG
 24 QUI
 25 SEX
 26 SAB
-- [admin-balanço](/a/admin-balanço.md)
+- [admin-balanço](admin-balanço.md)
 - [backlog-obsidian](/b/backlog-obsidian.md)
 - [quarto](/l/quarto.md)
 
@@ -327,7 +328,7 @@ NOV 30 SEG
 
 27 DOM
 28 SEG
-- [admin-bdb](/a/admin-bdb.md)
+- [admin-bdb](admin-bdb.md)
 29 TER 
 30 QUA
 31 QUI
