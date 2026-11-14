@@ -20,9 +20,11 @@ pkidle.champions@gmail.com
 | Zinc<br>+20% sp.def    |                                                                                                                                             |                                                      |                                                                                                                                             |                                            |                                                                                                    |                                                                 |
 
 Focussash: +10% hp +8% atkspd
+Flameorb: +10% hp +20% def 1 hex range enemies lose 0.3% of maxhp/s and Healblock (-30% healing)
 Leftovers +20% hp +1% hp/s
 RockyHelmet +10% hp +15% def +22% AA return
 ShellBell +10% hp +6% atk +6% sp.atk Drain: Heals 15% of direct damage dealed (aa and ability) burn and poison dont count
+
 ## Item Stack
 
 Yes: Two identical items stack their full effects
