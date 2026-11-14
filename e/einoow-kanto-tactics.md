@@ -12,13 +12,15 @@ pkidle.champions@gmail.com
 
 | x                      | Hp up<br>+10% hp | Protein<br>+12% atk | Calcium<br>+12% sp.atk | Carbos<br>+8% atkspd | Iron<br>+20% def | Zinc<br>+20% sp.def |
 | ---------------------- | ---------------- | ------------------- | ---------------------- | -------------------- | ---------------- | ------------------- |
-| Hp up<br>+10% hp       | Left Overs       | Rocky Helmet        | ShellBell              | FocusSash<br><br>    | FlameOrb<br>     | Sitrusberry<br>     |
+| Hp up<br>+10% hp       | Left Overs       | Rocky Helmet        | Shell Bell             | Focus Sash<br><br>   | Flame Orb<br>    | Sitrus Berry<br>    |
 | Protein<br>+12% atk    | Rocky Helmet     | Choice Band         |                        |                      |                  |                     |
 | Calcium<br>+12% sp.atk | Shell Bell<br>   | Life Orb            |                        |                      |                  |                     |
 | Carbos<br>+8% atkspd   | Focus Sash       |                     |                        |                      |                  |                     |
 | Iron<br>+20% def       | Flame Orb<br>    |                     |                        |                      |                  |                     |
 | Zinc<br>+20% sp.def    | Sitrus Berry     |                     |                        |                      |                  |                     |
+- 
 - Choice Band: +45% atk
+- Expert Belt: +6% atk +6% sp.atk +20% sp.def ==🔴Its basic attacks use its best type: if super effective, +30% damage (never less). Its super effective abilities, +45%==
 - Flame Orb: +10% hp +20% def ==🔴Sunfire: 1 hex range enemies lose 0.3% of maxhp/s and Healblock (-30% healing)==
 - Focus Sash: +10% hp +8% atkspd ==🔴Edge of night: Survives a lethal hit with 1 hp becomes untargetable and inactive for 1s (loses aggro) is cleansed of dot effects and returns with a shield worth 10% of its hp (only works once)==
 - Left Overs +20% hp +1% hp/s
