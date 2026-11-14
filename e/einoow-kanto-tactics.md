@@ -13,18 +13,19 @@ pkidle.champions@gmail.com
 | x                      | Hp up<br>+10% hp | Protein<br>+12% atk | Calcium<br>+12% sp.atk | Carbos<br>+8% atkspd | Iron<br>+20% def | Zinc<br>+20% sp.def |
 | ---------------------- | ---------------- | ------------------- | ---------------------- | -------------------- | ---------------- | ------------------- |
 | Hp up<br>+10% hp       | Left Overs       | Rocky Helmet        | Shell Bell             | Focus Sash<br><br>   | Flame Orb<br>    | Sitrus Berry<br>    |
-| Protein<br>+12% atk    | Rocky Helmet     | Choice Band         |                        |                      |                  |                     |
-| Calcium<br>+12% sp.atk | Shell Bell<br>   | Life Orb            |                        |                      |                  |                     |
+| Protein<br>+12% atk    | Rocky Helmet     | Choice Band         | Life Orb               |                      |                  |                     |
+| Calcium<br>+12% sp.atk | Shell Bell<br>   | Life Orb            | Choice Specs           |                      |                  |                     |
 | Carbos<br>+8% atkspd   | Focus Sash       | Scope Lens          |                        |                      |                  |                     |
 | Iron<br>+20% def       | Flame Orb<br>    | Razor Fang          |                        |                      |                  |                     |
 | Zinc<br>+20% sp.def    | Sitrus Berry     | Expert Belt         |                        |                      |                  |                     |
-- 
 - Choice Band: +45% atk
+- Choice Specs: +50% sp.atk (its ability's damage, heals and shields) (?)
 - Expert Belt: +6% atk +6% sp.atk +20% sp.def ==🔴Its basic attacks use its best type: if super effective, +30% damage (never less). Its super effective abilities, +45%==
 - Flame Orb: +10% hp +20% def ==🔴Sunfire: 1 hex range enemies lose 0.3% of maxhp/s and Healblock (-30% healing)==
 - Focus Sash: +10% hp +8% atkspd ==🔴Edge of night: Survives a lethal hit with 1 hp becomes untargetable and inactive for 1s (loses aggro) is cleansed of dot effects and returns with a shield worth 10% of its hp (only works once)==
 - Left Overs +20% hp +1% hp/s
 - Life Orb: 12% atk + 12% sp.atk +15% damage (basic and ability) ==🔴Rising up to 50% the less hp it has left==
+- Quick Claw: ==🔴+12% sp.atk +8% atkspd Starts combat with +20% Energy and after using its ability, starts the next one at 8% (each Claw adds up)== 
 - Razor Fang: +12% atk +20% def ==🔴Wear: -18% def and -18% sp.def==
 - Rocky Helmet +10% hp +15% def +22% AA return
 - Scope Lens: +6% atk +6% sp.atk +8% atkspd +25% crit AA (and ability if ability crits); ==🔴Crit deal x1.9==
