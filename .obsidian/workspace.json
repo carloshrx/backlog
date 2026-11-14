@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p/pokeidle.md",
+                "file": "dailynote/2026-11-14º.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pokeidle"
+              "title": "2026-11-14º"
             }
           }
         ],
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "p/pokeidle.md",
+                "file": "dailynote/2026-11-14º.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -224,13 +224,15 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "5404ea6eca0e1227",
   "lastOpenFiles": [
-    "e/einoow-kanto-tactics.md",
     "p/pokeidle.md",
+    "dailynote/2026-11-14º.md",
+    "e/einoow-kanto-tactics.md",
     "dailynote/2026-11-13º.md",
     "p/pixel-art.md",
     "p/pratica-deliberada.md",
@@ -264,7 +266,6 @@
     "d/discord-alerts-callouts.md",
     "dailynote/2026-11-7º.md",
     "dailynote/2026-11-6º.md",
-    "dailynote/2026-11-5º.md",
     "e/Sem título.canvas",
     "img",
     "img",
