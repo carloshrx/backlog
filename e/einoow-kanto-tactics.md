@@ -10,20 +10,21 @@ pkidle.champions@gmail.com
 - Everyone starts with one and gets another at 2-8 and another at 4-8.
 
 
-| x                      | Hp up<br>+10% hp                                                                                                                            | Protein<br>+12% atk                                  | Calcium<br>+12% sp.atk                                                                                                                      | Carbos<br>+8% atkspd                       | Iron<br>+20% def                                                                                   | Zinc<br>+20% sp.def                                             |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| Hp up<br>+10% hp       | Leftovers<br>+20% hp<br>+1% hp/s                                                                                                            | RockyHelmet<br>+10% hp<br>+15% def<br>+22% aa return | ShellBell<br>+10% hp<br>+6% atk<br>+6% sp.atk<br>Drain: Heals 15% of direct<br>damage dealed (aa and ability)<br>burn and poison dont count | FocusSash<br>+10% hp<br>+8% atkspd<br><br> | FlameOrb<br>+10% hp<br>+20% def<br>1 hex range<br>enemies lose<br>0.3% of maxhp/s<br>and Healblock | Sitrusberry<br>+10% hp<br>+20% sp.def<br>at 50% hp<br>heals 20% |
-| Protein<br>+12% atk    | RockyHelmet                                                                                                                                 |                                                      |                                                                                                                                             |                                            |                                                                                                    |                                                                 |
-| Calcium<br>+12% sp.atk | ShellBell<br>+10% hp<br>+6% atk<br>+6% sp.atk<br>Drain: Heals 15% of direct<br>damage dealed (aa and ability)<br>burn and poison dont count |                                                      |                                                                                                                                             |                                            |                                                                                                    |                                                                 |
-| Carbos<br>+8% atkspd   |                                                                                                                                             |                                                      |                                                                                                                                             |                                            |                                                                                                    |                                                                 |
-| Iron<br>+20% def       | FlameOrb<br>+10% hp<br>+20% def<br>1 hex range<br>enemies lose<br>0.3% of maxhp/s<br>and Healblock                                          |                                                      |                                                                                                                                             |                                            |                                                                                                    |                                                                 |
-| Zinc<br>+20% sp.def    |                                                                                                                                             |                                                      |                                                                                                                                             |                                            |                                                                                                    |                                                                 |
-
-Focussash: +10% hp +8% atkspd
-Flameorb: +10% hp +20% def 1 hex range enemies lose 0.3% of maxhp/s and Healblock (-30% healing)
+| x                      | Hp up<br>+10% hp | Protein<br>+12% atk | Calcium<br>+12% sp.atk | Carbos<br>+8% atkspd | Iron<br>+20% def | Zinc<br>+20% sp.def |
+| ---------------------- | ---------------- | ------------------- | ---------------------- | -------------------- | ---------------- | ------------------- |
+| Hp up<br>+10% hp       | Leftovers        | RockyHelmet         | ShellBell              | FocusSash<br><br>    | FlameOrb<br>     | Sitrusberry<br>     |
+| Protein<br>+12% atk    | RockyHelmet      | Choiceband          |                        |                      |                  |                     |
+| Calcium<br>+12% sp.atk | ShellBell<br>    |                     |                        |                      |                  |                     |
+| Carbos<br>+8% atkspd   | FocusSash        |                     |                        |                      |                  |                     |
+| Iron<br>+20% def       | FlameOrb<br>     |                     |                        |                      |                  |                     |
+| Zinc<br>+20% sp.def    | Sitrusberry      |                     |                        |                      |                  |                     |
+Choiceband: +45% atk
+Flameorb: +10% hp +20% def ==🔴Sunfire: 1 hex range enemies lose 0.3% of maxhp/s and Healblock (-30% healing)==
+Focussash: +10% hp +8% atkspd 
 Leftovers +20% hp +1% hp/s
 RockyHelmet +10% hp +15% def +22% AA return
-ShellBell +10% hp +6% atk +6% sp.atk Drain: Heals 15% of direct damage dealed (aa and ability) burn and poison dont count
+ShellBell +10% hp +6% atk +6% sp.atk ==🔴Drain: Heals 15% of direct damage dealed (aa and ability) burn and poison dont count==
+Sitrusberry +10% hp +20% sp.def ==🔴Lifeline: at 50% hp heals 20%== 
 
 ## Item Stack
 
