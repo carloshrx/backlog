@@ -18,13 +18,13 @@ pkidle.champions@gmail.com
 | Carbos<br>+8% atkspd   | FocusSash        |                     |                        |                      |                  |                     |
 | Iron<br>+20% def       | FlameOrb<br>     |                     |                        |                      |                  |                     |
 | Zinc<br>+20% sp.def    | Sitrusberry      |                     |                        |                      |                  |                     |
-Choiceband: +45% atk
-Flameorb: +10% hp +20% def ==🔴Sunfire: 1 hex range enemies lose 0.3% of maxhp/s and Healblock (-30% healing)==
-Focussash: +10% hp +8% atkspd 
-Leftovers +20% hp +1% hp/s
-RockyHelmet +10% hp +15% def +22% AA return
-ShellBell +10% hp +6% atk +6% sp.atk ==🔴Drain: Heals 15% of direct damage dealed (aa and ability) burn and poison dont count==
-Sitrusberry +10% hp +20% sp.def ==🔴Lifeline: at 50% hp heals 20%== 
+- Choiceband: +45% atk
+- Flameorb: +10% hp +20% def ==🔴Sunfire: 1 hex range enemies lose 0.3% of maxhp/s and Healblock (-30% healing)==
+- Focussash: +10% hp +8% atkspd ==🔴Edge of night: Survives a lethal hit with 1 hp becomes untargetable and inactive for 1s (loses aggro) is cleansed of dot effects and returns with a shield worth 10% of its hp (only works once)==
+- Leftovers +20% hp +1% hp/s
+- RockyHelmet +10% hp +15% def +22% AA return
+- ShellBell +10% hp +6% atk +6% sp.atk ==🔴Drain: Heals 15% of direct damage dealed (aa and ability) burn and poison dont count==
+- Sitrusberry +10% hp +20% sp.def ==🔴Lifeline: at 50% hp heals 20%== 
 
 ## Item Stack
 
