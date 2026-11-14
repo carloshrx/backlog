@@ -18,15 +18,16 @@ pkidle.champions@gmail.com
 | Carbos<br>+8% atkspd   | Focus Sash       |                     |                        |                      |                  |                     |
 | Iron<br>+20% def       | Flame Orb<br>    |                     |                        |                      |                  |                     |
 | Zinc<br>+20% sp.def    | Sitrus Berry     |                     |                        |                      |                  |                     |
-- Choiceband: +45% atk
-- Flameorb: +10% hp +20% def ==🔴Sunfire: 1 hex range enemies lose 0.3% of maxhp/s and Healblock (-30% healing)==
-- Focussash: +10% hp +8% atkspd ==🔴Edge of night: Survives a lethal hit with 1 hp becomes untargetable and inactive for 1s (loses aggro) is cleansed of dot effects and returns with a shield worth 10% of its hp (only works once)==
-- Leftovers +20% hp +1% hp/s
+- Choice Band: +45% atk
+- Flame Orb: +10% hp +20% def ==🔴Sunfire: 1 hex range enemies lose 0.3% of maxhp/s and Healblock (-30% healing)==
+- Focus Sash: +10% hp +8% atkspd ==🔴Edge of night: Survives a lethal hit with 1 hp becomes untargetable and inactive for 1s (loses aggro) is cleansed of dot effects and returns with a shield worth 10% of its hp (only works once)==
+- Left Overs +20% hp +1% hp/s
 - Life Orb: 12% atk + 12% sp.atk +15% damage (basic and ability) ==🔴Rising up to 50% the less hp it has left==
-- RockyHelmet +10% hp +15% def +22% AA return
+- Razor 
+- Rocky Helmet +10% hp +15% def +22% AA return
 - Scope Lens: +6% atk +6% sp.atk +8% atkspd +25% crit AA (and ability if ability crits); ==🔴Crit deal x1.9==
-- ShellBell +10% hp +6% atk +6% sp.atk ==🔴Drain: Heals 15% of direct damage dealed (aa and ability) burn and poison dont count==
-- Sitrusberry +10% hp +20% sp.def ==🔴Lifeline: at 50% hp heals 20%== 
+- Shell Bell +10% hp +6% atk +6% sp.atk ==🔴Drain: Heals 15% of direct damage dealed (aa and ability) burn and poison dont count==
+- Sitrus Berry +10% hp +20% sp.def ==🔴Lifeline: at 50% hp heals 20%== 
 
 ## Item Stack
 
