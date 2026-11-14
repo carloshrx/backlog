@@ -25,7 +25,8 @@ pkidle.champions@gmail.com
 - Focus Sash: +10% hp +8% atkspd ==🔴Edge of night: Survives a lethal hit with 1 hp becomes untargetable and inactive for 1s (loses aggro) is cleansed of dot effects and returns with a shield worth 10% of its hp (only works once)==
 - Left Overs +20% hp +1% hp/s
 - Life Orb: 12% atk + 12% sp.atk +15% damage (basic and ability) ==🔴Rising up to 50% the less hp it has left==
-- Quick Claw: ==🔴+12% sp.atk +8% atkspd Starts combat with +20% Energy and after using its ability, starts the next one at 8% (each Claw adds up)== 
+- Quick Claw: +12% sp.atk +8% atkspd ==🔴Starts combat with +20% Energy and after using its ability, starts the next one at 8% (each Claw adds up)==
+- 
 - Razor Fang: +12% atk +20% def ==🔴Wear: -18% def and -18% sp.def==
 - Rocky Helmet +10% hp +15% def +22% AA return
 - Scope Lens: +6% atk +6% sp.atk +8% atkspd +25% crit AA (and ability if ability crits); ==🔴Crit deal x1.9==
