@@ -15,9 +15,9 @@ pkidle.champions@gmail.com
 | Hp up<br>+10% hp       | Left Overs       | Rocky Helmet        | Shell Bell             | Focus Sash<br><br>   | Flame Orb<br>    | Sitrus Berry<br>    |
 | Protein<br>+12% atk    | Rocky Helmet     | Choice Band         |                        |                      |                  |                     |
 | Calcium<br>+12% sp.atk | Shell Bell<br>   | Life Orb            |                        |                      |                  |                     |
-| Carbos<br>+8% atkspd   | Focus Sash       |                     |                        |                      |                  |                     |
-| Iron<br>+20% def       | Flame Orb<br>    |                     |                        |                      |                  |                     |
-| Zinc<br>+20% sp.def    | Sitrus Berry     |                     |                        |                      |                  |                     |
+| Carbos<br>+8% atkspd   | Focus Sash       | Scope Lens          |                        |                      |                  |                     |
+| Iron<br>+20% def       | Flame Orb<br>    | Razor Fang          |                        |                      |                  |                     |
+| Zinc<br>+20% sp.def    | Sitrus Berry     | Expert Belt         |                        |                      |                  |                     |
 - 
 - Choice Band: +45% atk
 - Expert Belt: +6% atk +6% sp.atk +20% sp.def ==🔴Its basic attacks use its best type: if super effective, +30% damage (never less). Its super effective abilities, +45%==
