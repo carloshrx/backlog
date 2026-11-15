@@ -333,4 +333,4 @@ Mega Aggron ou Steelix (esquerda) ou ==🔴Mega Camerupt== ou ==🟠Mega Emboar=
 Mega Venusaur ou ==🔴Mega Meganium== ou Chesnaught 
 
 Mega Mawile ou Mega Frosslass
-Mega Glalie ou Mega Sceptile
+Mega Glalie ou Mega Sceptile ou Mega houndoum
