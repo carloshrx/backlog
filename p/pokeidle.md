@@ -69,6 +69,8 @@ https://pokeidle.io/terms
 e gema via usdt solana
 
 a transação vai demorar no minimo vinte minutos dos dois lados
+Nao adianta dar refresh na pag, é so clicar em deposito dnv q insta cai
+
 
 ![](Pasted%20image%2020261111153514.png)
 ![](Pasted%20image%2020261112180920.png)
