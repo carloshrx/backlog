@@ -67,6 +67,9 @@ pode só colocar que é pra você a transferencia
 mas se n quiser
 https://pokeidle.io/terms
 e gema via usdt solana
+
+a transação vai demorar no minimo vinte minutos dos dois lados
+
 ![](Pasted%20image%2020261111153514.png)
 ![](Pasted%20image%2020261112180920.png)
 ![](Pasted%20image%2020261112180943.png)
