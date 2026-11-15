@@ -328,9 +328,9 @@ https://www.stonegy-online.com/register?p=5d63cffd
 ------------
 atualizado
 
-Mega Aggron ou Steelix (esquerda)
-Mega Swampert (meio)
-Mega Venusaur ou Chesnaught 
+Mega Aggron ou Steelix (esquerda) ou ==🔴Mega Camerupt==
+==🔴Mega Swampert== (meio)
+Mega Venusaur ou ==🔴Mega Meganium== ou Chesnaught 
 
-Mega Mawile
-Mega Glalie
+Mega Mawile ou Mega Blaziken
+Mega Glalie ou Mega Sceptile
