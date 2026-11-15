@@ -324,3 +324,13 @@ https://www.youtube.com/redirect?event=live_chat&redir_token=QUlxb01IWlBZNVVWR0V
 
 
 https://www.stonegy-online.com/register?p=5d63cffd
+
+------------
+atualizado
+
+Mega Aggron ou Steelix (esquerda)
+Mega Swampert (meio)
+Mega Venusaur ou Chesnaught 
+
+Mega Mawile
+Mega Glalie
