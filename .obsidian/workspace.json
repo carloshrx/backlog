@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p/pokeidle.md",
+                "file": "t/thelastflame.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pokeidle"
+              "title": "thelastflame"
             }
           }
         ],
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "p/pokeidle.md",
+                "file": "t/thelastflame.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -230,10 +230,11 @@
   },
   "active": "897b503254ed6e54",
   "lastOpenFiles": [
+    "p/pokeidle.md",
+    "t/thelastflame.md",
     "i/inss.md",
     "dailynote/2026-11-16º.md",
     "a/aniimo.md",
-    "p/pokeidle.md",
     "x/x3.md",
     "dailynote/2026-11-15º.md",
     "dailynote/2026-11-14º.md",
@@ -266,7 +267,6 @@
     "a/admin-fin/admin-balanço.md",
     "g/gunbound.md",
     "g/github-doc.md",
-    "dailynote/2026-11-9º.md",
     "e/Sem título.canvas",
     "img",
     "img",
