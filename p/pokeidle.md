@@ -328,7 +328,7 @@ https://www.stonegy-online.com/register?p=5d63cffd
 ------------
 atualizado
 
-Mega Aggron ou Steelix (esquerda) ou ==🔴Mega Camerupt== ou ==🟠Mega Emboar==
+Mega Aggron ou Steelix (esquerda) ou ==🔴Mega Camerupt== ou ==🟠Mega Emboar== ou ==🔵Hisuian Arcanine==
 ==🔴Mega Swampert== (meio)
 Mega Venusaur ou ==🔴Mega Meganium== ou Chesnaught 
 
