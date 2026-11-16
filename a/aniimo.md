@@ -57,3 +57,4 @@ https://aniidex.com/homeland/layout-codes/europe/1737/
 ## Saved Layouts
 
 eggAltar EM835WLP
+Grid de madeira ou Y como na imagem (cobertura?)
