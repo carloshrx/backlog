@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "n/Sem título.md",
+                "file": "n/nubank-mae.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "nubank-mae"
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "n/Sem título.md",
+                "file": "n/nubank-mae.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -214,7 +214,7 @@
   "active": "897b503254ed6e54",
   "lastOpenFiles": [
     "dailynote/2026-11-17º.md",
-    "n/Sem título.md",
+    "n/nubank-mae.md",
     "t/thelastflame.md",
     "p/pokeidle.md",
     "i/inss.md",
