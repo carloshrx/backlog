@@ -82,6 +82,12 @@ Nao adianta dar refresh na pag, é so clicar em deposito dnv q insta cai
 tu só vai querer uma casa nivel 2k+
 sua prioridade é bike -> poke bom (p5 ou shiny) -> aoe -> casa
 
+# Compras e melhores filtros
+
+- RMT > Tipo Escolha o tipo > Filtrar por maior qualidade > ordenar por menor preço
+- Digite o nome do pokemon na barrinha de pesquisa
+- Refresh
+
 # Charizard AOE P5 + Bike + Pokeball to farm shinnyes
 
 # Discord activity
