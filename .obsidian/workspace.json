@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "p/pokeidle.md",
+                "file": "x/x3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pokeidle"
+              "title": "x3"
             }
           }
         ]
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "p/pokeidle.md",
+                "file": "x/x3.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -207,15 +207,14 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "897b503254ed6e54",
   "lastOpenFiles": [
+    "p/pokeidle.md",
     "f/fallenstore.md",
     "a/agenda26.md",
-    "p/pokeidle.md",
     "x/x3.md",
     "n/nubank-mae.md",
     "dailynote/2026-11-17º.md",
