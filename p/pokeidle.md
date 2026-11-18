@@ -257,6 +257,22 @@ insano meta com ponto bom
 
 todos podem ser vendidos por gemas
 
+# Updates
+## 17/11/2026 v1.436.0 
+
+Shield do Novato
+ - Quem tem: todo treinador abaixo do nível do Boost dos Atrasados de hoje (a mediana dos veteranos, recalculada todo dia à 00:00 de Brasília; em 17/11, nível 1.160), com ou sem o boost comprado. Chegou ao nível? O Shield acaba.
+- Na hunt: o selvagem do tipo do dia aguentava 4× mais golpes e batia o dobro; contra quem tem o Shield, ele fica como num dia comum. Os seus pokemon do tipo seguem 2× mais fortes. Só nas hunts do Mapa, como o Dia Sazonal.
+- Onde ver: quem está no Shield vê um escudinho dourado no canto do ícone do dia, ao lado das lupas. Tocando no ícone, aparece o aviso "Shield do Novato ativo", com o nível do alvo e o seu. O "Como funciona" e a Wiki explicam a regra.
+- 4 Pokemon com hunt: Unown (Johto, Nv 230), Skitty (Hoenn, Nv 500), Ferroseed (Unova, Nv 5.000) e Spritzee (Kalos, Nv 10.000) estavam sem como obter — agora têm hunt no mapa da região e entram no sorteio do Ovo.
+Kick mais barata: o bônus de +15% de XP custa 200 pontos do canal por hora (era 300): 3 h por 600, 5 h por 1.000 e 10 h por 2.000. O Capture Boost, o Secret Lure e a Twitch não mudam.
+- Depósito e Saque: vídeo novo de como depositar e sacar, e o endereço (e o pedido de saque) só aparece depois de marcar a declaração de que você leu as informações e assistiu ao vídeo.
+- Guerra de Guilds: a 3ª cabeça de chave volta a nascer numa ponta da arena (nascia no centro), e as quatro regiões do chaveamento saem do mesmo tamanho.
+- Bosses: o resumo do automático que atravessa as 18:00 lista os prêmios de antes e de depois da virada.
+- Mercado: o Osso do Sacrifício não aparece mais como tipo ICE.
+- Rede compartilhada: segue o limite de 4 contas por rede, e a equipe não libera mais rede (Termos de Uso, seção 5).
+- Diamante: os textos do Showdown e do Top Catch agora dizem certo — diamante não se anuncia no Mercado, nem o comprado nem o de prêmio.
+Perdeu a novidade anterior? A de 16/11 (As 40 Outlands, o Osso do Sacrifício e mais) está na seta ‹, aqui embaixo.
 # Stats
 
 É a primeira opção dentro do canal do discord do pokemon idle 
