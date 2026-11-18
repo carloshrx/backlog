@@ -263,6 +263,19 @@ insano meta com ponto bom
 
 todos podem ser vendidos por gemas
 
+# Shiny hunt/Shiny set de captura
+
+Buffs
+- Tipo do dia (opcional)
+- Catch buff (obg)
+- Shinny lure (obg)
+- VIP (obg)
+
+Compras
+- beast ball
+
+Custo
+- 
 # Updates
 ## 17/11/2026 v1.436.0 
 
