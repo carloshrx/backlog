@@ -374,3 +374,8 @@ Mega Glalie ou Mega Sceptile ou Mega houndoum
 
 https://www.smogon.com/dex/sm/formats/ou/
 
+mega-skarmory
+mega-tyran
+mega-aggron
+
+
