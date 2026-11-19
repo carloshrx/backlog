@@ -1,4 +1,7 @@
 https://pokeidle.io/app
+
+# ==Vote no idledeck.io (ingame)==
+
 # Acc
 
 ## Idledeck 1 (main) + 3
