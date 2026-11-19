@@ -378,12 +378,12 @@ mega-skarmory
 mega-tyran
 mega-aggron
 
-- Mega-slowbro status DEF (esq)
-- Mega-steelix status DEF (ultra-alto) (dir)
+- Mega-slowbro status DEF (esq) ==🔴Mega-snorlax (dir)== 
+- ==🟠Mega-steelix status DEF (ultra-alto) (esq)==
 - Mega-venosaur equilibrado (meio)
 
 
 - Mega-Swampert status equilibrado atacante fisico
 
-- Mega-Gardevoir
-- Mega-Gallade
+- ==🔴Mega-Gardevoir (dir)==
+- ==🟢Mega-Gallade (esq)==
