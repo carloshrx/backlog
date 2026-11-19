@@ -372,3 +372,5 @@ Mega Glalie ou Mega Sceptile ou Mega houndoum
 
 ## Overused Smogon
 
+https://www.smogon.com/dex/sm/formats/ou/
+
