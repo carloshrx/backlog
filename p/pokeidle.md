@@ -379,5 +379,7 @@ mega-tyran
 mega-aggron
 
 - Mega-slowbro status DEF
+- Mega-steelix status DEF (ultra-alto)
+
 
 - Mega-Swampert status equilibrado atacante fisico
