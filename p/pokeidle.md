@@ -369,3 +369,6 @@ Mega Venusaur ou ==🔴Mega Meganium== ou Chesnaught
 
 Mega Mawile ou Mega Frosslass ou Mega Gengar ou Mega Manectric
 Mega Glalie ou Mega Sceptile ou Mega houndoum
+
+## Overused Smogon
+
