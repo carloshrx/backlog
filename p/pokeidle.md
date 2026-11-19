@@ -378,8 +378,9 @@ mega-skarmory
 mega-tyran
 mega-aggron
 
-- Mega-slowbro status DEF
-- Mega-steelix status DEF (ultra-alto)
+- Mega-slowbro status DEF (esq)
+- Mega-steelix status DEF (ultra-alto) (dir)
+- Mega-venosaur equilibrado (meio)
 
 
 - Mega-Swampert status equilibrado atacante fisico
