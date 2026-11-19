@@ -2,6 +2,10 @@ https://pokeidle.io/app
 
 # ==Vote no idledeck.io (ingame)==
 
+1. clique na conta dentro do idledeck > símbolo de votar no painel vertical ingame;
+2. logue com o email da conta do passo 1;
+3. após contabilizar o voto faça o logout;
+4. repita para todas as contas;
 # Acc
 
 ## Idledeck 1 (main) + 3
