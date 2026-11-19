@@ -378,4 +378,6 @@ mega-skarmory
 mega-tyran
 mega-aggron
 
+- Mega-slowbro status DEF
 
+- Mega-Swampert status equilibrado atacante fisico
