@@ -384,3 +384,6 @@ mega-aggron
 
 
 - Mega-Swampert status equilibrado atacante fisico
+
+- Mega-Gardevoir
+- Mega-Gallade
