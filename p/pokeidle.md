@@ -394,3 +394,4 @@ mega-aggron
 
 - ==🔴Mega-Gardevoir (dir)==
 - ==🟢Mega-Gallade (esq)==
+![](Pasted%20image%2020261120231927.png)
