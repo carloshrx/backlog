@@ -24,7 +24,7 @@ e. como essas pessoas mudam com o resultado que voce produz?
 
 # Coleção de respostas 26
 
-## 20260910 Mansão dos esqueletos (+1)
+## 20260910 Mansão dos esqueletos
 
 Vou relacionar as definições de proposito para não me perder no todo: sinonimos de proposito: plano, intuição, desígnio, finalidade, intenção, algo, aplicação, destinação, destino, efeito, escopo, expectativa, fito, intento. Antonimos de proposito: desproposito, descomedimento, absurdo, desatino, imprudencia.
 
@@ -52,7 +52,7 @@ Significado de proposito:
 
 (IV) Abraçar a minúscula esperança de mudança que existe em mim.
 
-## 20260911 Moeda Infernal (+1)
+## 20260911 Moeda Infernal
 
 Vamos pensar que a cada falha, a cada tropeço, a cada escrutinio, a cada decisão que leva a desolação e fracasso, um clima infernal de tortura se instala e uma moeda, vamos chamar de moeda infernal, é criada para representar aquele traumatico negativo-tecelante infortunio. A moeda então que representa todo o torpor negativo seria gasta quando uma situação espelho-contraria, le-se aqui, construção positiva, prova-se que seria possível alcançar a redenção por meio do esforço inabalavel imbuído de proposito.
 
@@ -74,7 +74,7 @@ d.) O que essas pessoas querem, desejam ou precisam? Das poucas que me propus aj
 
 e.) Como essas pessoas mudam com o resultado que voce produz? Gostaria, com todo coração de chegar na parte em que produzo resultados.
 
-## 20260916 4 Pilares por Mabel C. Dias (transcrição) (+3)
+## 20260916 4 Pilares por Mabel C. Dias (transcrição)
 
 A tese central da ideia é se voce quer ter resultados na vida voce precisa trabalhar mais em si mesmo do que no seu trabalho. O sucesso não é algo que se persegue, atinge e fim. O sucesso é um estado de consciência. Sim, um estado de consciencia. E esse estado de consciencia se atinge mudando a qualidade da sua vibração pessoal. 
 
@@ -192,7 +192,7 @@ e. como essas pessoas mudam com o resultado que voce produz?
 
 Não acreditando em mim ou me qualificando como um "jogador velho e jovem desempregado". São títulos faceis de concluir e interpretar para quem não entende o caminho que eu devo percorrer e percorri em fracasso. Todo o cenário só mudaria com os frutos de uma ascenção rápida e aquisição de bens materiais/capital financeiro.
 
-## 20260921 Luz do pino do gpt (+1)
+## 20260921 Luz do pino do gpt
 
 Com a ajuda do chat gpt consegui encontrar uma coleção interessante de proposição. Em particular, algumas, me chamam a atenção enquanto outras quase chegam na neutralidade. Primeiro sobre uma nova coleção de perguntas que podem fazer parte de um novo modelo com orientação distinta com melhor adaptação ao meu contexto atual.
 
@@ -210,15 +210,5 @@ A seguinte me chamou a atenção:
 
 O tom anticlimático que parte de um pressuposto negativo me faz perceber que com a devida ação implicíta que habita no signficado semântico da palavra encontrar (logo, para encontrar algo, é preciso procurar, e procurar é uma ação) seria possível no melhor cenário inverter o balanço semântico na frase para a polaridade positiva. Ainda que no final o leitor passe por uma percepção decadente ou triste da negatividade da partícula "não" é possível perceber que, em uma segunda leitura, há uma sugestão de jornada de provação no mínimo heroíca aqui.
 
-## 20260921 Síntese Mabel (completar)
-
-## 20260924 Bem vindo ao inferno - parte 1
-
-A proposta ==próximo-resistencia-oquefiz-resistencia== é a partícula menor que deve me acompanhar durante toda a jornada no trono de gelo. Lembrar de todas as vezes que minha emoção foi suprimida a zero dentro da nevoa bestial que se propagava até tocar meus ossos, cercado por criaturas que adoravam o oblívio, ainda que com vínculo familiar, cultuavam um futuro distópico e dissonante com base em um passado errante. Os frutos do acaso arremessados como alguem arremessa uma garrafa com uma carta ao alto mar e espera que ela chegue em alguem do outro lado, e na melhor das hipoteses, a pessoa abre e le, ou na pior, nem liga. Considero o nome adequado.
-
-E já que eu adiei por anos enfrentar todos os meus demonios feitos de puro gelo com competencia até aqui, também posso decidir querer ter que enfrentá-los já que, cedo ou tarde, não vou ter outra escolha. Sim, uma hora os 35, 40 anos vão bater a porta e eu ali, sentado em trono esplendido, paralisado por presenças que eu teria que, obrigatoriamente, como homem, dominar um a um até que tornem meus aliados durante o inferno infinito e, quem sabe, de horas em horas, encontrar lugares seguros dentro do caos branco. Novos locais, novas criaturas, novos sons, novas condições. Mas no fundo, eu sentado em gelo profundo, tudo continua igual com mudanças em menor ou menor grau.
-
-E já que estou em uma situação tão degradante, deveria então, abraçar minha adversidade e fazer da dor que me paralisa a fonte para que eu encontre a resistencia dentro do coração para não paralisar mais.
-
-Tudo no final parece um conto de fada escrito por uma mente gótica que jogou world of warcraft demais. Hoje estou em condições extremamente desfaforaveis (sem emprego, sem perspectiva e com pouca vontade ou quase nenhuma de estudar, sair do lugar). A negociação comigo mesmo, na maioria das vezes, falha no ponto de ruptura onde meu eu destruído toma por mim, todas as decisões. E, eu, no primeiro passo positivo, deveria registrar, para lembrar, onde posso começar minha força.
+## 
 
