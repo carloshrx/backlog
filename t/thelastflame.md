@@ -9,9 +9,9 @@ Leeam                 (atirador)                Critical Strike Chance
 Rose (healer)           Spell Power
 
 
-|     |     |
-| --- | --- |
-|     |     |
+|        |     |
+| ------ | --- |
+| Atreos |     |
 
 
 # Sinergies
