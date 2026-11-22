@@ -1,4 +1,5 @@
 # Building
+## Bleed
 
 Naka                  (tank)                    Attack Speed / HP
 Khiro                 (lutador1)                Attack Damage
@@ -8,10 +9,14 @@ Leeam                 (atirador)                Critical Strike Chance
 
 Rose (healer)           Spell Power
 
+## Fire
 
-|        |     |
-| ------ | --- |
-| Atreos |     |
+|        | tank     |
+| ------ | -------- |
+| Atreos | fighter1 |
+|        | fighter2 |
+| Magmis | apc      |
+| Blake  | adc      |
 
 
 # Sinergies
