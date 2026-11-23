@@ -11,12 +11,12 @@ Rose (healer)           Spell Power
 
 ## Fire
 
-|        | tank     |               |
-| ------ | -------- | ------------- |
-| Atreos | fighter1 |               |
-|        | fighter2 |               |
-| Magmis | apc      | Spell Power   |
-| Blake  | adc      | Attack Damage |
+|        | tank     |                            |
+| ------ | -------- | -------------------------- |
+| Atreos | fighter1 |                            |
+| Eagar  | fighter2 | Spell Power / Attack Speed |
+| Magmis | apc      | Spell Power                |
+| Blake  | adc      | Attack Damage              |
 
 
 
