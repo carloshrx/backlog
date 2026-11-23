@@ -1,11 +1,11 @@
 # Building
 ## Bleed
 
-Naka                  (tank)                    Attack Speed / HP
+Naka>cachorros        (tank)                    HP
 Khiro                 (lutador1)                Attack Damage
-Gerald>Dos cachorros  (lutador2)                Critical Strike Chance
-Alec >                (Mage)                    Spell Power + Max Mana
-Leeam                 (atirador)                Critical Strike Chance
+Nox                   (lutador2)                Critical Strike Damage
+Gerald                (Mage)                    Critical Strike Chance
+Leeam                 (atirador)                Attack Speed
 
 Rose (healer)           Spell Power
 
