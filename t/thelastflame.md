@@ -1,11 +1,11 @@
 # Building
 ## Bleed
 
-Naka       (tank)                    HP
+Naka                  (tank)                    HP/
 Khiro                 (lutador1)                Attack Damage
 Nox                   (lutador2)                Critical Strike Damage
-Gerald                (suport)                    Critical Strike Chance
-Okar                  (atirador)                 Critical Strike Chance
+Gerald                (suport)                  Critical Strike Chance
+Okar                  (atirador)                Critical Strike Chance
 
 Rose (healer)           Spell Power
 
