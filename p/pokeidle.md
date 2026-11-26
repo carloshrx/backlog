@@ -302,7 +302,8 @@ Perdeu a novidade anterior? A de 16/11 (As 40 Outlands, o Osso do Sacrifício e 
 
 # Update Passives 500
 
-Leavanny, Simisage, Cradily, 
+ Cradily, Vileplume, Leavanny, Simisage
+ 
 # Stats
 
 É a primeira opção dentro do canal do discord do pokemon idle 
