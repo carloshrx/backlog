@@ -299,6 +299,10 @@ Kick mais barata: o bônus de +15% de XP custa 200 pontos do canal por hora (era
 - Rede compartilhada: segue o limite de 4 contas por rede, e a equipe não libera mais rede (Termos de Uso, seção 5).
 - Diamante: os textos do Showdown e do Top Catch agora dizem certo — diamante não se anuncia no Mercado, nem o comprado nem o de prêmio.
 Perdeu a novidade anterior? A de 16/11 (As 40 Outlands, o Osso do Sacrifício e mais) está na seta ‹, aqui embaixo.
+
+# Update Passives 500
+
+Leavanny, Simisage, Cradily, 
 # Stats
 
 É a primeira opção dentro do canal do discord do pokemon idle 
