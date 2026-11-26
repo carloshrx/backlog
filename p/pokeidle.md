@@ -302,7 +302,7 @@ Perdeu a novidade anterior? A de 16/11 (As 40 Outlands, o Osso do Sacrifício e 
 
 # Update Passives 500
 
- Cradily, Vileplume, Leavanny, Simisage
+ Cradily, Vileplume, Ludicolo, Shiftry, 
  
 # Stats
 
